@@ -1,0 +1,395 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (España)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00797979,&H00797979,0,0,0,0,100,100,0,0,1,1,1,7,0040,0020,0050,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Tre_NoShad,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H008E2BD8,&H008D365A,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Times New Roman,18,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,0,0,0,0,100,100,0,0,1,0,1,8,0020,0020,0020,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,3,0035,0038,0070,1
+Style: Cart_SeeYou,Trebuchet MS,20,&H00E145E2,&H000000FF,&H00FFE4FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,1
+Style: Cart_NextTitle,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00929597,&H005C6D79,0,0,0,0,100,100,0,0,1,0,1,2,0040,0020,0050,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.20,0:00:24.25,Gen_Main,,0000,0000,0000,,La comida estaba estupenda.
+Dialogue: 0,0:00:24.92,0:00:27.96,Gen_Main,,0000,0000,0000,,Gracias por invitarme, Yoshida.
+Dialogue: 0,0:00:32.26,0:00:34.49,Gen_Main,,0000,0000,0000,,Oye, Gotou…
+Dialogue: 0,0:00:38.64,0:00:41.35,Gen_Main,,0000,0000,0000,,¿te apetece que vayamos a mi casa?
+Dialogue: 0,0:00:46.31,0:00:50.52,Gen_Main,,0000,0000,0000,,Lo siento. No lo he mencionado\Nen la oficina,
+Dialogue: 0,0:00:50.90,0:00:53.51,Gen_Main,,0000,0000,0000,,pero tengo novio.
+Dialogue: 0,0:00:56.07,0:00:59.32,Gen_Italics,,0000,0000,0000,,Y así, me rompió el corazón.
+Dialogue: 0,0:01:03.91,0:01:09.07,Gen_Main,,0000,0000,0000,,¡Si tienes novio,\Ndilo desde un principio!
+Dialogue: 0,0:01:08.92,0:01:13.92,Cart_TitleEp,,0000,0000,0000,,{\fad(482,472)}La adolescente bajo la farola
+Dialogue: 0,0:01:09.25,0:01:11.55,Gen_Main,,0000,0000,0000,,Oye, Yoshida, no grites.
+Dialogue: 0,0:01:11.71,0:01:14.63,Gen_Main,,0000,0000,0000,,Disculpen, parece que ha bebido de más.
+Dialogue: 0,0:01:15.22,0:01:17.21,Gen_Main,,0000,0000,0000,,Vamos, cálmate.
+Dialogue: 0,0:01:17.38,0:01:21.94,Gen_Main,,0000,0000,0000,,¡Idiota, ¿acaso crees que mi ira\Nse aplacará como si nada?!
+Dialogue: 0,0:01:23.02,0:01:27.18,Gen_Main,,0000,0000,0000,,Me llamas de repente y es para\Nquejarte porque te han dado calabazas.
+Dialogue: 0,0:01:27.35,0:01:31.32,Gen_Main,,0000,0000,0000,,¡Joder! ¡Dijo que lleva\Ncinco años con el tío ese!
+Dialogue: 0,0:01:31.48,0:01:32.76,Gen_Main,,0000,0000,0000,,¡Me la ha colado!
+Dialogue: 0,0:01:32.94,0:01:35.34,Gen_Main,,0000,0000,0000,,¡Devuélveme mi corazón enamorado!
+Dialogue: 0,0:01:37.11,0:01:38.68,Gen_Main,,0000,0000,0000,,¡Marchando otra cerveza!
+Dialogue: 0,0:01:38.82,0:01:40.20,Gen_Main,,0000,0000,0000,,Ya has bebido suficiente.
+Dialogue: 0,0:01:40.37,0:01:42.92,Gen_Main,,0000,0000,0000,,¿Y qué? Mañana tengo el día libre.
+Dialogue: 0,0:01:44.90,0:01:47.13,Gen_Main,,0000,0000,0000,,Yo volveré a casa con el último tren.
+Dialogue: 0,0:01:47.29,0:01:48.75,Gen_Main,,0000,0000,0000,,Mi esposa me espera.
+Dialogue: 0,0:01:48.92,0:01:51.21,Gen_Main,,0000,0000,0000,,¡Ya lo sé!
+Dialogue: 0,0:01:55.55,0:01:58.34,Gen_Main,,0000,0000,0000,,Me cago en ti, Gotou…
+Dialogue: 0,0:02:23.33,0:02:25.16,Gen_Main,,0000,0000,0000,,Oye, muchacha.
+Dialogue: 0,0:02:28.00,0:02:30.70,Gen_Main,,0000,0000,0000,,¿Qué haces aquí a estas horas?
+Dialogue: 0,0:02:30.88,0:02:32.42,Gen_Main,,0000,0000,0000,,Vete a tu casa.
+Dialogue: 0,0:02:32.59,0:02:34.39,Gen_Main,,0000,0000,0000,,Ya han cerrado la estación.
+Dialogue: 0,0:02:35.05,0:02:36.97,Gen_Main,,0000,0000,0000,,¿Piensas pasar la noche ahí?
+Dialogue: 0,0:02:37.63,0:02:39.72,Gen_Main,,0000,0000,0000,,Me moriría de frío.
+Dialogue: 0,0:02:39.88,0:02:41.43,Gen_Main,,0000,0000,0000,,¿Y qué vas a hacer?
+Dialogue: 0,0:02:51.31,0:02:52.86,Gen_Main,,0000,0000,0000,,Déjame ir a tu casa, señor.
+Dialogue: 0,0:02:54.06,0:02:55.08,Gen_Main,,0000,0000,0000,,¿"Señor"?
+Dialogue: 0,0:02:55.69,0:03:00.98,Gen_Main,,0000,0000,0000,,¡Oye! ¿Qué clase de adolescente se queda\Nen casa de un tío que ni conoce?
+Dialogue: 0,0:03:02.24,0:03:04.58,Gen_Main,,0000,0000,0000,,Es que no tengo a dónde ir esta noche.
+Dialogue: 0,0:03:04.95,0:03:08.75,Gen_Main,,0000,0000,0000,,Hay karaokes y cibercafés\Ncerca de la estación.
+Dialogue: 0,0:03:08.91,0:03:10.04,Gen_Main,,0000,0000,0000,,No tengo dinero.
+Dialogue: 0,0:03:10.46,0:03:13.82,Gen_Main,,0000,0000,0000,,¿Y por eso debo dejar\Nque te acoples gratis en mi casa?
+Dialogue: 0,0:03:14.00,0:03:15.83,Gen_Main,,0000,0000,0000,,Ah, ya lo pillo.
+Dialogue: 0,0:03:17.67,0:03:20.06,Gen_Main,,0000,0000,0000,,Me acostaré contigo,\Nasí que déjame quedarme.
+Dialogue: 0,0:03:22.22,0:03:25.37,Gen_Italics,,0000,0000,0000,,¿Así son las estudiantes de hoy en día?
+Dialogue: 0,0:03:26.10,0:03:28.72,Gen_Italics,,0000,0000,0000,,No, ni de broma.
+Dialogue: 0,0:03:29.81,0:03:31.44,Gen_Italics,,0000,0000,0000,,¡Es ella, que es rara!
+Dialogue: 0,0:03:32.27,0:03:34.62,Gen_Main,,0000,0000,0000,,¡No digas esas cosas ni en broma!
+Dialogue: 0,0:03:34.77,0:03:37.12,Gen_Main,,0000,0000,0000,,No es broma. Hablo en serio.
+Dialogue: 0,0:03:37.27,0:03:39.31,Gen_Main,,0000,0000,0000,,Pues yo paso.
+Dialogue: 0,0:03:39.49,0:03:41.66,Gen_Main,,0000,0000,0000,,No voy a acostarme con una mocosa.
+Dialogue: 0,0:03:43.61,0:03:44.66,Gen_Main,,0000,0000,0000,,Entonces…
+Dialogue: 0,0:03:45.41,0:03:46.87,Gen_Main,,0000,0000,0000,,¡deja que me quede gratis!
+Dialogue: 0,0:03:52.67,0:03:54.50,Gen_Main,,0000,0000,0000,,Con permiso.
+Dialogue: 0,0:03:56.62,0:04:00.09,Gen_Main,,0000,0000,0000,,-Qué sucio está.\N-¿Qué hombre solo tiene limpia la casa?
+Dialogue: 0,0:04:00.63,0:04:02.05,Gen_Main,,0000,0000,0000,,Algunos sí eran limpios.
+Dialogue: 0,0:04:03.52,0:04:04.61,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:04:04.89,0:04:06.07,Gen_Main,,0000,0000,0000,,No, nada…
+Dialogue: 0,0:04:06.51,0:04:08.20,Gen_Italics,,0000,0000,0000,,No te metas.
+Dialogue: 0,0:04:08.35,0:04:13.19,Gen_Italics,,0000,0000,0000,,Da lo mismo la vida que lleve\No cómo ha ido a parar aquí.
+Dialogue: 0,0:04:13.35,0:04:15.05,Gen_Italics,,0000,0000,0000,,No es asunto mío.
+Dialogue: 0,0:04:16.52,0:04:19.43,Gen_Italics,,0000,0000,0000,,La echaré en cuanto amanezca,\Neso es todo.
+Dialogue: 0,0:04:23.57,0:04:24.65,Gen_Main,,0000,0000,0000,,¿Vas a dormir?
+Dialogue: 0,0:04:25.78,0:04:27.50,Gen_Main,,0000,0000,0000,,Tú haz lo que quieras.
+Dialogue: 0,0:04:36.50,0:04:38.97,Gen_Main,,0000,0000,0000,,Oye, ¿seguro que no quieres hacerlo?
+Dialogue: 0,0:04:39.38,0:04:41.50,Gen_Main,,0000,0000,0000,,No me hagas repetir las cosas.
+Dialogue: 0,0:04:41.73,0:04:43.72,Gen_Main,,0000,0000,0000,,No me gustan las mocosas.
+Dialogue: 0,0:04:46.93,0:04:48.51,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:04:51.43,0:04:53.77,Gen_Main,,0000,0000,0000,,¿Hay algo más que quieras que haga?
+Dialogue: 0,0:04:55.14,0:04:56.15,Gen_Main,,0000,0000,0000,,Sopa de miso.
+Dialogue: 0,0:04:57.60,0:05:01.35,Gen_Main,,0000,0000,0000,,Quiero comer… sopa de miso…
+Dialogue: 0,0:05:02.11,0:05:04.41,Gen_Main,,0000,0000,0000,,hecha por una… chica…
+Dialogue: 0,0:05:28.18,0:05:30.73,Gen_Main,,0000,0000,0000,,¡Mierda, que llego tar…!
+Dialogue: 0,0:05:33.05,0:05:35.40,Gen_Main,,0000,0000,0000,,Ah, si es domingo.
+Dialogue: 0,0:05:37.02,0:05:38.15,Gen_Main,,0000,0000,0000,,¿Qué es este olor?
+Dialogue: 0,0:05:38.31,0:05:40.58,Gen_Main,,0000,0000,0000,,Oh, al fin despiertas.
+Dialogue: 0,0:05:40.78,0:05:41.86,Gen_Main,,0000,0000,0000,,¡Buenos días!
+Dialogue: 0,0:05:43.61,0:05:45.13,Gen_Main,,0000,0000,0000,,¡¿Quién narices eres tú?!
+Dialogue: 0,0:05:45.28,0:05:49.20,Gen_Main,,0000,0000,0000,,No sé bien cómo responder a eso.\NDigamos que una adolescente normal.
+Dialogue: 0,0:05:49.62,0:05:52.01,Gen_Main,,0000,0000,0000,,¿Y qué hace una adolescente en mi casa?
+Dialogue: 0,0:05:52.28,0:05:54.76,Gen_Main,,0000,0000,0000,,Te pedí que me dejaras\Nquedarme y aceptaste.
+Dialogue: 0,0:05:55.66,0:05:57.08,Gen_Main,,0000,0000,0000,,¡¿Quién ha dicho eso?!
+Dialogue: 0,0:05:57.82,0:05:59.04,Gen_Main,,0000,0000,0000,,Pues, tú, señor.
+Dialogue: 0,0:05:59.21,0:06:01.24,Gen_Main,,0000,0000,0000,,No me trates de señor.
+Dialogue: 0,0:06:01.42,0:06:03.53,Gen_Main,,0000,0000,0000,,Es lo que eres. Qué gracioso.
+Dialogue: 0,0:06:07.55,0:06:10.07,Gen_Main,,0000,0000,0000,,Oye, por cierto…
+Dialogue: 0,0:06:10.22,0:06:14.26,Gen_Main,,0000,0000,0000,,no me propasé contigo, ¿no?
+Dialogue: 0,0:06:23.82,0:06:25.74,Gen_Main,,0000,0000,0000,,Qué va.
+Dialogue: 0,0:06:25.90,0:06:28.81,Gen_Main,,0000,0000,0000,,Perdona, quería gastarte una broma.
+Dialogue: 0,0:06:28.99,0:06:30.20,Gen_Main,,0000,0000,0000,,Eres una…
+Dialogue: 0,0:06:30.36,0:06:33.70,Gen_Main,,0000,0000,0000,,No dejabas de decir que no lo harías\Ncon una mocosa.
+Dialogue: 0,0:06:34.70,0:06:36.91,Gen_Italics,,0000,0000,0000,,Bien hecho, mi yo de anoche.
+Dialogue: 0,0:06:37.33,0:06:41.18,Gen_Main,,0000,0000,0000,,Y cuando te pregunté\Nsi querías que hiciera algo más…
+Dialogue: 0,0:06:45.09,0:06:46.21,Gen_Main,,0000,0000,0000,,¿Sopa de miso?
+Dialogue: 0,0:06:46.38,0:06:47.60,Gen_Main,,0000,0000,0000,,La he hecho yo.
+Dialogue: 0,0:06:47.76,0:06:50.60,Gen_Main,,0000,0000,0000,,No hagas sopa de miso en una casa ajena.
+Dialogue: 0,0:06:52.22,0:06:53.93,Gen_Main,,0000,0000,0000,,¿Por qué suspiras así?
+Dialogue: 0,0:06:54.47,0:06:56.96,Gen_Main,,0000,0000,0000,,Tú me dijiste que la preparara, viejo.
+Dialogue: 0,0:06:57.14,0:06:58.75,Gen_Main,,0000,0000,0000,,Deja de llamarme así.
+Dialogue: 0,0:06:58.89,0:07:02.60,Gen_Main,,0000,0000,0000,,Entonces, ¿cómo\Nquieres que te llame? Dime.
+Dialogue: 0,0:07:03.77,0:07:07.11,Gen_Main,,0000,0000,0000,,Da lo mismo cómo me llames,\Ndate el piro de una vez.
+Dialogue: 0,0:07:07.28,0:07:09.64,Gen_Main,,0000,0000,0000,,¿De verdad no recuerdas nada?
+Dialogue: 0,0:07:09.82,0:07:14.32,Gen_Main,,0000,0000,0000,,Anoche estaba sentada bajo una farola\Ny tú me hablaste.
+Dialogue: 0,0:07:14.49,0:07:17.51,Gen_Main,,0000,0000,0000,,¿Anoche? ¿Una farola?
+Dialogue: 0,0:07:26.50,0:07:27.69,Gen_Main,,0000,0000,0000,,¿Ya te acuerdas?
+Dialogue: 0,0:07:27.84,0:07:31.16,Gen_Main,,0000,0000,0000,,-La de las bragas negras.\N-¿De eso te acuerdas?
+Dialogue: 0,0:07:31.34,0:07:32.76,Gen_Main,,0000,0000,0000,,Eres lo peor.
+Dialogue: 0,0:07:32.93,0:07:34.36,Gen_Main,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:07:35.22,0:07:36.28,Gen_Main,,0000,0000,0000,,Oye, viejo…
+Dialogue: 0,0:07:36.43,0:07:37.64,Gen_Main,,0000,0000,0000,,Te he dicho que…
+Dialogue: 0,0:07:37.81,0:07:39.18,Gen_Main,,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:07:40.93,0:07:42.10,Gen_Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:42.27,0:07:43.54,Gen_Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:44.69,0:07:48.52,Gen_Main,,0000,0000,0000,,Te pega. Tienes cara de Yoshida.
+Dialogue: 0,0:07:48.69,0:07:49.84,Gen_Main,,0000,0000,0000,,¿Qué significa eso?
+Dialogue: 0,0:07:49.99,0:07:51.82,Gen_Main,,0000,0000,0000,,En fin, tómate la sopa.
+Dialogue: 0,0:07:51.99,0:07:53.07,Gen_Main,,0000,0000,0000,,Luego hablamos.
+Dialogue: 0,0:07:53.24,0:07:54.78,Gen_Main,,0000,0000,0000,,¿Por qué me mangoneas?
+Dialogue: 0,0:07:59.54,0:08:01.21,Gen_Main,,0000,0000,0000,,Come antes de que se enfríe.
+Dialogue: 0,0:08:06.73,0:08:07.75,Gen_Main,,0000,0000,0000,,Qué rica.
+Dialogue: 0,0:08:10.67,0:08:13.55,Gen_Main,,0000,0000,0000,,Apuesto que querías\Nque Gotou te la preparara.
+Dialogue: 0,0:08:13.72,0:08:15.45,Gen_Main,,0000,0000,0000,,¡¿Cómo sabes eso?!
+Dialogue: 0,0:08:15.64,0:08:19.02,Gen_Main,,0000,0000,0000,,Anoche te rechazó, ¿no?\NLo dijiste mientras dormías.
+Dialogue: 0,0:08:24.57,0:08:25.65,Gen_Main,,0000,0000,0000,,Oye…
+Dialogue: 0,0:08:27.73,0:08:29.61,Gen_Main,,0000,0000,0000,,¿quieres que te consuele?
+Dialogue: 0,0:08:37.70,0:08:40.29,Gen_Main,,0000,0000,0000,,Te he dicho que cortes con eso.
+Dialogue: 0,0:08:40.76,0:08:42.46,Gen_Main,,0000,0000,0000,,No eres sincero contigo mismo.
+Dialogue: 0,0:08:42.66,0:08:43.66,Gen_Main,,0000,0000,0000,,Idiota.
+Dialogue: 0,0:08:43.87,0:08:49.78,Gen_Main,,0000,0000,0000,,No soy tan triste como para necesitar\Nque una mocosa plana me consuele.
+Dialogue: 0,0:08:52.42,0:08:56.47,Gen_Main,,0000,0000,0000,,Pues yo creo que tengo\Nunas buenas tetas.
+Dialogue: 0,0:08:58.47,0:09:02.40,Gen_Main,,0000,0000,0000,,Bueno, quizás lo sean\Npara una adolescente.
+Dialogue: 0,0:09:02.60,0:09:04.18,Gen_Main,,0000,0000,0000,,Pero las de Gotou son mejores.
+Dialogue: 0,0:09:05.14,0:09:06.70,Gen_Main,,0000,0000,0000,,¿Ah, sí?
+Dialogue: 0,0:09:06.88,0:09:08.15,Gen_Main,,0000,0000,0000,,¿Qué copa tiene?
+Dialogue: 0,0:09:08.56,0:09:11.93,Gen_Main,,0000,0000,0000,,No lo sé, pero creo que una F.
+Dialogue: 0,0:09:12.08,0:09:14.17,Gen_Main,,0000,0000,0000,,Pues la misma que tengo yo.
+Dialogue: 0,0:09:14.32,0:09:17.11,Gen_Main,,0000,0000,0000,,-¡¿Qué?! ¡¿Esas son F?!\N-Sí.
+Dialogue: 0,0:09:17.28,0:09:21.08,Gen_Main,,0000,0000,0000,,Si son más grandes que las mías,\Nquizás sea copa G o H.
+Dialogue: 0,0:09:21.62,0:09:23.43,Gen_Main,,0000,0000,0000,,Copa H…
+Dialogue: 0,0:09:24.00,0:09:25.22,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:09:25.37,0:09:26.57,Gen_Main,,0000,0000,0000,,Copa H.
+Dialogue: 0,0:09:27.42,0:09:31.84,Gen_Italics,,0000,0000,0000,,Me habría gustado meter la cara entre\Nesas copas H al menos una vez.
+Dialogue: 0,0:09:32.00,0:09:34.97,Gen_Main,,0000,0000,0000,,Pero, en vez de unas copas H\Nque no puedes tocar,
+Dialogue: 0,0:09:35.13,0:09:37.42,Gen_Main,,0000,0000,0000,,¿no son mejores unas F que sí?
+Dialogue: 0,0:09:38.93,0:09:43.77,Gen_Main,,0000,0000,0000,,Oye, ¿por qué sigues\Nempeñada en seducirme?
+Dialogue: 0,0:09:43.93,0:09:45.89,Gen_Main,,0000,0000,0000,,¿Y si me abalanzara sobre ti?
+Dialogue: 0,0:09:46.85,0:09:48.47,Gen_Main,,0000,0000,0000,,Lo haríamos y punto.
+Dialogue: 0,0:09:48.98,0:09:51.38,Gen_Main,,0000,0000,0000,,¿Es que quieres hacerlo conmigo?
+Dialogue: 0,0:09:51.86,0:09:54.92,Gen_Main,,0000,0000,0000,,No, la verdad es que no.
+Dialogue: 0,0:09:55.90,0:09:57.95,Gen_Main,,0000,0000,0000,,¡¿Qué narices te pasa?!
+Dialogue: 0,0:09:58.11,0:10:00.66,Gen_Main,,0000,0000,0000,,¡Muchos hombres se aprovecharían de ti!
+Dialogue: 0,0:10:01.20,0:10:03.05,Gen_Main,,0000,0000,0000,,Pues te haré yo una pregunta.
+Dialogue: 0,0:10:03.20,0:10:04.22,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:07.62,0:10:10.93,Gen_Main,,0000,0000,0000,,Frente a ti hay una chica\Ndispuesta a acostarse contigo.
+Dialogue: 0,0:10:11.21,0:10:12.84,Gen_Main,,0000,0000,0000,,¿Por qué no aprovechas?
+Dialogue: 0,0:10:14.42,0:10:16.09,Gen_Main,,0000,0000,0000,,¿Por qué pones esa cara?
+Dialogue: 0,0:10:16.67,0:10:19.09,Gen_Main,,0000,0000,0000,,Tú eres el raro, Yoshida.
+Dialogue: 0,0:10:19.80,0:10:25.35,Gen_Main,,0000,0000,0000,,Hasta ahora, ningún hombre\Nme había alojado a cambio de nada.
+Dialogue: 0,0:10:33.98,0:10:35.78,Gen_Main,,0000,0000,0000,,¿Acaso eres tonta?
+Dialogue: 0,0:10:36.65,0:10:38.40,Gen_Main,,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:10:39.28,0:10:40.41,Gen_Main,,0000,0000,0000,,Sayu.
+Dialogue: 0,0:10:43.41,0:10:46.20,Gen_Main,,0000,0000,0000,,¿De dónde vienes?\NMuéstrame tu identificación.
+Dialogue: 0,0:10:47.83,0:10:52.79,Cart_C_Tim,,0000,0000,0000,,{\fs16\pos(320,9)}6.º Instituto de Asahikawa
+Dialogue: 0,0:10:48.91,0:10:51.74,Gen_Main,,0000,0000,0000,,¡¿Asahikawa?!\N¡¿Has venido sola desde Hokkaido?!
+Dialogue: 0,0:10:51.88,0:10:52.79,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:53.21,0:10:55.56,Gen_Main,,0000,0000,0000,,¿Cuándo te fuiste de Hokkaido?
+Dialogue: 0,0:10:56.42,0:10:58.52,Gen_Main,,0000,0000,0000,,Hace unos seis meses, creo.
+Dialogue: 0,0:10:58.67,0:11:00.89,Gen_Main,,0000,0000,0000,,¿Avisaste a tus padres?
+Dialogue: 0,0:11:01.80,0:11:03.08,Gen_Main,,0000,0000,0000,,No…
+Dialogue: 0,0:11:03.26,0:11:05.41,Gen_Main,,0000,0000,0000,,Idiota, entonces vuelve a tu casa.
+Dialogue: 0,0:11:05.56,0:11:06.82,Gen_Main,,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:11:08.64,0:11:11.85,Gen_Main,,0000,0000,0000,,Seguro que se alegran\Nde que me haya ido.
+Dialogue: 0,0:11:12.44,0:11:14.08,Gen_Italics,,0000,0000,0000,,No fastidies.
+Dialogue: 0,0:11:14.23,0:11:16.54,Gen_Italics,,0000,0000,0000,,¿Cómo no voy a preocuparme con esa cara?
+Dialogue: 0,0:11:17.73,0:11:19.95,Gen_Main,,0000,0000,0000,,Eso no lo sabes.
+Dialogue: 0,0:11:21.45,0:11:22.41,Gen_Main,,0000,0000,0000,,Sí que lo sé.
+Dialogue: 0,0:11:24.32,0:11:28.35,Gen_Main,,0000,0000,0000,,Si no quieres volver a tu casa\Ny no vas a clase,
+Dialogue: 0,0:11:28.50,0:11:30.06,Gen_Main,,0000,0000,0000,,¿cómo vas a sobrevivir?
+Dialogue: 0,0:11:30.25,0:11:32.75,Gen_Main,,0000,0000,0000,,Me las arreglaré\Npara que alguien me aloje.
+Dialogue: 0,0:11:32.92,0:11:34.67,Gen_Main,,0000,0000,0000,,¿Y cómo es eso de arreglártelas?
+Dialogue: 0,0:11:36.50,0:11:37.80,Gen_Main,,0000,0000,0000,,No me subestimes.
+Dialogue: 0,0:11:39.13,0:11:42.04,Gen_Main,,0000,0000,0000,,No sé cómo habrán sido los otros tíos,
+Dialogue: 0,0:11:42.51,0:11:45.64,Gen_Main,,0000,0000,0000,,pero tu cuerpo no me interesa ni pizca.
+Dialogue: 0,0:11:47.22,0:11:49.76,Gen_Main,,0000,0000,0000,,¿Qué piensas hacer si te echo de aquí?
+Dialogue: 0,0:11:49.93,0:11:52.35,Gen_Main,,0000,0000,0000,,Me las apañaré para buscar otro lugar.
+Dialogue: 0,0:11:52.52,0:11:55.23,Gen_Main,,0000,0000,0000,,¿Y cómo te las apañarás?
+Dialogue: 0,0:11:57.07,0:11:58.47,Gen_Main,,0000,0000,0000,,Pues…
+Dialogue: 0,0:12:01.95,0:12:04.86,Gen_Italics,,0000,0000,0000,,¿Es que no lo entiende?
+Dialogue: 0,0:12:07.54,0:12:08.66,Gen_Main,,0000,0000,0000,,Trabaja.
+Dialogue: 0,0:12:10.37,0:12:15.03,Gen_Main,,0000,0000,0000,,Todos los mocosos que dejan la escuela,\Ntrabajan para sobrevivir.
+Dialogue: 0,0:12:15.50,0:12:19.45,Gen_Main,,0000,0000,0000,,Es que un trabajo a media jornada\Nno da para pagar un alquiler.
+Dialogue: 0,0:12:19.96,0:12:21.38,Gen_Main,,0000,0000,0000,,Pues puedes vivir aquí.
+Dialogue: 0,0:12:22.72,0:12:24.63,Gen_Main,,0000,0000,0000,,¿Eh? Pero…
+Dialogue: 0,0:12:25.73,0:12:27.92,Gen_Main,,0000,0000,0000,,No tienes dinero ni dónde vivir.
+Dialogue: 0,0:12:28.10,0:12:30.19,Gen_Main,,0000,0000,0000,,Por eso seduces a los hombres.
+Dialogue: 0,0:12:30.35,0:12:33.60,Gen_Main,,0000,0000,0000,,Corregiré esa estúpida\Nmentalidad tuya, idiota.
+Dialogue: 0,0:12:34.77,0:12:36.25,Gen_Main,,0000,0000,0000,,Deja de llamarme idiota.
+Dialogue: 0,0:12:36.37,0:12:38.38,Gen_Main,,0000,0000,0000,,Es que eres idiota, de remate.
+Dialogue: 0,0:12:38.56,0:12:41.58,Gen_Main,,0000,0000,0000,,Eres una malcriada que no sabe\Nel valor de las cosas.
+Dialogue: 0,0:12:44.74,0:12:46.58,Gen_Italics,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:12:46.74,0:12:49.96,Gen_Italics,,0000,0000,0000,,¿Por qué no ha podido llevar\Nuna adolescencia corriente,
+Dialogue: 0,0:12:50.12,0:12:54.72,Gen_Italics,,0000,0000,0000,,enamorarse como todas\Ny vivir una vida normal?
+Dialogue: 0,0:12:56.93,0:13:01.35,Gen_Main,,0000,0000,0000,,Te encargarás de las labores de la casa.\NEse será tu trabajo por ahora.
+Dialogue: 0,0:13:02.30,0:13:06.88,Gen_Main,,0000,0000,0000,,Escucha, lo primero es ordenar\Nnuestras rutinas y horarios.
+Dialogue: 0,0:13:07.00,0:13:09.47,Gen_Main,,0000,0000,0000,,No quiero que hagas\Nlo que te dé la gana.
+Dialogue: 0,0:13:11.43,0:13:15.69,Gen_Main,,0000,0000,0000,,Hablas como si me estuvieras diciendo\Nque me puedo quedar para siempre.
+Dialogue: 0,0:13:15.85,0:13:17.20,Gen_Main,,0000,0000,0000,,No para siempre.
+Dialogue: 0,0:13:17.44,0:13:19.94,Gen_Main,,0000,0000,0000,,Cuando te canses de huir,\Nvete a tu casa.
+Dialogue: 0,0:13:21.07,0:13:22.65,Gen_Main,,0000,0000,0000,,¿Y puedo quedarme?
+Dialogue: 0,0:13:23.78,0:13:25.53,Gen_Italics,,0000,0000,0000,,Quizás habría sido más difícil,
+Dialogue: 0,0:13:25.70,0:13:29.04,Gen_Italics,,0000,0000,0000,,pero seguro que tenía opciones\Nmás sanas que seducir hombres
+Dialogue: 0,0:13:29.20,0:13:31.37,Gen_Italics,,0000,0000,0000,,para tener dónde dormir.
+Dialogue: 0,0:13:31.99,0:13:36.14,Gen_Italics,,0000,0000,0000,,Pero, por alguna razón,\Nhace mucho que las olvidó.
+Dialogue: 0,0:13:36.62,0:13:39.45,Gen_Italics,,0000,0000,0000,,Y con esta conversación\Nme di cuenta de algo.
+Dialogue: 0,0:13:40.25,0:13:42.26,Gen_Italics,,0000,0000,0000,,Esta chica es muy consentida.
+Dialogue: 0,0:13:42.71,0:13:46.66,Gen_Italics,,0000,0000,0000,,Si digo algo de más,\Nse quedará a vivir aquí durante años.
+Dialogue: 0,0:13:49.47,0:13:53.06,Gen_Main,,0000,0000,0000,,Dejaré que te quedes\Nhasta que dejes de ser una malcriada.
+Dialogue: 0,0:13:54.56,0:13:59.87,Gen_Main,,0000,0000,0000,,Pero si vuelves a intentar seducirme,\Nte echaré a patadas, ¿queda claro?
+Dialogue: 0,0:14:00.02,0:14:01.52,Gen_Main,,0000,0000,0000,,¡Entendido!
+Dialogue: 0,0:14:02.23,0:14:05.45,Gen_Italics,,0000,0000,0000,,Y así empezó la extraña vida juntos
+Dialogue: 0,0:14:05.61,0:14:09.74,Gen_Italics,,0000,0000,0000,,de una chica de instituto\Ny un oficinista de 26 años.
+Dialogue: 0,0:14:09.91,0:14:11.70,Gen_Italics,,0000,0000,0000,,Sin embargo, en aquel momento
+Dialogue: 0,0:14:12.66,0:14:16.50,Gen_Italics,,0000,0000,0000,,subestimé enormemente\Nlo complicado que sería
+Dialogue: 0,0:14:16.75,0:14:19.30,Gen_Italics,,0000,0000,0000,,vivir con una adolescente.
+Dialogue: 0,0:14:21.63,0:14:23.75,Gen_Main,,0000,0000,0000,,¿En serio te pasó eso al irme?
+Dialogue: 0,0:14:24.84,0:14:26.31,Gen_Main,,0000,0000,0000,,¡No grites tanto!
+Dialogue: 0,0:14:26.97,0:14:29.00,Gen_Main,,0000,0000,0000,,Oye, pero eso es un marrón.
+Dialogue: 0,0:14:29.25,0:14:31.26,Gen_Main,,0000,0000,0000,,¿Nadie ha denunciado su desaparición?
+Dialogue: 0,0:14:31.43,0:14:37.02,Gen_Main,,0000,0000,0000,,He buscado en Internet, pero no he\Nencontrado nada ni remotamente parecido.
+Dialogue: 0,0:14:37.18,0:14:41.08,Gen_Main,,0000,0000,0000,,No puedes alojar a una adolescente\Nde la que no sabes nada.
+Dialogue: 0,0:14:41.23,0:14:44.48,Gen_Main,,0000,0000,0000,,Sí, cuanto más lo pienso,\Nmás peligroso me parece.
+Dialogue: 0,0:14:48.57,0:14:52.28,Gen_Main,,0000,0000,0000,,¿Habrá comido?
+Dialogue: 0,0:14:53.78,0:14:57.20,Gen_Italics,,0000,0000,0000,,Bueno, pero trata\Nde no encariñarte mucho.
+Dialogue: 0,0:14:57.66,0:15:01.17,Gen_Main,,0000,0000,0000,,Deberías enviarla con sus padres\Nantes de que te dé problemas.
+Dialogue: 0,0:15:01.63,0:15:05.63,Gen_Italics,,0000,0000,0000,,Ya lo sé, pero…
+Dialogue: 0,0:15:06.09,0:15:09.26,Gen_Main,,0000,0000,0000,,Seguro que se alegran\Nde que me haya ido.
+Dialogue: 0,0:15:10.47,0:15:14.98,Gen_Main,,0000,0000,0000,,Una adolescente no debería\Nponer una cara como esa.
+Dialogue: 0,0:15:21.90,0:15:23.06,Gen_Main,,0000,0000,0000,,¿Sopa de miso?
+Dialogue: 0,0:15:24.27,0:15:26.32,Gen_Main,,0000,0000,0000,,¡Bienvenido a casa, papá!
+Dialogue: 0,0:15:26.48,0:15:28.52,Gen_Main,,0000,0000,0000,,No digas eso, me vas a hacer vomitar.
+Dialogue: 0,0:15:30.11,0:15:33.91,Gen_Main,,0000,0000,0000,,Verás, solo he podido preparar la sopa…
+Dialogue: 0,0:15:35.74,0:15:38.50,Gen_Main,,0000,0000,0000,,Traigo comida precocinada.\NQuieres, ¿verdad?
+Dialogue: 0,0:15:45.17,0:15:47.63,Gen_Italics,,0000,0000,0000,,¿Las ha planchado?
+Dialogue: 0,0:15:48.80,0:15:51.61,Gen_Italics,,0000,0000,0000,,Es más hábil de lo que creía.
+Dialogue: 0,0:16:00.35,0:16:02.09,Gen_Main,,0000,0000,0000,,Gracias por la comida.
+Dialogue: 0,0:16:04.65,0:16:06.20,Gen_Main,,0000,0000,0000,,¿Qué ocurre, Yoshida?
+Dialogue: 0,0:16:06.69,0:16:08.63,Gen_Main,,0000,0000,0000,,No es nada.
+Dialogue: 0,0:16:08.78,0:16:10.92,Gen_Main,,0000,0000,0000,,En fin, ¿dónde está el cenicero?
+Dialogue: 0,0:16:12.36,0:16:15.82,Gen_Main,,0000,0000,0000,,Perdón, lo lavé con los platos.
+Dialogue: 0,0:16:15.99,0:16:17.93,Gen_Main,,0000,0000,0000,,Ya veo. Gracias.
+Dialogue: 0,0:16:23.04,0:16:23.88,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:16:24.04,0:16:26.94,Gen_Main,,0000,0000,0000,,¿Por qué vas al balcón?\NPodrías fumar aquí.
+Dialogue: 0,0:16:27.54,0:16:29.00,Gen_Main,,0000,0000,0000,,Es que tú estás aquí.
+Dialogue: 0,0:16:32.13,0:16:33.74,Gen_Main,,0000,0000,0000,,Eres muy amable.
+Dialogue: 0,0:16:33.88,0:16:35.16,Gen_Main,,0000,0000,0000,,¿Amable?
+Dialogue: 0,0:16:35.30,0:16:40.86,Gen_Main,,0000,0000,0000,,Es que todos los demás fumaban\Nsin importarles si yo estaba ahí o no.
+Dialogue: 0,0:16:41.68,0:16:47.94,Gen_Italics,,0000,0000,0000,,¿Por qué todos sus valores se basan\Nen lo que le hicieron esos perdedores?
+Dialogue: 0,0:16:49.07,0:16:50.21,Gen_Main,,0000,0000,0000,,Sayu.
+Dialogue: 0,0:16:51.57,0:16:55.58,Gen_Main,,0000,0000,0000,,Escucha. No es que yo sea amable,\Nesos tíos eran escoria.
+Dialogue: 0,0:16:55.74,0:16:56.80,Gen_Main,,0000,0000,0000,,Recuérdalo.
+Dialogue: 0,0:16:57.32,0:17:01.13,Gen_Main,,0000,0000,0000,,No bajes tus estándares.\NDebes ver las cosas como son.
+Dialogue: 0,0:17:01.29,0:17:02.83,Gen_Main,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:17:09.63,0:17:13.05,Gen_Italics,,0000,0000,0000,,No puedo evitar considerarme su tutor.
+Dialogue: 0,0:17:13.21,0:17:16.39,Gen_Italics,,0000,0000,0000,,No entiendo cómo alguien\Nse puede poner cachondo con ella.
+Dialogue: 0,0:17:20.81,0:17:23.97,Gen_Italics,,0000,0000,0000,,Que tenga sus valores tan trastocados,
+Dialogue: 0,0:17:24.13,0:17:26.74,Gen_Italics,,0000,0000,0000,,en parte es culpa\Nde lo consentida que es.
+Dialogue: 0,0:17:27.15,0:17:31.20,Gen_Italics,,0000,0000,0000,,Pero estoy seguro de que hubo\Nun ambiente y malos adultos
+Dialogue: 0,0:17:31.52,0:17:34.73,Gen_Italics,,0000,0000,0000,,que ayudaron a llevarla\Npor el mal camino.
+Dialogue: 0,0:17:35.32,0:17:36.95,Gen_Italics,,0000,0000,0000,,Menuda panda de imbéciles.
+Dialogue: 0,0:17:37.49,0:17:39.62,Gen_Main,,0000,0000,0000,,Qué asco me dan los adultos.
+Dialogue: 0,0:17:40.45,0:17:41.62,Gen_Italics,,0000,0000,0000,,Yo incluido.
+Dialogue: 0,0:17:41.79,0:17:46.24,Gen_Italics,,0000,0000,0000,,Por alentar su actitud de huir y\Npermitir que siga siendo una malcriada.
+Dialogue: 0,0:17:48.00,0:17:52.58,Gen_Italics,,0000,0000,0000,,¿Qué es lo que quiero hacer de verdad?
+Dialogue: 0,0:17:59.47,0:18:02.64,Gen_Main,,0000,0000,0000,,Perdona. He olvidado quitar\Nla alarma siendo fin de semana.
+Dialogue: 0,0:18:03.10,0:18:04.36,Gen_Main,,0000,0000,0000,,No importa.
+Dialogue: 0,0:18:05.06,0:18:09.00,Gen_Main,,0000,0000,0000,,De todos modos quería levantarme\Ntemprano para lavar la ropa.
+Dialogue: 0,0:18:11.23,0:18:13.32,Gen_Main,,0000,0000,0000,,Ay, ay, ay…
+Dialogue: 0,0:18:15.78,0:18:19.28,Cart_C_Tre,,0000,0000,0000,,{\fs12\bord4\fad(0,300)\an7\pos(232,172)\3c&HF7F8F4&}El día 24 la policía metropolitana\Narrestó a un hombre en la ciudad\Nde Musashimaru sospechoso de\Nsecuestrar a una menor de 17 años.
+Dialogue: 0,0:18:17.28,0:18:19.18,Gen_Main,,0000,0000,0000,,Con permiso.
+Dialogue: 0,0:18:22.74,0:18:24.68,Gen_Main,,0000,0000,0000,,Te he visto todas las bragas.
+Dialogue: 0,0:18:24.83,0:18:27.08,Gen_Main,,0000,0000,0000,,Es una falda, es inevitable.
+Dialogue: 0,0:18:27.44,0:18:30.33,Gen_Main,,0000,0000,0000,,Ahora que lo pienso,\Nsiempre vas con el uniforme.
+Dialogue: 0,0:18:30.50,0:18:32.12,Gen_Main,,0000,0000,0000,,Es lo único que tengo.
+Dialogue: 0,0:18:32.29,0:18:35.05,Gen_Main,,0000,0000,0000,,Pero lo lavo a menudo,\Nasí que no está sucio.
+Dialogue: 0,0:18:35.21,0:18:40.09,Gen_Main,,0000,0000,0000,,Pero es raro que andes\Npor casa en uniforme.
+Dialogue: 0,0:18:41.55,0:18:44.43,Gen_Main,,0000,0000,0000,,Estoy bien así. Vámonos a casa, Yoshida.
+Dialogue: 0,0:18:44.60,0:18:47.40,Gen_Main,,0000,0000,0000,,No estás bien. No seas tímida.
+Dialogue: 0,0:18:47.69,0:18:49.39,Gen_Main,,0000,0000,0000,,Solo tienes ese uniforme, ¿no?
+Dialogue: 0,0:18:50.81,0:18:53.07,Gen_Main,,0000,0000,0000,,Por eso vas a comprarte ropa.
+Dialogue: 0,0:18:53.23,0:18:55.18,Gen_Main,,0000,0000,0000,,Y yo compraré un futón nuevo.
+Dialogue: 0,0:18:56.19,0:18:59.61,Gen_Main,,0000,0000,0000,,Te levantas a diario\Nquejándote y tocándote la espalda.
+Dialogue: 0,0:19:00.78,0:19:02.32,Gen_Main,,0000,0000,0000,,¿Eso hago?
+Dialogue: 0,0:19:02.49,0:19:03.69,Gen_Main,,0000,0000,0000,,Claro que sí.
+Dialogue: 0,0:19:05.62,0:19:06.62,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:19:07.83,0:19:08.87,Gen_Main,,0000,0000,0000,,Es que…
+Dialogue: 0,0:19:10.42,0:19:15.34,Gen_Main,,0000,0000,0000,,Si haces todo eso por mí,\Nno sabré cómo devolverte el favor.
+Dialogue: 0,0:19:18.17,0:19:20.81,Gen_Italics,,0000,0000,0000,,Conque era eso.
+Dialogue: 0,0:19:20.97,0:19:25.85,Gen_Italics,,0000,0000,0000,,No es timidez. No quiere aceptarlo\Nporque no puede compensármelo.
+Dialogue: 0,0:19:26.43,0:19:28.87,Gen_Italics,,0000,0000,0000,,¿Por qué piensa así futón?
+Dialogue: 0,0:19:31.06,0:19:33.31,Gen_Main,,0000,0000,0000,,Estoy muy ocupado.
+Dialogue: 0,0:19:33.48,0:19:36.15,Gen_Main,,0000,0000,0000,,Así que no tengo tiempo\Npara las tareas de casa.
+Dialogue: 0,0:19:37.11,0:19:40.03,Gen_Main,,0000,0000,0000,,Pero ahora te encargas tú, ¿verdad?
+Dialogue: 0,0:19:40.45,0:19:44.49,Gen_Main,,0000,0000,0000,,Esta última semana ha sido\Nmucho más cómodo estar en casa.
+Dialogue: 0,0:19:46.20,0:19:47.95,Gen_Main,,0000,0000,0000,,¿No te basta como razón?
+Dialogue: 0,0:19:51.29,0:19:54.67,Gen_Main,,0000,0000,0000,,Si a ti te parece bien, a mí también.
+Dialogue: 0,0:19:56.25,0:19:58.12,Gen_Main,,0000,0000,0000,,Bien, entonces dejémoslo así.
+Dialogue: 0,0:20:00.80,0:20:02.09,Gen_Main,,0000,0000,0000,,¡Qué blandita es!
+Dialogue: 0,0:20:02.80,0:20:04.43,Gen_Main,,0000,0000,0000,,Es mejor tener un futón, ¿no?
+Dialogue: 0,0:20:05.05,0:20:07.89,Gen_Main,,0000,0000,0000,,¡Sí! Hoy dormiré estupendamente.
+Dialogue: 0,0:20:11.18,0:20:12.39,Gen_Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:20:14.06,0:20:15.27,Gen_Main,,0000,0000,0000,,¿Dormimos juntos?
+Dialogue: 0,0:20:16.73,0:20:20.46,Gen_Main,,0000,0000,0000,,¡Oye, te dije que te echaría\Nsi intentabas seducirme!
+Dialogue: 0,0:20:21.28,0:20:24.74,Gen_Main,,0000,0000,0000,,Pero si no he dicho\Nnada de hacer cochinadas.
+Dialogue: 0,0:20:29.08,0:20:31.11,Gen_Main,,0000,0000,0000,,Aquí eres tú el pervertido.
+Dialogue: 0,0:20:34.21,0:20:35.48,Gen_Main,,0000,0000,0000,,¿Sabes?
+Dialogue: 0,0:20:36.58,0:20:38.38,Gen_Main,,0000,0000,0000,,Estás más guapa cuando sonríes.
+Dialogue: 0,0:20:42.47,0:20:45.34,Gen_Main,,0000,0000,0000,,¡¿Estás intentando ligar conmigo?!
+Dialogue: 0,0:20:45.51,0:20:47.45,Gen_Main,,0000,0000,0000,,Ya te he dicho que no eres mi tipo.
+Dialogue: 0,0:20:50.06,0:20:51.50,Gen_Main,,0000,0000,0000,,Yoshida…
+Dialogue: 0,0:20:54.02,0:20:55.14,Gen_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:20:56.81,0:20:57.56,Gen_Main,,0000,0000,0000,,De nada.
+Dialogue: 0,0:20:59.02,0:21:01.86,Gen_Main,,0000,0000,0000,,Corre el rumor\Nde que tienes novia, ¿sabes?
+Dialogue: 0,0:21:02.03,0:21:03.82,Gen_Main,,0000,0000,0000,,¿Qué? ¿Y eso a santo de qué?
+Dialogue: 0,0:21:03.99,0:21:06.62,Gen_Main,,0000,0000,0000,,Porque todos los días\Nte vas a la hora,
+Dialogue: 0,0:21:06.78,0:21:09.42,Gen_Main,,0000,0000,0000,,estás más limpio y tus camisas\Nno tienen arrugas.
+Dialogue: 0,0:21:10.16,0:21:15.59,Gen_Main,,0000,0000,0000,,Además, tienes mejor cara\Ny haces tu trabajo de mejor ánimo.
+Dialogue: 0,0:21:16.17,0:21:18.00,Gen_Main,,0000,0000,0000,,Eso decían las chicas.
+Dialogue: 0,0:21:18.17,0:21:21.22,Gen_Main,,0000,0000,0000,,¿Y eso qué tiene que ver?
+Dialogue: 0,0:21:22.74,0:21:25.43,Gen_Main,,0000,0000,0000,,Aunque en realidad es\Ngracias a una adolescente.
+Dialogue: 0,0:21:28.47,0:21:30.05,Gen_Main,,0000,0000,0000,,Pues, sí…
+Dialogue: 0,0:21:30.22,0:21:33.76,Gen_Main,,0000,0000,0000,,Siempre pensé que las chicas que\Nhuyen de casa son las más desordenadas,
+Dialogue: 0,0:21:33.93,0:21:35.90,Gen_Main,,0000,0000,0000,,pero ella parece muy ordenada.
+Dialogue: 0,0:21:36.06,0:21:39.19,Gen_Main,,0000,0000,0000,,Pues sí, tienes razón.
+Dialogue: 0,0:21:41.44,0:21:46.64,Gen_Italics,,0000,0000,0000,,Sí, es cierto\Nque físicamente no es mi tipo,
+Dialogue: 0,0:21:46.82,0:21:49.28,Gen_Italics,,0000,0000,0000,,pero la verdad es que no es fea.
+Dialogue: 0,0:21:49.45,0:21:52.04,Gen_Italics,,0000,0000,0000,,Es buena ama de casa y es muy simpática.
+Dialogue: 0,0:21:52.74,0:21:54.54,Gen_Italics,,0000,0000,0000,,¿Por qué habrá huido…
+Dialogue: 0,0:21:55.54,0:21:58.73,Gen_Italics,,0000,0000,0000,,y venido hasta Tokio desde tan lejos?
+Dialogue: 0,0:22:10.30,0:22:11.91,Gen_Main,,0000,0000,0000,,Yoshida, tu barba.
+Dialogue: 0,0:22:12.56,0:22:14.09,Gen_Main,,0000,0000,0000,,¿No te la vas a afeitar?
+Dialogue: 0,0:22:16.10,0:22:18.30,Gen_Main,,0000,0000,0000,,Hoy no, no tengo ganas.
+Dialogue: 0,0:22:18.48,0:22:20.61,Gen_Main,,0000,0000,0000,,A veces la gente que se afeita,\Nno lo hace.
+Dialogue: 0,0:22:20.77,0:22:22.76,Gen_Main,,0000,0000,0000,,¿Es por alguna razón en especial?
+Dialogue: 0,0:22:22.94,0:22:25.44,Gen_Main,,0000,0000,0000,,Ninguna. Me afeitaré cuando crezca más.
+Dialogue: 0,0:22:25.94,0:22:28.63,Gen_Main,,0000,0000,0000,,O sea, ¿que ese largo no es suficiente?
+Dialogue: 0,0:22:29.85,0:22:32.66,Gen_Main,,0000,0000,0000,,-Quizás sí que deba afeitarme.\N-Decídete.
+Dialogue: 0,0:22:33.28,0:22:37.79,Gen_Main,,0000,0000,0000,,¿Cómo decirlo…?\NMe hace sentir que estoy viejo.
+Dialogue: 0,0:22:37.96,0:22:38.66,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:22:39.12,0:22:41.08,Gen_Main,,0000,0000,0000,,Cuando acababa de cumplir 20,
+Dialogue: 0,0:22:41.29,0:22:45.13,Gen_Main,,0000,0000,0000,,mi barba me preocupaba mucho\Ny me afeitaba a la primera de cambio.
+Dialogue: 0,0:22:45.49,0:22:48.54,Gen_Main,,0000,0000,0000,,Siempre me fijaba\Nque no se me hubiera pasado nada.
+Dialogue: 0,0:22:49.13,0:22:53.50,Gen_Main,,0000,0000,0000,,Siento que la barba en sí\Nes un símbolo de vejez.
+Dialogue: 0,0:22:54.31,0:22:55.64,Gen_Main,,0000,0000,0000,,No, no exactamente.
+Dialogue: 0,0:22:56.06,0:22:57.14,Gen_Main,,0000,0000,0000,,¿Cómo?
+Dialogue: 0,0:22:59.60,0:23:03.82,Gen_Main,,0000,0000,0000,,Cuando te da pereza afeitarte la barba,\Nes que ya estás viejo.
+Dialogue: 0,0:23:06.78,0:23:08.02,Gen_Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:23:09.24,0:23:11.53,Gen_Main,,0000,0000,0000,,La barba no te queda bien.
+Dialogue: 0,0:23:11.70,0:23:12.91,Gen_Main,,0000,0000,0000,,No te he preguntado.
+Dialogue: 0,0:23:13.87,0:23:17.36,Gen_Main,,0000,0000,0000,,Yoshida, vas a llegar tarde al trabajo.
+Dialogue: 0,0:23:18.00,0:23:19.90,Gen_Main,,0000,0000,0000,,Ya lo sé.
+Dialogue: 0,0:23:23.75,0:23:25.64,Gen_Italics,,0000,0000,0000,,Será mejor que me afeite.
+Dialogue: 0,0:23:30.26,0:23:35.05,Cart_Next,,0000,0000,0000,,{\fad(399,1)\pos(71,53)}Próximo episodio
+Dialogue: 0,0:23:30.26,0:23:35.05,Cart_NextTitle,,0000,0000,0000,,{\fad(399,1)\pos(540,296)}Móvil
+Dialogue: 0,0:23:35.05,0:23:40.06,Cart_SeeYou,,0000,0000,0000,,{\pos(509,298)}¡Hasta la próxima semana!

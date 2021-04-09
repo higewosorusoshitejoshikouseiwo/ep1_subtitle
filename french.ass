@@ -1,0 +1,388 @@
+﻿[Script Info]
+Title: [Erai-raws] Français (France)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,1,0020,0002,0025,1
+Style: Titre,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,0,1,2,0002,0002,0025,1
+Style: TitreS,Calibri,30,&H00FFFFFF,&H000000FF,&H00B7C51B,&H00B7C51B,0,0,0,0,100,100,0,0,1,2,1,2,0002,0002,0100,1
+Style: SignNote,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0002,0002,0025,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.20,0:00:24.21,Default,Gôto,0000,0000,0000,,Tout était délicieux.
+Dialogue: 0,0:00:24.96,0:00:27.96,Default,Gôto,0000,0000,0000,,Merci pour l’invitation, Yoshida.
+Dialogue: 0,0:00:32.21,0:00:34.43,Default,Yoshida,0000,0000,0000,,Euh, Gotô…
+Dialogue: 0,0:00:38.64,0:00:41.35,Default,Yoshida,0000,0000,0000,,Ça te dit de passer chez moi,\Naprès ?
+Dialogue: 0,0:00:46.31,0:00:50.19,Default,Gôto,0000,0000,0000,,Désolée…\NJe ne l’ai pas dit au travail,
+Dialogue: 0,0:00:50.90,0:00:53.44,Default,Gôto,0000,0000,0000,,mais j’ai un copain.
+Dialogue: 0,0:00:56.03,0:00:59.24,Italique,Yoshida,0000,0000,0000,,Et c’est ainsi\Nque je me suis pris un râteau.
+Dialogue: 0,0:01:03.95,0:01:06.00,Default,Yoshida,0000,0000,0000,,Si t’as un mec,
+Dialogue: 0,0:01:06.92,0:01:08.75,Default,Yoshida,0000,0000,0000,,dis-le dès le départ !
+Dialogue: 0,0:01:08.92,0:01:11.17,Default,Hashimoto,0000,0000,0000,,Hé, Yoshida ! Baisse d’un ton !
+Dialogue: 0,0:01:08.96,0:01:13.88,Titre,Sign,0000,0000,0000,,{\fad(500,410)\pos(150.4,66.2)}La lycéenne sous le poteau électrique
+Dialogue: 0,0:01:11.88,0:01:14.63,Default,Hashimoto,0000,0000,0000,,Désolé, il a un peu trop bu…
+Dialogue: 0,0:01:15.17,0:01:17.01,Default,Hashimoto,0000,0000,0000,,C’est bon, ça suffit.
+Dialogue: 0,0:01:17.30,0:01:21.76,Default,Yoshida,0000,0000,0000,,Abruti !\NTu crois que je suis calmé, là ?
+Dialogue: 0,0:01:23.14,0:01:26.94,Default,Hashimoto,0000,0000,0000,,Dire que tu m’as fait venir en urgence\Npour un chagrin d’amour…
+Dialogue: 0,0:01:27.06,0:01:31.19,Default,Yoshida,0000,0000,0000,,Elle a un mec depuis cinq ans…
+Dialogue: 0,0:01:31.32,0:01:35.11,Default,Yoshida,0000,0000,0000,,Elle m’a bien eu…\NRends-moi mon cœur !
+Dialogue: 0,0:01:37.07,0:01:38.32,Default,Yoshida,0000,0000,0000,,Une autre bière !
+Dialogue: 0,0:01:38.61,0:01:40.12,Default,Hashimoto,0000,0000,0000,,Tu as trop bu.
+Dialogue: 0,0:01:40.24,0:01:42.74,Default,Yoshida,0000,0000,0000,,Oh, ça va ! Je bosse pas, demain !
+Dialogue: 0,0:01:45.04,0:01:48.75,Default,Hashimoto,0000,0000,0000,,Je rentrerai avant le dernier train.\NMa femme m’attend.
+Dialogue: 0,0:01:49.00,0:01:50.79,Default,Yoshida,0000,0000,0000,,C’est bon, j’ai compris !
+Dialogue: 0,0:01:55.63,0:01:58.05,Default,Yoshida,0000,0000,0000,,Punaise, Gotô…
+Dialogue: 0,0:02:23.28,0:02:25.08,Default,Yoshida,0000,0000,0000,,Hé, la lycéenne !
+Dialogue: 0,0:02:28.00,0:02:30.42,Default,Yoshida,0000,0000,0000,,Qu’est-ce que tu fiches là,\Nsi tard ?
+Dialogue: 0,0:02:30.79,0:02:32.42,Default,Yoshida,0000,0000,0000,,File, rentre chez toi.
+Dialogue: 0,0:02:32.63,0:02:34.34,Default,Sayu,0000,0000,0000,,Il n’y a plus de train.
+Dialogue: 0,0:02:35.00,0:02:36.92,Default,Yoshida,0000,0000,0000,,Tu vas passer la nuit ici ?
+Dialogue: 0,0:02:37.59,0:02:39.55,Default,Sayu,0000,0000,0000,,Je pense que je vais avoir froid.
+Dialogue: 0,0:02:39.80,0:02:41.43,Default,Yoshida,0000,0000,0000,,T’as aucune autre option ?
+Dialogue: 0,0:02:51.40,0:02:52.86,Default,Sayu,0000,0000,0000,,Héberge-moi, m’sieur.
+Dialogue: 0,0:02:54.15,0:02:55.19,Default,Yoshida,0000,0000,0000,,Monsieur ?
+Dialogue: 0,0:02:55.69,0:02:57.11,Default,Yoshida,0000,0000,0000,,Écoute, petite…
+Dialogue: 0,0:02:57.32,0:03:00.82,Default,Yoshida,0000,0000,0000,,Comme si une lycéenne allait\Nsuivre un inconnu !
+Dialogue: 0,0:03:02.20,0:03:04.58,Default,Sayu,0000,0000,0000,,Mais j’ai nulle part où aller…
+Dialogue: 0,0:03:04.95,0:03:08.62,Default,Yoshida,0000,0000,0000,,Si tu retournes à la gare,\Nil y a des karaokés ou des cafés !
+Dialogue: 0,0:03:08.75,0:03:10.04,Default,Sayu,0000,0000,0000,,J’ai pas d’argent.
+Dialogue: 0,0:03:10.37,0:03:13.71,Default,Yoshida,0000,0000,0000,,Alors, tu comptais\Ncrécher chez moi gratos ?
+Dialogue: 0,0:03:13.83,0:03:15.79,Default,Sayu,0000,0000,0000,,Ah, je vois.
+Dialogue: 0,0:03:17.96,0:03:19.97,Default,Sayu,0000,0000,0000,,Tu me feras ce que tu veux.
+Dialogue: 0,0:03:22.18,0:03:25.30,Italique,Yoshida,0000,0000,0000,,Les lycéennes sont toutes comme ça,\Nde nos jours ?
+Dialogue: 0,0:03:26.06,0:03:28.72,Italique,Yoshida,0000,0000,0000,,Non, ça m’étonnerait !
+Dialogue: 0,0:03:29.77,0:03:31.44,Italique,Yoshida,0000,0000,0000,,C’est elle qui est chelou !
+Dialogue: 0,0:03:32.31,0:03:34.52,Default,Yoshida,0000,0000,0000,,Faut pas déconner avec ça !
+Dialogue: 0,0:03:34.65,0:03:36.98,Default,Sayu,0000,0000,0000,,Je suis sérieuse.\NÇa me dérange pas.
+Dialogue: 0,0:03:37.11,0:03:41.28,Default,Yoshida,0000,0000,0000,,Je passe mon tour.\NJe couche pas avec une gamine.
+Dialogue: 0,0:03:43.66,0:03:44.53,Default,Sayu,0000,0000,0000,,Bon, alors…
+Dialogue: 0,0:03:45.41,0:03:46.87,Default,Sayu,0000,0000,0000,,héberge-moi gratuitement !
+Dialogue: 0,0:03:52.71,0:03:54.25,Default,Sayu,0000,0000,0000,,Je me permets d’entrer.
+Dialogue: 0,0:03:56.67,0:03:57.59,Default,Sayu,0000,0000,0000,,C’est sale.
+Dialogue: 0,0:03:57.71,0:04:00.09,Default,Yoshida,0000,0000,0000,,Tu t’attendais à quoi,\Nchez un célibataire ?
+Dialogue: 0,0:04:00.55,0:04:02.05,Default,Sayu,0000,0000,0000,,Certains sont propres.
+Dialogue: 0,0:04:03.59,0:04:04.47,Default,Sayu,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:04:04.89,0:04:05.97,Default,Yoshida,0000,0000,0000,,Rien…
+Dialogue: 0,0:04:06.47,0:04:07.93,Italique,Yoshida,0000,0000,0000,,Mieux vaut l’éviter.
+Dialogue: 0,0:04:08.22,0:04:10.68,Italique,Yoshida,0000,0000,0000,,Je me fiche de savoir\Nquelle vie elle mène
+Dialogue: 0,0:04:10.81,0:04:13.19,Italique,Yoshida,0000,0000,0000,,et avec quelles intentions
+Dialogue: 0,0:04:13.52,0:04:15.06,Italique,Yoshida,0000,0000,0000,,elle est venue ici.
+Dialogue: 0,0:04:16.56,0:04:19.32,Italique,Yoshida,0000,0000,0000,,Au matin, je la vire. Point barre.
+Dialogue: 0,0:04:23.53,0:04:24.61,Default,Sayu,0000,0000,0000,,Tu dors ?
+Dialogue: 0,0:04:24.91,0:04:27.32,Default,Yoshida,0000,0000,0000,,Ouais, fais ce que tu veux.
+Dialogue: 0,0:04:36.42,0:04:37.29,Default,Sayu,0000,0000,0000,,Dis,
+Dialogue: 0,0:04:37.79,0:04:39.21,Default,Sayu,0000,0000,0000,,je suis dispensée ?
+Dialogue: 0,0:04:39.50,0:04:43.80,Default,Yoshida,0000,0000,0000,,Me fais pas me répéter.\NJ’aime pas les gamines.
+Dialogue: 0,0:04:46.89,0:04:48.30,Default,Sayu,0000,0000,0000,,Si tu le dis…
+Dialogue: 0,0:04:51.56,0:04:53.68,Default,Sayu,0000,0000,0000,,Je peux faire autre chose pour toi ?
+Dialogue: 0,0:04:55.19,0:04:56.15,Default,Yoshida,0000,0000,0000,,Une soupe miso.
+Dialogue: 0,0:04:57.56,0:04:59.36,Default,Yoshida,0000,0000,0000,,J’aimerais manger…
+Dialogue: 0,0:04:59.82,0:05:01.61,Default,Yoshida,0000,0000,0000,,une soupe miso…
+Dialogue: 0,0:05:02.07,0:05:04.36,Default,Yoshida,0000,0000,0000,,préparée par une fille…
+Dialogue: 0,0:05:29.09,0:05:30.64,Default,Yoshida,0000,0000,0000,,Merde ! Je suis en reta…
+Dialogue: 0,0:05:32.97,0:05:35.27,Default,Yoshida,0000,0000,0000,,Ah non, on est dimanche…
+Dialogue: 0,0:05:36.98,0:05:38.15,Default,Yoshida,0000,0000,0000,,Ça sent quoi, là ?
+Dialogue: 0,0:05:39.19,0:05:40.65,Default,Sayu,0000,0000,0000,,Tu es enfin levé ?
+Dialogue: 0,0:05:41.07,0:05:41.86,Default,Sayu,0000,0000,0000,,Salut !
+Dialogue: 0,0:05:43.73,0:05:45.07,Default,Yoshida,0000,0000,0000,,T’es qui, toi ?
+Dialogue: 0,0:05:45.19,0:05:49.20,Default,Sayu,0000,0000,0000,,Ça se voit, non ? Une lycéenne.
+Dialogue: 0,0:05:49.78,0:05:51.95,Default,Yoshida,0000,0000,0000,,Que fiche une lycéenne chez moi ?
+Dialogue: 0,0:05:52.37,0:05:54.58,Default,Sayu,0000,0000,0000,,Tu m’as laissée dormir ici.
+Dialogue: 0,0:05:55.62,0:05:57.08,Default,Yoshida,0000,0000,0000,,Qui t’a proposé ça ?
+Dialogue: 0,0:05:58.08,0:05:59.04,Default,Sayu,0000,0000,0000,,Toi, m’sieur.
+Dialogue: 0,0:05:59.33,0:06:01.13,Default,Yoshida,0000,0000,0000,,M’appelle pas comme ça.
+Dialogue: 0,0:06:01.25,0:06:03.42,Default,Sayu,0000,0000,0000,,Mais tu es vieux, ça te va bien.
+Dialogue: 0,0:06:07.51,0:06:09.55,Default,Sayu,0000,0000,0000,,Et euh… comment dire ?
+Dialogue: 0,0:06:10.05,0:06:14.10,Default,Yoshida,0000,0000,0000,,Rassure-moi,\Nj’ai rien tenté avec toi ?
+Dialogue: 0,0:06:23.77,0:06:25.44,Default,Sayu,0000,0000,0000,,Je déconne !
+Dialogue: 0,0:06:25.73,0:06:28.53,Default,Sayu,0000,0000,0000,,Pardon, je voulais te taquiner.
+Dialogue: 0,0:06:28.86,0:06:30.20,Italique,Yoshida,0000,0000,0000,,Petite peste…
+Dialogue: 0,0:06:30.41,0:06:33.70,Default,Sayu,0000,0000,0000,,Tu m’as dit\Nque les gamines ne t’intéressent pas.
+Dialogue: 0,0:06:34.74,0:06:36.91,Italique,Yoshida,0000,0000,0000,,Ouf ! J’ai assuré, hier !
+Dialogue: 0,0:06:37.29,0:06:41.00,Default,Sayu,0000,0000,0000,,Je t’ai alors demandé si tu voulais\Nque je fasse autre chose…
+Dialogue: 0,0:06:45.13,0:06:46.21,Default,Yoshida,0000,0000,0000,,Une soupe miso ?
+Dialogue: 0,0:06:46.51,0:06:47.46,Default,Sayu,0000,0000,0000,,Je l’ai faite.
+Dialogue: 0,0:06:47.59,0:06:50.55,Default,Yoshida,0000,0000,0000,,Ne te mets pas à faire des soupes\Nchez les gens.
+Dialogue: 0,0:06:52.26,0:06:53.93,Default,Yoshida,0000,0000,0000,,Pourquoi tu soupires ?
+Dialogue: 0,0:06:54.51,0:06:56.81,Default,Sayu,0000,0000,0000,,C’est toi qui m’as demandé, m’sieur.
+Dialogue: 0,0:06:56.93,0:06:58.56,Default,Yoshida,0000,0000,0000,,Arrête de m’appeler comme ça.
+Dialogue: 0,0:06:58.77,0:07:02.44,Default,Sayu,0000,0000,0000,,Alors, quoi ?\NComment je dois t’appeler ?
+Dialogue: 0,0:07:03.77,0:07:07.11,Default,Yoshida,0000,0000,0000,,Ça a aucune importance.\NFiche le camp.
+Dialogue: 0,0:07:07.36,0:07:09.36,Default,Sayu,0000,0000,0000,,Tu te souviens vraiment de rien ?
+Dialogue: 0,0:07:09.70,0:07:14.32,Default,Sayu,0000,0000,0000,,C’est toi qui m’as abordée hier soir,\Nprès du poteau électrique.
+Dialogue: 0,0:07:14.53,0:07:17.49,Default,Yoshida,0000,0000,0000,,Hier soir ? Un poteau électrique ?
+Dialogue: 0,0:07:26.63,0:07:29.05,TiretsDefault,Sayu,0228,0000,0000,,– Ça te revient ?\N– Une culotte noire !
+Dialogue: 0,0:07:29.34,0:07:32.76,Default,Sayu,0000,0000,0000,,Pourquoi tu te souviens de ça ?\NÇa se fait pas…
+Dialogue: 0,0:07:33.22,0:07:34.26,Default,Yoshida,0000,0000,0000,,C’est vrai…
+Dialogue: 0,0:07:35.18,0:07:37.43,TiretsDefault,Sayu,0223,0000,0000,,– Dis, m’sieur…\N– Tu vas arrêter, oui ?
+Dialogue: 0,0:07:37.72,0:07:39.10,Default,Sayu,0000,0000,0000,,Comment tu t’appelles ?
+Dialogue: 0,0:07:40.93,0:07:42.10,Default,Yoshida,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:42.35,0:07:43.48,Default,Sayu,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:44.65,0:07:48.40,Default,Sayu,0000,0000,0000,,Ça te va bien.\NT’as bien une tête à t’appeler Yoshida.
+Dialogue: 0,0:07:48.61,0:07:49.69,Default,Yoshida,0000,0000,0000,,Comment ça ?
+Dialogue: 0,0:07:49.82,0:07:51.82,Default,Sayu,0000,0000,0000,,Bon, mange ta soupe.
+Dialogue: 0,0:07:52.07,0:07:54.78,TiretsDefault,Sayu/Yoshida,0209,0000,0000,,– On parlera après.\N– Me donne pas d’ordre !
+Dialogue: 0,0:07:59.54,0:08:01.21,Default,Sayu,0000,0000,0000,,Allez, avant que ça refroidisse.
+Dialogue: 0,0:08:06.79,0:08:07.63,Italique,Yoshida,0000,0000,0000,,C’est bon…
+Dialogue: 0,0:08:10.67,0:08:13.55,Default,Sayu,0000,0000,0000,,Tu aurais aimé que ce soit Gotô\Nqui te la prépare.
+Dialogue: 0,0:08:13.84,0:08:15.47,Default,Yoshida,0000,0000,0000,,Comment tu sais ça ?
+Dialogue: 0,0:08:15.64,0:08:18.93,Default,Sayu,0000,0000,0000,,Tu t’es pris un râteau, hier.\NTu l’as dit dans ton sommeil.
+Dialogue: 0,0:08:24.69,0:08:25.40,Default,Sayu,0000,0000,0000,,Dis…
+Dialogue: 0,0:08:27.73,0:08:29.61,Default,Sayu,0000,0000,0000,,tu veux que je te console ?
+Dialogue: 0,0:08:37.66,0:08:40.29,Default,Yoshida,0000,0000,0000,,Ça suffit avec ça, maintenant.
+Dialogue: 0,0:08:40.83,0:08:42.50,Default,Sayu,0000,0000,0000,,Arrête de mentir.
+Dialogue: 0,0:08:42.83,0:08:43.71,Default,Yoshida,0000,0000,0000,,Idiote…
+Dialogue: 0,0:08:43.83,0:08:47.63,Default,Yoshida,0000,0000,0000,,Je suis pas pathétique\Nau point d’être consolé
+Dialogue: 0,0:08:47.75,0:08:49.75,Default,Yoshida,0000,0000,0000,,par une lycéenne prépubère…
+Dialogue: 0,0:08:52.42,0:08:53.47,Default,Sayu,0000,0000,0000,,Tu sais…
+Dialogue: 0,0:08:53.80,0:08:56.47,Default,Sayu,0000,0000,0000,,j’ai pas mal de poitrine.
+Dialogue: 0,0:08:58.43,0:09:02.39,Default,Yoshida,0000,0000,0000,,Peut-être que c’est pas mal,\Npour une lycéenne…
+Dialogue: 0,0:09:02.68,0:09:04.18,Default,Yoshida,0000,0000,0000,,mais Gotô te bat largement.
+Dialogue: 0,0:09:05.19,0:09:08.15,Default,Sayu,0000,0000,0000,,Carrément ? Elle met quel bonnet ?
+Dialogue: 0,0:09:08.52,0:09:11.98,Default,Yoshida,0000,0000,0000,,J’en sais rien… Un bon F, je dirais.
+Dialogue: 0,0:09:12.11,0:09:13.94,Default,Sayu,0000,0000,0000,,Le même que moi, alors.
+Dialogue: 0,0:09:14.07,0:09:17.11,TiretsDefault,Yoshida/Sayu,0244,0000,0000,,– C’est du F, ça ?\N– Oui.
+Dialogue: 0,0:09:17.36,0:09:21.08,Default,Sayu,0000,0000,0000,,Si elle est plus grosse,\Nce doit être du G ou du H.
+Dialogue: 0,0:09:22.04,0:09:23.41,Default,Yoshida,0000,0000,0000,,Du H…
+Dialogue: 0,0:09:24.00,0:09:24.91,Default,Yoshida,0000,0000,0000,,Je vois.
+Dialogue: 0,0:09:25.25,0:09:26.46,Default,Yoshida,0000,0000,0000,,Bonnet H.
+Dialogue: 0,0:09:27.42,0:09:31.67,Italique,Yoshida,0000,0000,0000,,Rien qu’une fois,\Nj’aimerais me blottir sur ce bonnet H…
+Dialogue: 0,0:09:31.84,0:09:32.80,Default,Sayu,0000,0000,0000,,Mais tu sais,
+Dialogue: 0,0:09:33.17,0:09:37.34,Default,Sayu,0000,0000,0000,,mieux vaut un F à portée de main\Nqu’un H inaccessible, non ?
+Dialogue: 0,0:09:39.09,0:09:43.47,Default,Yoshida,0000,0000,0000,,Pourquoi t’essaies de me tenter\Nà ce point ?
+Dialogue: 0,0:09:43.77,0:09:45.89,Default,Yoshida,0000,0000,0000,,Tu ferais quoi,\Nsi je passais à l’acte ?
+Dialogue: 0,0:09:46.14,0:09:48.31,Default,Sayu,0000,0000,0000,,Bah, je me laisserais faire.
+Dialogue: 0,0:09:48.98,0:09:51.44,Default,Yoshida,0000,0000,0000,,Tu veux coucher avec moi ?
+Dialogue: 0,0:09:51.82,0:09:54.82,Default,Sayu,0000,0000,0000,,Non, pas spécialement.
+Dialogue: 0,0:09:56.11,0:09:57.95,Default,Yoshida,0000,0000,0000,,Qu’est-ce que tu veux, bon sang ?
+Dialogue: 0,0:09:58.20,0:10:00.57,Default,Yoshida,0000,0000,0000,,Il y a des sales types, je te signale.
+Dialogue: 0,0:10:01.28,0:10:03.91,TiretsDefault,Sayu/Yoshida,0192,0000,0000,,– Je te retourne la question.\N– De quoi ?
+Dialogue: 0,0:10:07.83,0:10:12.67,Default,Sayu,0000,0000,0000,,Tu as une fille qui s’offre à toi.\NPourquoi tu lui fais rien ?
+Dialogue: 0,0:10:13.25,0:10:14.30,Default,Yoshida,0000,0000,0000,,Pardon ?
+Dialogue: 0,0:10:14.42,0:10:16.09,Default,Sayu,0000,0000,0000,,Pourquoi tu tires cette tête ?
+Dialogue: 0,0:10:16.63,0:10:19.09,Default,Sayu,0000,0000,0000,,C’est toi qui es pas normal.
+Dialogue: 0,0:10:19.80,0:10:22.01,Default,Sayu,0000,0000,0000,,Jusqu’ici, personne m’a hébergée
+Dialogue: 0,0:10:22.14,0:10:25.35,Default,Sayu,0000,0000,0000,,sans rien exiger en retour.
+Dialogue: 0,0:10:33.98,0:10:35.78,Default,Yoshida,0000,0000,0000,,T’es bête ou quoi ?
+Dialogue: 0,0:10:36.65,0:10:38.40,Default,Yoshida,0000,0000,0000,,Comment tu t’appelles ?
+Dialogue: 0,0:10:39.28,0:10:40.28,Default,Sayu,0000,0000,0000,,Sayu.
+Dialogue: 0,0:10:43.37,0:10:46.16,Default,Yoshida,0000,0000,0000,,Tu viens d’où ?\NFais-moi voir ta carte étudiante.
+Dialogue: 0,0:10:47.83,0:10:52.79,SignNote,Sign,0000,0000,0000,,{\an1\fs12\c&H050301&\bord0\pos(246.8,256.6)}ATTESTE QUE LE TITULAIRE EST BIEN ÉLÈVE\NDE L’ÉTABLISSEMENT SUIVANT :\NLYCÉE Nº 6 D’ASAHIKAWA
+Dialogue: 0,0:10:48.87,0:10:51.75,Default,Yoshida,0000,0000,0000,,Asahikawa ?\NT’es venue seule de Hokkaido ?
+Dialogue: 0,0:10:51.96,0:10:52.79,Default,Sayu,0000,0000,0000,,Oui.
+Dialogue: 0,0:10:53.17,0:10:55.34,Default,Yoshida,0000,0000,0000,,T’es partie quand de là-bas ?
+Dialogue: 0,0:10:56.46,0:10:58.38,Default,Sayu,0000,0000,0000,,Il y a six mois environ.
+Dialogue: 0,0:10:58.51,0:11:00.80,Default,Yoshida,0000,0000,0000,,T’as prévenu tes parents ?
+Dialogue: 0,0:11:01.89,0:11:02.97,Default,Sayu,0000,0000,0000,,Non…
+Dialogue: 0,0:11:03.22,0:11:05.35,Default,Yoshida,0000,0000,0000,,Imbécile ! Dépêche-toi de ren…
+Dialogue: 0,0:11:05.47,0:11:06.56,Default,Sayu,0000,0000,0000,,C’est bon.
+Dialogue: 0,0:11:08.64,0:11:11.85,Default,Sayu,0000,0000,0000,,Ils doivent être soulagés\Nque je ne sois plus là.
+Dialogue: 0,0:11:12.48,0:11:16.44,Italique,Yoshida,0000,0000,0000,,Elle est sérieuse ?\NIl y a rien de bon, vu sa tête.
+Dialogue: 0,0:11:17.65,0:11:19.95,Default,Yoshida,0000,0000,0000,,T’en sais rien.
+Dialogue: 0,0:11:21.41,0:11:22.41,Default,Sayu,0000,0000,0000,,Si.
+Dialogue: 0,0:11:24.32,0:11:28.20,Default,Yoshida,0000,0000,0000,,Si tu veux pas rentrer chez toi\Net que tu vas pas en cours,
+Dialogue: 0,0:11:28.33,0:11:30.00,Default,Yoshida,0000,0000,0000,,de quoi tu vis ?
+Dialogue: 0,0:11:30.58,0:11:32.46,Default,Sayu,0000,0000,0000,,J’utilise mes talents pour crécher…
+Dialogue: 0,0:11:32.62,0:11:34.67,Default,Yoshida,0000,0000,0000,,Qu’est-ce que t’insinues par là ?
+Dialogue: 0,0:11:36.46,0:11:37.75,Default,Yoshida,0000,0000,0000,,Te fiche pas de moi.
+Dialogue: 0,0:11:39.13,0:11:42.05,Default,Yoshida,0000,0000,0000,,Je sais pas sur quels types\Nt’es tombée,
+Dialogue: 0,0:11:42.47,0:11:45.64,Default,Yoshida,0000,0000,0000,,mais tu m’attires pas du tout.
+Dialogue: 0,0:11:47.14,0:11:49.68,Default,Yoshida,0000,0000,0000,,Tu comptes faire quoi,\Nsi je te vire ?
+Dialogue: 0,0:11:49.81,0:11:52.35,Default,Sayu,0000,0000,0000,,Je chercherai le suivant.
+Dialogue: 0,0:11:52.69,0:11:55.23,Default,Yoshida,0000,0000,0000,,Comment, concrètement ?
+Dialogue: 0,0:11:57.02,0:11:58.40,Default,Sayu,0000,0000,0000,,Eh bah…
+Dialogue: 0,0:12:01.95,0:12:04.70,Italique,Yoshida,0000,0000,0000,,Pourquoi tu piges pas ?
+Dialogue: 0,0:12:07.78,0:12:08.66,Default,Yoshida,0000,0000,0000,,Travaille.
+Dialogue: 0,0:12:10.33,0:12:14.92,Default,Yoshida,0000,0000,0000,,Les gamins qui décrochent de l’école\Nsurvivent en gagnant leur vie.
+Dialogue: 0,0:12:15.42,0:12:19.42,Default,Sayu,0000,0000,0000,,Mais je pourrai pas payer un loyer\Navec un petit boulot…
+Dialogue: 0,0:12:19.92,0:12:21.38,Default,Yoshida,0000,0000,0000,,Tu peux vivre ici.
+Dialogue: 0,0:12:23.59,0:12:24.38,Default,Sayu,0000,0000,0000,,Mais…
+Dialogue: 0,0:12:25.89,0:12:29.97,Default,Yoshida,0000,0000,0000,,« J’ai ni argent ni toit,\Nalors je vais séduire les mecs. »
+Dialogue: 0,0:12:30.22,0:12:33.60,Default,Yoshida,0000,0000,0000,,Une idiote qui pense ça\Nmérite une bonne leçon !
+Dialogue: 0,0:12:34.69,0:12:36.23,Default,Sayu,0000,0000,0000,,Me traite pas d’idiote…
+Dialogue: 0,0:12:36.35,0:12:38.27,Default,Yoshida,0000,0000,0000,,Tu l’es ! Une triple idiote, même !
+Dialogue: 0,0:12:38.82,0:12:41.32,Default,Yoshida,0000,0000,0000,,Pourrie gâtée\Nqui comprend rien à la vie…
+Dialogue: 0,0:12:44.86,0:12:46.28,Italique,Yoshida,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:12:46.66,0:12:49.58,Italique,Yoshida,0000,0000,0000,,Pourquoi\Nelle est pas tombée amoureuse
+Dialogue: 0,0:12:49.99,0:12:51.87,Italique,Yoshida,0000,0000,0000,,et a pas eu la vie
+Dialogue: 0,0:12:52.20,0:12:54.83,Italique,Yoshida,0000,0000,0000,,de toutes les ados de son âge ?
+Dialogue: 0,0:12:57.08,0:13:01.30,Default,Yoshida,0000,0000,0000,,Tu commenceras par faire\Nles tâches ménagères. C’est ton taf.
+Dialogue: 0,0:13:02.46,0:13:03.34,Default,Yoshida,0000,0000,0000,,OK ?
+Dialogue: 0,0:13:03.51,0:13:07.01,Default,Yoshida,0000,0000,0000,,L’essentiel pour l’instant\Nest de prendre nos marques.
+Dialogue: 0,0:13:07.14,0:13:09.22,Default,Yoshida,0000,0000,0000,,T’en feras pas qu’à ta tête.
+Dialogue: 0,0:13:11.43,0:13:12.77,Default,Sayu,0000,0000,0000,,Ce que tu viens de dire…
+Dialogue: 0,0:13:12.93,0:13:15.52,Default,Sayu,0000,0000,0000,,C’est comme m’autoriser\Nà rester définitivement.
+Dialogue: 0,0:13:15.64,0:13:17.19,Default,Yoshida,0000,0000,0000,,Pas définitivement.
+Dialogue: 0,0:13:17.56,0:13:19.65,Default,Yoshida,0000,0000,0000,,Pars quand t’en auras marre\Nde fuguer.
+Dialogue: 0,0:13:21.23,0:13:22.65,Default,Sayu,0000,0000,0000,,Jusque-là, je peux ?
+Dialogue: 0,0:13:23.82,0:13:25.40,Italique,Yoshida,0000,0000,0000,,Certes, ce sera galère,
+Dialogue: 0,0:13:25.53,0:13:28.95,Italique,Yoshida,0000,0000,0000,,mais il y a sans doute\Ndes modes de vie plus sains
+Dialogue: 0,0:13:29.07,0:13:31.37,Italique,Yoshida,0000,0000,0000,,que de jouer la chaudasse\Npour squatter.
+Dialogue: 0,0:13:31.99,0:13:35.96,Italique,Yoshida,0000,0000,0000,,Je crois qu’elle en a pas\Nvraiment conscience.
+Dialogue: 0,0:13:36.62,0:13:39.33,Italique,Yoshida,0000,0000,0000,,Cette discussion\Nm’a permis de me rendre compte
+Dialogue: 0,0:13:40.25,0:13:42.42,Italique,Yoshida,0000,0000,0000,,qu’elle a beau être pourrie gâtée,
+Dialogue: 0,0:13:42.67,0:13:46.63,Italique,Yoshida,0000,0000,0000,,elle pourrait rester là des années,\Nsi je m’y prends mal.
+Dialogue: 0,0:13:49.55,0:13:53.06,Default,Yoshida,0000,0000,0000,,Je t’héberge jusqu’à ce que tu sois\Nmoins pourrie gâtée.
+Dialogue: 0,0:13:54.60,0:13:55.56,Default,Yoshida,0000,0000,0000,,Par contre,
+Dialogue: 0,0:13:56.14,0:13:59.94,Default,Yoshida,0000,0000,0000,,si tu tentes de me chauffer,\Ntu dégages !
+Dialogue: 0,0:14:00.27,0:14:01.52,Default,Sayu,0000,0000,0000,,D’accord !
+Dialogue: 0,0:14:02.27,0:14:05.44,Italique,Yoshida,0000,0000,0000,,C’est ainsi qu’un employé de 26 ans
+Dialogue: 0,0:14:05.57,0:14:09.49,Italique,Yoshida,0000,0000,0000,,et une lycéenne ont commencé\Nleur vie bizarre à deux.
+Dialogue: 0,0:14:10.03,0:14:11.70,Italique,Yoshida,0000,0000,0000,,Mais à ce moment-là,
+Dialogue: 0,0:14:12.66,0:14:16.54,Italique,Yoshida,0000,0000,0000,,je sous-estimais\Nlargement les difficultés
+Dialogue: 0,0:14:16.66,0:14:19.71,Italique,Yoshida,0000,0000,0000,,que tout ça pouvait impliquer.
+Dialogue: 0,0:14:21.71,0:14:23.75,Default,Hashimoto,0000,0000,0000,,Et vous avez conclu cet accord ?
+Dialogue: 0,0:14:24.00,0:14:26.34,Default,Yoshida,0000,0000,0000,,Baisse d’un ton !
+Dialogue: 0,0:14:26.92,0:14:31.26,Default,Hashimoto,0000,0000,0000,,Mais ça craint, quand même.\NIl n’y a pas d’avis de recherche ?
+Dialogue: 0,0:14:31.60,0:14:34.68,Default,Yoshida,0000,0000,0000,,J’ai cherché sur Internet,
+Dialogue: 0,0:14:34.93,0:14:37.02,Default,Yoshida,0000,0000,0000,,mais j’ai rien trouvé.
+Dialogue: 0,0:14:37.35,0:14:40.85,Default,Hashimoto,0000,0000,0000,,Quand même, une lycéenne\Nque tu ne connais pas du tout…
+Dialogue: 0,0:14:41.10,0:14:44.27,Default,Yoshida,0000,0000,0000,,Ouais, quand j’y pense,\Nça craint un max…
+Dialogue: 0,0:14:48.74,0:14:52.03,Default,Yoshida,0000,0000,0000,,Je me demande si elle a déjà mangé.
+Dialogue: 0,0:14:53.95,0:14:57.20,Italique,Hashimoto,0000,0000,0000,,Tu ferais mieux\Nde ne pas trop t’attacher.
+Dialogue: 0,0:14:57.91,0:15:01.17,Italique,Hashimoto,0000,0000,0000,,Ramène-la à ses parents\Navant d’avoir des ennuis.
+Dialogue: 0,0:15:01.63,0:15:05.42,Italique,Yoshida,0000,0000,0000,,Je sais bien tout ça, mais bon…
+Dialogue: 0,0:15:06.09,0:15:09.26,Italique,Sayu,0000,0000,0000,,Ils doivent être soulagés\Nque je ne sois plus là.
+Dialogue: 0,0:15:10.51,0:15:14.89,Default,Yoshida,0000,0000,0000,,Une lycéenne devrait pas\Ntirer une tronche pareille…
+Dialogue: 0,0:15:21.90,0:15:22.98,Default,Yoshida,0000,0000,0000,,De la soupe miso ?
+Dialogue: 0,0:15:24.27,0:15:26.19,Default,Sayu,0000,0000,0000,,Bonsoir, papa.
+Dialogue: 0,0:15:26.44,0:15:28.44,Default,Yoshida,0000,0000,0000,,Arrête. Je vais gerber.
+Dialogue: 0,0:15:30.11,0:15:33.78,Default,Sayu,0000,0000,0000,,Par contre, pour l’instant,\Nj’ai préparé que de la soupe…
+Dialogue: 0,0:15:35.74,0:15:38.50,Default,Yoshida,0000,0000,0000,,J’ai acheté des plateaux-repas.\NPour toi, aussi.
+Dialogue: 0,0:15:45.21,0:15:47.63,Italique,Yoshida,0000,0000,0000,,Elle a fait du repassage ?
+Dialogue: 0,0:15:48.84,0:15:51.55,Italique,Yoshida,0000,0000,0000,,Tout compte fait,\Nelle est assez dégourdie…
+Dialogue: 0,0:16:00.35,0:16:02.02,Default,Sayu,0000,0000,0000,,Merci pour le repas.
+Dialogue: 0,0:16:04.60,0:16:06.15,Default,Sayu,0000,0000,0000,,Un souci, Yoshida ?
+Dialogue: 0,0:16:06.69,0:16:08.15,Default,Yoshida,0000,0000,0000,,Non, c’est rien.
+Dialogue: 0,0:16:08.82,0:16:10.78,Default,Yoshida,0000,0000,0000,,Au fait, où est le cendrier ?
+Dialogue: 0,0:16:12.36,0:16:15.82,Default,Sayu,0000,0000,0000,,Désolée, je l’ai lavé\Nquand j’ai fait la vaisselle.
+Dialogue: 0,0:16:16.16,0:16:17.83,Default,Yoshida,0000,0000,0000,,D’accord. Merci.
+Dialogue: 0,0:16:23.04,0:16:23.79,Default,Yoshida,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:16:23.92,0:16:26.79,Default,Sayu,0000,0000,0000,,Pourquoi tu vas sur le balcon ?\NTu peux rester ici.
+Dialogue: 0,0:16:27.59,0:16:29.00,Default,Yoshida,0000,0000,0000,,Mais tu es dans la pièce.
+Dialogue: 0,0:16:32.13,0:16:33.63,Default,Sayu,0000,0000,0000,,T’es gentil.
+Dialogue: 0,0:16:33.76,0:16:34.93,Default,Yoshida,0000,0000,0000,,Gentil ?
+Dialogue: 0,0:16:35.18,0:16:37.55,Default,Sayu,0000,0000,0000,,Les gars que j’ai rencontrés\Njusqu’ici
+Dialogue: 0,0:16:37.72,0:16:40.77,Default,Sayu,0000,0000,0000,,fumaient devant moi\Nsans se poser de questions.
+Dialogue: 0,0:16:41.73,0:16:43.56,Italique,Yoshida,0000,0000,0000,,Pourquoi elle continue
+Dialogue: 0,0:16:43.69,0:16:47.94,Italique,Yoshida,0000,0000,0000,,de baser ses critères\Nsur des types aussi pathétiques ?
+Dialogue: 0,0:16:49.07,0:16:49.94,Default,Yoshida,0000,0000,0000,,Sayu !
+Dialogue: 0,0:16:51.53,0:16:53.74,Default,Yoshida,0000,0000,0000,,Que ce soit clair !\NJe suis pas gentil.
+Dialogue: 0,0:16:53.86,0:16:56.11,Default,Yoshida,0000,0000,0000,,C’est eux qui sont des ordures.
+Dialogue: 0,0:16:57.28,0:17:00.99,Default,Yoshida,0000,0000,0000,,Baisse pas tes standards.\NTu dois avoir les bons critères.
+Dialogue: 0,0:17:01.62,0:17:02.83,Default,Sayu,0000,0000,0000,,D’accord.
+Dialogue: 0,0:17:09.67,0:17:12.71,Italique,Yoshida,0000,0000,0000,,Je peux pas m’empêcher\Nde jouer au papa poule.
+Dialogue: 0,0:17:13.09,0:17:16.30,Italique,Yoshida,0000,0000,0000,,Je comprends pas les mecs\Nqui sont excités par ça.
+Dialogue: 0,0:17:20.72,0:17:23.98,Italique,Yoshida,0000,0000,0000,,Si Sayu a des critères aussi bas,
+Dialogue: 0,0:17:24.10,0:17:26.77,Italique,Yoshida,0000,0000,0000,,c’est parce qu’elle est trop gâtée,\Nde base.
+Dialogue: 0,0:17:27.15,0:17:31.27,Italique,Yoshida,0000,0000,0000,,Mais c’est sûr que certains parents\Nou l’environnement
+Dialogue: 0,0:17:31.52,0:17:34.74,Italique,Yoshida,0000,0000,0000,,peuvent pousser cette tendance\Ndans le mauvais sens.
+Dialogue: 0,0:17:35.32,0:17:36.95,Default,Yoshida,0000,0000,0000,,Quelle bande de tocards…
+Dialogue: 0,0:17:37.49,0:17:39.57,Default,Yoshida,0000,0000,0000,,Tous les mêmes…
+Dialogue: 0,0:17:40.45,0:17:46.16,Italique,Yoshida,0000,0000,0000,,Je vaux pas mieux, en passant l’éponge\Net en lui offrant une sortie.
+Dialogue: 0,0:17:48.00,0:17:48.92,Default,Yoshida,0000,0000,0000,,Bon…
+Dialogue: 0,0:17:50.00,0:17:52.55,Default,Yoshida,0000,0000,0000,,qu’est-ce que je veux faire ?
+Dialogue: 0,0:17:59.76,0:18:02.64,Default,Yoshida,0000,0000,0000,,Désolé, j’ai laissé mon réveil\Nalors que je bosse pas…
+Dialogue: 0,0:18:03.18,0:18:04.31,Default,Sayu,0000,0000,0000,,C’est rien.
+Dialogue: 0,0:18:05.02,0:18:08.90,Default,Sayu,0000,0000,0000,,Je comptais me lever tôt\Npour faire une lessive.
+Dialogue: 0,0:18:15.78,0:18:19.11,SignNote,Sign,0000,0000,0000,,{\an1\fs9\c&H000000&\3c&HFDFDFB&\pos(232.4,299.8)}UN HOMME ARRÊTÉ\NPOUR AVOIR KIDNAPPÉ UNE LYCÉENNE\N\N\NUN HOMME DE PROFESSION INCONNUE\NSUSPECTÉ DE KIDNAPPING A ÉTÉ ARRÊTÉ\NÀ MUSASHINOMARU.
+Dialogue: 0,0:18:17.28,0:18:18.86,Default,Sayu,0000,0000,0000,,Excuse-moi, je passe…
+Dialogue: 0,0:18:22.66,0:18:24.37,Default,Yoshida,0000,0000,0000,,On voit ta culotte, je te signale.
+Dialogue: 0,0:18:24.66,0:18:27.08,Default,Sayu,0000,0000,0000,,Forcément, je suis en jupe.
+Dialogue: 0,0:18:27.66,0:18:30.13,Default,Yoshida,0000,0000,0000,,Au fait, t’es toujours en uniforme.
+Dialogue: 0,0:18:30.33,0:18:31.96,Default,Sayu,0000,0000,0000,,C’est tout ce que j’ai.
+Dialogue: 0,0:18:32.17,0:18:34.84,Default,Sayu,0000,0000,0000,,Je le lave, il n’est pas sale.
+Dialogue: 0,0:18:35.42,0:18:39.76,Default,Yoshida,0000,0000,0000,,Mais quand même, c’est bizarre\Nde porter ça en intérieur…
+Dialogue: 0,0:18:41.59,0:18:44.43,Default,Sayu,0000,0000,0000,,J’en ai pas besoin.\NRentrons, Yoshida.
+Dialogue: 0,0:18:44.60,0:18:47.35,Default,Yoshida,0000,0000,0000,,Où est le problème ?\NSois pas gênée.
+Dialogue: 0,0:18:47.73,0:18:49.39,Default,Yoshida,0000,0000,0000,,T’as que ton uniforme.
+Dialogue: 0,0:18:50.81,0:18:55.15,Default,Yoshida,0000,0000,0000,,Du coup, je vais te payer des fringues\Net un nouveau futon.
+Dialogue: 0,0:18:56.32,0:18:59.61,Default,Yoshida,0000,0000,0000,,Tu te plains au réveil\Nque t’as mal au dos, chaque matin.
+Dialogue: 0,0:19:00.78,0:19:03.62,TiretsDefault,Sayu/Yoshida,0257,0000,0000,,– J’ai dit ça ?\N– Je t’assure !
+Dialogue: 0,0:19:05.62,0:19:06.62,Default,Sayu,0000,0000,0000,,Oui, mais…
+Dialogue: 0,0:19:07.83,0:19:08.87,Default,Sayu,0000,0000,0000,,Tout de même…
+Dialogue: 0,0:19:10.37,0:19:15.30,Default,Sayu,0000,0000,0000,,Je sais pas comment te rendre\Nla pareille, si tu es aussi gentil.
+Dialogue: 0,0:19:18.17,0:19:20.55,Italique,Yoshida,0000,0000,0000,,C’était donc ça…
+Dialogue: 0,0:19:20.80,0:19:23.01,Italique,Yoshida,0000,0000,0000,,Elle joue pas les modestes,
+Dialogue: 0,0:19:23.14,0:19:25.85,Italique,Yoshida,0000,0000,0000,,mais elle veut renvoyer l’ascenseur…
+Dialogue: 0,0:19:26.39,0:19:28.77,Italique,Yoshida,0000,0000,0000,,C’est qu’une gamine, pourtant.
+Dialogue: 0,0:19:31.06,0:19:32.73,Default,Yoshida,0000,0000,0000,,Je suis débordé,
+Dialogue: 0,0:19:33.31,0:19:36.11,Default,Yoshida,0000,0000,0000,,donc j’ai pas le temps\Npour les tâches ménagères.
+Dialogue: 0,0:19:37.11,0:19:39.86,Default,Yoshida,0000,0000,0000,,Mais à présent,\Nc’est toi qui fais tout.
+Dialogue: 0,0:19:40.40,0:19:44.49,Default,Yoshida,0000,0000,0000,,Depuis une semaine,\Nje suis bien plus peinard à la maison.
+Dialogue: 0,0:19:46.20,0:19:47.95,Default,Yoshida,0000,0000,0000,,Ça te suffit pas ?
+Dialogue: 0,0:19:51.33,0:19:54.67,Default,Sayu,0000,0000,0000,,Si ça te va, alors ça me va aussi.
+Dialogue: 0,0:19:56.25,0:19:57.84,Default,Yoshida,0000,0000,0000,,Marché conclu, dans ce cas.
+Dialogue: 0,0:20:00.92,0:20:02.09,Default,Sayu,0000,0000,0000,,C’est trop moelleux !
+Dialogue: 0,0:20:02.84,0:20:04.43,Default,Yoshida,0000,0000,0000,,Tu vois que c’est mieux.
+Dialogue: 0,0:20:05.05,0:20:07.89,Default,Sayu,0000,0000,0000,,Oui ! Je vais bien dormir !
+Dialogue: 0,0:20:11.18,0:20:12.23,Default,Sayu,0000,0000,0000,,Yoshida…
+Dialogue: 0,0:20:14.02,0:20:15.02,Default,Sayu,0000,0000,0000,,Tu dors avec moi ?
+Dialogue: 0,0:20:16.77,0:20:20.24,Default,Yoshida,0000,0000,0000,,T’abuses ! Je t’avais mise en garde\Nsi tu recommençais !
+Dialogue: 0,0:20:21.24,0:20:24.74,Default,Sayu,0000,0000,0000,,J’ai fait\Naucune proposition indécente.
+Dialogue: 0,0:20:29.16,0:20:30.91,Default,Sayu,0000,0000,0000,,T’as juste l’esprit mal placé.
+Dialogue: 0,0:20:34.21,0:20:35.25,Default,Yoshida,0000,0000,0000,,En fait…
+Dialogue: 0,0:20:36.58,0:20:38.21,Default,Yoshida,0000,0000,0000,,t’es mignonne quand tu ris.
+Dialogue: 0,0:20:43.01,0:20:44.63,Default,Sayu,0000,0000,0000,,Pourquoi tu me sors ça ?
+Dialogue: 0,0:20:45.47,0:20:47.35,Default,Yoshida,0000,0000,0000,,Tu m’intéresses pas, je te dis !
+Dialogue: 0,0:20:50.10,0:20:51.47,Default,Sayu,0000,0000,0000,,Yoshida…
+Dialogue: 0,0:20:54.02,0:20:55.14,Default,Sayu,0000,0000,0000,,Merci.
+Dialogue: 0,0:20:56.77,0:20:57.48,Default,Yoshida,0000,0000,0000,,De rien.
+Dialogue: 0,0:20:59.07,0:21:01.86,Default,Hashimoto,0000,0000,0000,,On raconte que tu as une copine.
+Dialogue: 0,0:21:02.03,0:21:03.82,Default,Yoshida,0000,0000,0000,,Hein ? Ça sort d’où ?
+Dialogue: 0,0:21:04.15,0:21:06.49,Default,Hashimoto,0000,0000,0000,,Tu pars plus tôt tous les jours.
+Dialogue: 0,0:21:06.66,0:21:09.41,Default,Hashimoto,0000,0000,0000,,Tes chemises sont propres\Net bien repassées.
+Dialogue: 0,0:21:10.12,0:21:12.08,Default,Hashimoto,0000,0000,0000,,Et puis, tu as bonne mine
+Dialogue: 0,0:21:12.29,0:21:15.54,Default,Hashimoto,0000,0000,0000,,et tu es plus concentré\Ndans ton boulot.
+Dialogue: 0,0:21:16.21,0:21:17.92,Default,Hashimoto,0000,0000,0000,,C’est ce que disent les filles.
+Dialogue: 0,0:21:18.04,0:21:20.55,Default,Yoshida,0000,0000,0000,,Franchement, n’importe quoi…
+Dialogue: 0,0:21:23.05,0:21:25.43,Default,Hashimoto,0000,0000,0000,,En vérité, c’est une lycéenne.
+Dialogue: 0,0:21:28.47,0:21:29.85,Default,Yoshida,0000,0000,0000,,Pas faux…
+Dialogue: 0,0:21:30.31,0:21:33.56,Default,Hashimoto,0000,0000,0000,,Ramener une fille chez soi,\Nça fait un peu léger,
+Dialogue: 0,0:21:33.68,0:21:35.69,Default,Hashimoto,0000,0000,0000,,mais tu prends ça au sérieux.
+Dialogue: 0,0:21:36.89,0:21:39.06,Default,Yoshida,0000,0000,0000,,Faut croire…
+Dialogue: 0,0:21:41.40,0:21:42.73,Italique,Yoshida,0000,0000,0000,,Il a pas tort.
+Dialogue: 0,0:21:43.11,0:21:46.28,Italique,Yoshida,0000,0000,0000,,C’est pas du tout mon style,
+Dialogue: 0,0:21:46.70,0:21:48.91,Italique,Yoshida,0000,0000,0000,,mais c’est une brave petite.
+Dialogue: 0,0:21:49.32,0:21:52.04,Italique,Yoshida,0000,0000,0000,,Elle sait tenir un foyer\Net elle est sympa.
+Dialogue: 0,0:21:52.70,0:21:54.54,Italique,Yoshida,0000,0000,0000,,Pourquoi elle a fugué ?
+Dialogue: 0,0:21:55.50,0:21:58.62,Italique,Yoshida,0000,0000,0000,,Et en plus, jusque Tokyo ?
+Dialogue: 0,0:22:10.22,0:22:11.85,Default,Sayu,0000,0000,0000,,Yoshida, ta barbe…
+Dialogue: 0,0:22:12.68,0:22:13.97,Default,Sayu,0000,0000,0000,,Tu la rases pas ?
+Dialogue: 0,0:22:16.10,0:22:18.23,Default,Yoshida,0000,0000,0000,,Non, j’ai la flemme.
+Dialogue: 0,0:22:18.35,0:22:20.61,Default,Sayu,0000,0000,0000,,Parfois, tu te rases,\Net parfois, non.
+Dialogue: 0,0:22:20.86,0:22:22.69,Default,Sayu,0000,0000,0000,,Il y a une raison particulière ?
+Dialogue: 0,0:22:22.82,0:22:25.44,Default,Yoshida,0000,0000,0000,,Aucune. Je rase quand ça pousse.
+Dialogue: 0,0:22:25.94,0:22:28.57,Default,Sayu,0000,0000,0000,,Et donc là,\Non peut pas dire que ça pousse ?
+Dialogue: 0,0:22:30.03,0:22:32.66,TiretsDefault,Yoshida/Sayu,0182,0000,0000,,– Je devrais peut-être le faire.\N– Faut savoir.
+Dialogue: 0,0:22:33.33,0:22:37.71,Default,Yoshida,0000,0000,0000,,Je sais pas trop…\NJe trouve que ça fait viril.
+Dialogue: 0,0:22:37.83,0:22:38.66,Default,Sayu,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:22:39.08,0:22:41.17,Default,Yoshida,0000,0000,0000,,Quand je venais d’avoir 20 ans,
+Dialogue: 0,0:22:41.29,0:22:45.09,Default,Yoshida,0000,0000,0000,,je me rasais\Ndès que j’avais trois poils.
+Dialogue: 0,0:22:45.67,0:22:48.30,Default,Yoshida,0000,0000,0000,,J’avais peur de zapper une zone.
+Dialogue: 0,0:22:49.13,0:22:53.39,Default,Yoshida,0000,0000,0000,,La barbe est associée\Nà l’image d’un homme mûr.
+Dialogue: 0,0:22:54.26,0:22:55.64,Default,Yoshida,0000,0000,0000,,Pas sûr que ce soit juste.
+Dialogue: 0,0:22:56.10,0:22:57.10,Default,Sayu,0000,0000,0000,,Comment ça ?
+Dialogue: 0,0:22:59.64,0:23:03.56,Default,Yoshida,0000,0000,0000,,On est un homme\Nquand on a la flemme de se raser.
+Dialogue: 0,0:23:06.78,0:23:07.94,Default,Sayu,0000,0000,0000,,Yoshida,
+Dialogue: 0,0:23:09.20,0:23:11.61,Default,Sayu,0000,0000,0000,,ça te va pas trop,\Nla barbe de trois jours.
+Dialogue: 0,0:23:11.74,0:23:12.91,Default,Yoshida,0000,0000,0000,,Je me moque de ton avis.
+Dialogue: 0,0:23:13.87,0:23:15.20,Default,Sayu,0000,0000,0000,,Yoshida,
+Dialogue: 0,0:23:15.49,0:23:17.20,Default,Sayu,0000,0000,0000,,tu vas être en retard.
+Dialogue: 0,0:23:18.12,0:23:19.66,Default,Yoshida,0000,0000,0000,,Je sais bien !
+Dialogue: 0,0:23:23.75,0:23:25.63,Italique,Yoshida,0000,0000,0000,,Je me rase, tout compte fait ?
+Dialogue: 0,0:23:26.05,0:23:30.22,TitreS,Sign,0000,0000,0000,,{\fad(0,1500)\blur5\pos(433.6,198.4)}WHEN I SHAVED MY BEARD
+Dialogue: 0,0:23:30.30,0:23:35.05,TitreS,Sign,0000,0000,0000,,{\fad(500,0)\fs25\bord0\shad1\pos(492,50.4)\4c&H616161&}À SUIVRE, « LE PORTABLE »
+Dialogue: 0,0:23:35.05,0:23:40.06,SignNote,Sign,0000,0000,0000,,{\c&HE63CEA&\3c&HFFFEF9&\pos(509.6,279.4)}À LA PROCHAINE !

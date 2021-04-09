@@ -1,0 +1,395 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,0035,0499,0054,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,0035,0038,0050,1
+Style: sign_1653_9_The_Teenage_Girl,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,7,0035,0200,0050,1
+Style: sign_1987_16_Rump__200_Yen,Arial,20,&H00CBEAF4,&H000000FF,&H001A2034,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0478,0077,0020,1
+Style: sign_1987_15_Heart__200_Yen,Arial,20,&H00CBEAF4,&H000000FF,&H001A2034,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0245,0309,0020,1
+Style: sign_1987_14_Liver__200_Yen,Arial,20,&H00CBEAF4,&H000000FF,&H001A2034,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0114,0441,0020,1
+Style: sign_15533_166_Asahikawa_High_S,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0060,0364,0040,1
+Style: sign_25754_269_Alarm,Arial,20,&H00FFFFFF,&H000000FF,&H00B66668,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0288,0288,0018,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,0035,0050,0070,1
+Style: See you next week,Arial,20,&H00E145E2,&H000000FF,&H00FFE4FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0388,0045,0067,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.16,0:00:24.25,Main,,0000,0000,0000,,All the food was delicious.
+Dialogue: 0,0:00:24.88,0:00:27.96,Main,,0000,0000,0000,,Thanks for inviting me, Yoshida-kun.
+Dialogue: 0,0:00:32.20,0:00:34.49,Main,,0000,0000,0000,,Um, Gotou-san...
+Dialogue: 0,0:00:38.58,0:00:41.35,Main,,0000,0000,0000,,Would you like to come \Nto my place after this?
+Dialogue: 0,0:00:46.26,0:00:50.52,Main,,0000,0000,0000,,I'm sorry. I don't mention it at work,
+Dialogue: 0,0:00:50.87,0:00:53.51,Main,,0000,0000,0000,,but I'm seeing someone.
+Dialogue: 0,0:00:56.04,0:00:59.32,Italics Top,,0000,0000,0000,,And so, my unrequited love came to an end.
+Dialogue: 0,0:01:03.86,0:01:09.07,Main,,0000,0000,0000,,If you've got a man, then just say so!
+Dialogue: 0,0:01:08.92,0:01:13.92,sign_1653_9_The_Teenage_Girl,,0000,0000,0000,,{\fad(482,472)}"The Teenage Girl Beneath the Lamplight"
+Dialogue: 0,0:01:09.07,0:01:11.55,Main,,0000,0000,0000,,Hey, Yoshida, you're being too loud!
+Dialogue: 0,0:01:11.55,0:01:14.63,Main,,0000,0000,0000,,Sorry, he's a little drunk.
+Dialogue: 0,0:01:15.19,0:01:17.21,Main,,0000,0000,0000,,Cut it out.
+Dialogue: 0,0:01:17.21,0:01:21.94,Main,,0000,0000,0000,,You dumbass! I'm not done being mad yet!
+Dialogue: 0,0:01:22.85,0:01:25.45,Main,,0000,0000,0000,,I was wondering why you wanted \Nto talk so suddenly.
+Dialogue: 0,0:01:22.85,0:01:27.56,sign_1987_14_Liver__200_Yen,,0000,0000,0000,,Liver \N200 Yen
+Dialogue: 0,0:01:22.85,0:01:27.56,sign_1987_15_Heart__200_Yen,,0000,0000,0000,,Heart \N200 Yen
+Dialogue: 0,0:01:22.85,0:01:27.56,sign_1987_16_Rump__200_Yen,,0000,0000,0000,,Rump \N200 Yen
+Dialogue: 0,0:01:25.45,0:01:27.18,Main,,0000,0000,0000,,You just wanted to bitch\Nabout being rejected.
+Dialogue: 0,0:01:27.18,0:01:31.32,Main,,0000,0000,0000,,Damn it! She said she'd been \Nseeing the guy for five years!
+Dialogue: 0,0:01:31.32,0:01:32.76,Main,,0000,0000,0000,,She tricked me!
+Dialogue: 0,0:01:32.76,0:01:35.34,Main,,0000,0000,0000,,She stole my heart and won't give it back!
+Dialogue: 0,0:01:37.06,0:01:38.68,Main,,0000,0000,0000,,Gimme another glass of beer!
+Dialogue: 0,0:01:38.68,0:01:40.20,Main,,0000,0000,0000,,You're drinking too much.
+Dialogue: 0,0:01:40.20,0:01:42.92,Main,,0000,0000,0000,,It's fine. We're off tomorrow!
+Dialogue: 0,0:01:45.11,0:01:47.36,Main,,0000,0000,0000,,I'm heading home before the trains shut down.
+Dialogue: 0,0:01:47.36,0:01:48.75,Main,,0000,0000,0000,,My wife's waiting for me.
+Dialogue: 0,0:01:48.75,0:01:51.21,Main,,0000,0000,0000,,Fine!
+Dialogue: 0,0:01:55.51,0:01:58.34,Main,,0000,0000,0000,,Damn it all. Gotou...
+Dialogue: 0,0:02:23.28,0:02:25.16,Main,,0000,0000,0000,,Hey, you. Teenage girl.
+Dialogue: 0,0:02:27.94,0:02:30.70,Main,,0000,0000,0000,,What are you doing out at this hour?
+Dialogue: 0,0:02:30.70,0:02:32.42,Main,,0000,0000,0000,,Go home.
+Dialogue: 0,0:02:32.42,0:02:34.39,Main,,0000,0000,0000,,There aren't any trains running.
+Dialogue: 0,0:02:35.00,0:02:36.97,Main,,0000,0000,0000,,So are you gonna sit there all night?
+Dialogue: 0,0:02:37.60,0:02:39.72,Main,,0000,0000,0000,,That sounds like it'd be pretty cold.
+Dialogue: 0,0:02:39.72,0:02:41.43,Main,,0000,0000,0000,,So what will you do?
+Dialogue: 0,0:02:51.36,0:02:52.86,Main,,0000,0000,0000,,Let me stay at your place, Mister.
+Dialogue: 0,0:02:54.13,0:02:55.08,Main,,0000,0000,0000,,"Mister"—
+Dialogue: 0,0:02:55.67,0:03:00.98,Main,,0000,0000,0000,,Listen. What kind of teenage girl wants \Nto stay at the place of a man she's never met?
+Dialogue: 0,0:03:02.18,0:03:04.58,Main,,0000,0000,0000,,But I don't have anywhere to go tonight.
+Dialogue: 0,0:03:04.92,0:03:08.75,Main,,0000,0000,0000,,If you head back to the station, you\Ncan sleep at a karaoke place or internet café.
+Dialogue: 0,0:03:08.75,0:03:10.04,Main,,0000,0000,0000,,I don't have any money.
+Dialogue: 0,0:03:10.41,0:03:13.82,Main,,0000,0000,0000,,So I'm supposed to let you stay for free?
+Dialogue: 0,0:03:13.82,0:03:15.83,Main,,0000,0000,0000,,Well...
+Dialogue: 0,0:03:17.91,0:03:19.98,Main,,0000,0000,0000,,I'll let you do me, so let me stay.
+Dialogue: 0,0:03:22.16,0:03:25.37,Italics,,0000,0000,0000,,Are all teenage girls like this now?
+Dialogue: 0,0:03:26.07,0:03:28.72,Italics,,0000,0000,0000,,No, that's definitely not true.
+Dialogue: 0,0:03:29.76,0:03:31.44,Italics,,0000,0000,0000,,She's just weird!
+Dialogue: 0,0:03:32.24,0:03:34.62,Main,,0000,0000,0000,,Don't say that, even as a joke.
+Dialogue: 0,0:03:34.62,0:03:37.12,Main,,0000,0000,0000,,It's not a joke. I'm fine with it.
+Dialogue: 0,0:03:37.12,0:03:39.31,Main,,0000,0000,0000,,Well, I'm not.
+Dialogue: 0,0:03:39.31,0:03:41.66,Main,,0000,0000,0000,,I'm not sleeping with a little kid.
+Dialogue: 0,0:03:43.59,0:03:44.66,Main,,0000,0000,0000,,Okay...
+Dialogue: 0,0:03:45.36,0:03:46.87,Main,,0000,0000,0000,,Then let me stay for free!
+Dialogue: 0,0:03:52.64,0:03:54.50,Main,,0000,0000,0000,,Hello!
+Dialogue: 0,0:03:56.67,0:03:57.66,Main,,0000,0000,0000,,It's filthy.
+Dialogue: 0,0:03:57.66,0:04:00.09,Main,,0000,0000,0000,,Why would a man living in a\None-room apartment keep it clean?
+Dialogue: 0,0:04:00.59,0:04:02.05,Main,,0000,0000,0000,,I've seen some that were clean.
+Dialogue: 0,0:04:03.56,0:04:04.47,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:04:04.84,0:04:06.07,Main,,0000,0000,0000,,Uh, nothing...
+Dialogue: 0,0:04:06.47,0:04:08.20,Italics,,0000,0000,0000,,Don't get involved.
+Dialogue: 0,0:04:08.20,0:04:13.19,Italics,,0000,0000,0000,,No matter what kind of life she's lived, \Nno matter where she was before she came here...
+Dialogue: 0,0:04:13.48,0:04:15.05,Italics,,0000,0000,0000,,It's not your problem!
+Dialogue: 0,0:04:16.49,0:04:19.43,Italics,,0000,0000,0000,,I'll kick her out in the morning, \Nand then it'll be over.
+Dialogue: 0,0:04:23.54,0:04:24.65,Main,,0000,0000,0000,,You're going to sleep?
+Dialogue: 0,0:04:25.75,0:04:27.50,Main,,0000,0000,0000,,You do what you want.
+Dialogue: 0,0:04:36.44,0:04:39.48,Main,,0000,0000,0000,,Hey, are you sure you don't want to do me?
+Dialogue: 0,0:04:39.48,0:04:41.64,Main,,0000,0000,0000,,Don't make me repeat myself.
+Dialogue: 0,0:04:41.64,0:04:43.88,Main,,0000,0000,0000,,I'm not into little kids.
+Dialogue: 0,0:04:46.88,0:04:48.51,Main,,0000,0000,0000,,You're not.
+Dialogue: 0,0:04:51.58,0:04:53.77,Main,,0000,0000,0000,,Anything else you want me to do, then?
+Dialogue: 0,0:04:55.11,0:04:56.15,Main,,0000,0000,0000,,Miso soup.
+Dialogue: 0,0:04:57.56,0:05:01.35,Main,,0000,0000,0000,,Miso soup... made by a woman...
+Dialogue: 0,0:05:02.05,0:05:04.41,Main,,0000,0000,0000,,That's what I want.
+Dialogue: 0,0:05:28.18,0:05:30.73,Main,,0000,0000,0000,,Oh, shit! I'm late.
+Dialogue: 0,0:05:33.27,0:05:35.40,Main,,0000,0000,0000,,It's Sunday.
+Dialogue: 0,0:05:36.96,0:05:38.15,Main,,0000,0000,0000,,What's this smell?
+Dialogue: 0,0:05:38.15,0:05:41.04,Main,,0000,0000,0000,,Oh, you're finally awake.
+Dialogue: 0,0:05:41.04,0:05:41.86,Main,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:05:43.72,0:05:45.13,Main,,0000,0000,0000,,What the hell are you?
+Dialogue: 0,0:05:45.13,0:05:49.20,Main,,0000,0000,0000,,I'm not sure how to answer that. \N"A teenage girl"?
+Dialogue: 0,0:05:49.74,0:05:52.40,Main,,0000,0000,0000,,What's a teenage girl doing in my house?
+Dialogue: 0,0:05:52.40,0:05:54.54,Main,,0000,0000,0000,,I asked you to let me stay here, \Nand you said it was okay.
+Dialogue: 0,0:05:55.62,0:05:57.08,Main,,0000,0000,0000,,Who said it was okay?
+Dialogue: 0,0:05:58.05,0:05:59.04,Main,,0000,0000,0000,,You did!
+Dialogue: 0,0:05:59.04,0:06:01.24,Main,,0000,0000,0000,,I did not!
+Dialogue: 0,0:06:01.24,0:06:03.53,Main,,0000,0000,0000,,You definitely did, Mister.
+Dialogue: 0,0:06:07.49,0:06:10.07,Main,,0000,0000,0000,,Um... well.
+Dialogue: 0,0:06:10.07,0:06:14.26,Main,,0000,0000,0000,,I didn't assault you or anything, right?
+Dialogue: 0,0:06:23.79,0:06:25.74,Main,,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:06:25.74,0:06:28.81,Main,,0000,0000,0000,,I just wanted to tease you a little.
+Dialogue: 0,0:06:28.81,0:06:30.20,Main,,0000,0000,0000,,You...
+Dialogue: 0,0:06:30.20,0:06:33.70,Main,,0000,0000,0000,,You kept saying you didn't want \Nto sleep with a little girl.
+Dialogue: 0,0:06:34.66,0:06:36.91,Italics,,0000,0000,0000,,Whew! Good work, last-night me!
+Dialogue: 0,0:06:37.29,0:06:41.18,Main,,0000,0000,0000,,So I asked if there was anything else \Nyou wanted me to do, and...
+Dialogue: 0,0:06:45.06,0:06:46.21,Main,,0000,0000,0000,,Miso soup?
+Dialogue: 0,0:06:46.51,0:06:47.60,Main,,0000,0000,0000,,I made it.
+Dialogue: 0,0:06:47.60,0:06:50.60,Main,,0000,0000,0000,,Don't make miso soup \Nin other people's houses.
+Dialogue: 0,0:06:52.18,0:06:53.93,Main,,0000,0000,0000,,What's that sigh?
+Dialogue: 0,0:06:54.45,0:06:56.96,Main,,0000,0000,0000,,You told me to make it, Mister.
+Dialogue: 0,0:06:56.96,0:06:58.75,Main,,0000,0000,0000,,Stop calling me that.
+Dialogue: 0,0:06:58.75,0:07:02.60,Main,,0000,0000,0000,,So what would you like me to call you, then?
+Dialogue: 0,0:07:03.75,0:07:07.11,Main,,0000,0000,0000,,I don't care what you call me. Just leave.
+Dialogue: 0,0:07:07.11,0:07:09.64,Main,,0000,0000,0000,,You really don't remember anything?
+Dialogue: 0,0:07:09.64,0:07:14.32,Main,,0000,0000,0000,,I was sitting under a lamp post last night, \Nand you came up and talked to me.
+Dialogue: 0,0:07:14.32,0:07:17.51,Main,,0000,0000,0000,,Last night? Lamp post?
+Dialogue: 0,0:07:26.50,0:07:27.69,Main,,0000,0000,0000,,You remember?
+Dialogue: 0,0:07:27.69,0:07:29.10,Main,,0000,0000,0000,,Black panties.
+Dialogue: 0,0:07:29.10,0:07:31.16,Main,,0000,0000,0000,,What kind of answer is that?
+Dialogue: 0,0:07:31.16,0:07:32.76,Main,,0000,0000,0000,,That's awful.
+Dialogue: 0,0:07:32.76,0:07:34.36,Main,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:35.19,0:07:36.28,Main,,0000,0000,0000,,Mister, listen...
+Dialogue: 0,0:07:36.28,0:07:37.64,Main,,0000,0000,0000,,I said...
+Dialogue: 0,0:07:37.64,0:07:39.18,Main,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:07:40.90,0:07:42.10,Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:42.10,0:07:43.54,Main,,0000,0000,0000,,Yoshida-san.
+Dialogue: 0,0:07:44.64,0:07:48.52,Main,,0000,0000,0000,,That fits. You look like a Yoshida-san.
+Dialogue: 0,0:07:48.52,0:07:49.84,Main,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:07:49.84,0:07:51.82,Main,,0000,0000,0000,,Anyway, have some miso soup.
+Dialogue: 0,0:07:51.82,0:07:53.07,Main,,0000,0000,0000,,We can talk then.
+Dialogue: 0,0:07:53.07,0:07:54.78,Main,,0000,0000,0000,,Why are you telling me what to do?
+Dialogue: 0,0:07:59.51,0:08:01.21,Main,,0000,0000,0000,,Eat up before it gets cold.
+Dialogue: 0,0:08:06.80,0:08:07.75,Main,,0000,0000,0000,,It's good.
+Dialogue: 0,0:08:10.63,0:08:13.55,Main,,0000,0000,0000,,You wanted Gotou-san to make it for you, \Ndidn't you?
+Dialogue: 0,0:08:13.55,0:08:15.64,Main,,0000,0000,0000,,How did you know?
+Dialogue: 0,0:08:15.64,0:08:19.02,Main,,0000,0000,0000,,You got rejected last night, right? \NYou were mumbling about it in your sleep.
+Dialogue: 0,0:08:24.63,0:08:25.65,Main,,0000,0000,0000,,Hey...
+Dialogue: 0,0:08:27.70,0:08:29.61,Main,,0000,0000,0000,,Want me to make you feel better?
+Dialogue: 0,0:08:37.67,0:08:40.29,Main,,0000,0000,0000,,I keep telling you to stop that.
+Dialogue: 0,0:08:40.81,0:08:42.67,Main,,0000,0000,0000,,You're not fooling anyone.
+Dialogue: 0,0:08:42.67,0:08:49.78,Main,,0000,0000,0000,,Listen, I'm not so far gone that I need \Na tiny little teenage girl to make me feel better.
+Dialogue: 0,0:08:52.40,0:08:56.47,Main,,0000,0000,0000,,I think my boobs are pretty big.
+Dialogue: 0,0:08:58.42,0:09:02.67,Main,,0000,0000,0000,,Well, they might be big for a teenager.
+Dialogue: 0,0:09:02.67,0:09:04.18,Main,,0000,0000,0000,,But Gotou-san's are bigger.
+Dialogue: 0,0:09:05.12,0:09:06.89,Main,,0000,0000,0000,,They are, huh?
+Dialogue: 0,0:09:06.89,0:09:08.15,Main,,0000,0000,0000,,What cup size?
+Dialogue: 0,0:09:08.54,0:09:12.06,Main,,0000,0000,0000,,I don't know, but probably F!
+Dialogue: 0,0:09:12.06,0:09:14.17,Main,,0000,0000,0000,,F is the same size as me.
+Dialogue: 0,0:09:14.17,0:09:16.27,Main,,0000,0000,0000,,Huh?! Those are F?
+Dialogue: 0,0:09:16.27,0:09:17.11,Main,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:17.11,0:09:21.08,Main,,0000,0000,0000,,If they look bigger than these, \Nthey're probably a G or H.
+Dialogue: 0,0:09:21.58,0:09:23.43,Main,,0000,0000,0000,,H-cup...
+Dialogue: 0,0:09:23.94,0:09:25.22,Main,,0000,0000,0000,,I see.
+Dialogue: 0,0:09:25.22,0:09:26.57,Main,,0000,0000,0000,,H-cup.
+Dialogue: 0,0:09:27.38,0:09:31.84,Italics,,0000,0000,0000,,I wish I could've stuck it between\Nthose H-cups, just once.
+Dialogue: 0,0:09:31.84,0:09:37.42,Main,,0000,0000,0000,,But aren't F-cups you can touch\Nworth more than H-cups you can't?
+Dialogue: 0,0:09:39.08,0:09:43.77,Main,,0000,0000,0000,,Listen. Why are you trying\Nso hard to seduce me?
+Dialogue: 0,0:09:43.77,0:09:45.89,Main,,0000,0000,0000,,What if I really did it?
+Dialogue: 0,0:09:46.82,0:09:48.47,Main,,0000,0000,0000,,Well, then we'd do it.
+Dialogue: 0,0:09:48.92,0:09:51.38,Main,,0000,0000,0000,,You want to do it with me?
+Dialogue: 0,0:09:51.81,0:09:54.92,Main,,0000,0000,0000,,No, not really.
+Dialogue: 0,0:09:56.06,0:09:57.95,Main,,0000,0000,0000,,What is your problem?
+Dialogue: 0,0:09:57.95,0:10:00.66,Main,,0000,0000,0000,,Plenty of men would do it!
+Dialogue: 0,0:10:01.24,0:10:03.05,Main,,0000,0000,0000,,Then let me ask you...
+Dialogue: 0,0:10:03.05,0:10:03.98,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:10:07.81,0:10:12.84,Main,,0000,0000,0000,,There's a girl in front of you \Nwho's willing to do it. Why won't you?
+Dialogue: 0,0:10:14.37,0:10:16.09,Main,,0000,0000,0000,,Why are you making that face?
+Dialogue: 0,0:10:16.63,0:10:19.09,Main,,0000,0000,0000,,You're the one who's not normal, Yoshida-san.
+Dialogue: 0,0:10:19.78,0:10:25.35,Main,,0000,0000,0000,,I've never met a man who was willing \Nto let me stay for nothing in return.
+Dialogue: 0,0:10:33.94,0:10:35.78,Main,,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:10:36.61,0:10:38.40,Main,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:10:39.24,0:10:40.41,Main,,0000,0000,0000,,Sayu.
+Dialogue: 0,0:10:43.35,0:10:46.20,Main,,0000,0000,0000,,Where are you from? Show me your student ID.
+Dialogue: 0,0:10:47.83,0:10:52.79,sign_15533_166_Asahikawa_High_S,,0000,0000,0000,,Asahikawa High School 6
+Dialogue: 0,0:10:48.87,0:10:50.30,Main Top,,0000,0000,0000,,Asahikawa?!
+Dialogue: 0,0:10:50.30,0:10:51.95,Main Top,,0000,0000,0000,,You came all the way from Hokkaido alone?
+Dialogue: 0,0:10:51.95,0:10:52.79,Main Top,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:53.15,0:10:55.56,Main,,0000,0000,0000,,When did you leave Hokkaido?
+Dialogue: 0,0:10:56.39,0:10:58.52,Main,,0000,0000,0000,,Six months ago, I think.
+Dialogue: 0,0:10:58.52,0:11:00.89,Main,,0000,0000,0000,,Did you tell your parents?
+Dialogue: 0,0:11:01.78,0:11:03.08,Main,,0000,0000,0000,,No...
+Dialogue: 0,0:11:03.08,0:11:05.60,Main,,0000,0000,0000,,Then get your ass back home.
+Dialogue: 0,0:11:05.60,0:11:06.60,Main,,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:11:08.60,0:11:11.85,Main,,0000,0000,0000,,I'm sure they're happy I'm gone.
+Dialogue: 0,0:11:12.39,0:11:14.08,Italics,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:11:14.08,0:11:16.54,Italics,,0000,0000,0000,,You sure don't look fine to me.
+Dialogue: 0,0:11:17.68,0:11:19.95,Main,,0000,0000,0000,,You don't know that.
+Dialogue: 0,0:11:21.41,0:11:22.41,Main,,0000,0000,0000,,I do.
+Dialogue: 0,0:11:24.29,0:11:28.35,Main,,0000,0000,0000,,If you don't want to go home, \Nor go to school,
+Dialogue: 0,0:11:28.35,0:11:30.06,Main,,0000,0000,0000,,how are you going to survive?
+Dialogue: 0,0:11:30.55,0:11:32.75,Main,,0000,0000,0000,,I'll work out a way to stay \Nat somebody's house.
+Dialogue: 0,0:11:32.75,0:11:34.67,Main,,0000,0000,0000,,And how will you "work out a way"?
+Dialogue: 0,0:11:36.47,0:11:37.80,Main,,0000,0000,0000,,Don't insult me.
+Dialogue: 0,0:11:39.08,0:11:42.04,Main,,0000,0000,0000,,I don't know how any other guys felt,
+Dialogue: 0,0:11:42.48,0:11:45.64,Main,,0000,0000,0000,,but I don't have the slightest\Ninterest in your body.
+Dialogue: 0,0:11:47.17,0:11:49.76,Main,,0000,0000,0000,,What will you do if I kick you out?
+Dialogue: 0,0:11:49.76,0:11:52.35,Main,,0000,0000,0000,,I-I'll find another place to stay, somehow.
+Dialogue: 0,0:11:52.67,0:11:55.23,Main,,0000,0000,0000,,How, specifically?
+Dialogue: 0,0:11:57.01,0:11:58.47,Main,,0000,0000,0000,,Well...
+Dialogue: 0,0:12:01.92,0:12:04.86,Italics,,0000,0000,0000,,Why don't you get it?
+Dialogue: 0,0:12:07.70,0:12:08.66,Main,,0000,0000,0000,,Work.
+Dialogue: 0,0:12:10.34,0:12:15.03,Main,,0000,0000,0000,,All the other kids who drop\Nout of school make money to live.
+Dialogue: 0,0:12:15.46,0:12:19.45,Main,,0000,0000,0000,,But I can't pay rent \Nwith just a part-time job.
+Dialogue: 0,0:12:19.92,0:12:21.38,Main,,0000,0000,0000,,Then live here.
+Dialogue: 0,0:12:22.69,0:12:24.63,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:12:25.92,0:12:27.92,Main,,0000,0000,0000,,No money. No place to live.
+Dialogue: 0,0:12:27.92,0:12:30.19,Main,,0000,0000,0000,,So you'll just go around seducing guys?
+Dialogue: 0,0:12:30.19,0:12:33.60,Main,,0000,0000,0000,,I'm going to knock the stupid \Nright out of you.
+Dialogue: 0,0:12:34.72,0:12:36.44,Main,,0000,0000,0000,,You keep calling me stupid.
+Dialogue: 0,0:12:36.44,0:12:38.38,Main,,0000,0000,0000,,Well, 'cause you're stupid! \NYou're as dumb as a rock.
+Dialogue: 0,0:12:38.84,0:12:41.45,Main,,0000,0000,0000,,You're a spoiled little brat \Nwho doesn't know what things are worth.
+Dialogue: 0,0:12:44.86,0:12:46.58,Italics,,0000,0000,0000,,Why?
+Dialogue: 0,0:12:46.58,0:12:49.96,Italics,,0000,0000,0000,,Why couldn't she have a normal life
+Dialogue: 0,0:12:49.96,0:12:54.72,Italics,,0000,0000,0000,,{\fad(1,280)}and a normal love?
+Dialogue: 0,0:12:57.11,0:13:01.35,Main,,0000,0000,0000,,First, you're doing all the chores here. \NThat's your job.
+Dialogue: 0,0:13:02.44,0:13:07.13,Main,,0000,0000,0000,,Listen. Right now we need \Nto work out our living space.
+Dialogue: 0,0:13:07.13,0:13:09.47,Main,,0000,0000,0000,,I don't want you making a mess of things.
+Dialogue: 0,0:13:11.40,0:13:15.69,Main,,0000,0000,0000,,You're making it sound like \NI can stay here forever.
+Dialogue: 0,0:13:15.69,0:13:17.53,Main,,0000,0000,0000,,Not forever.
+Dialogue: 0,0:13:17.53,0:13:19.94,Main,,0000,0000,0000,,When you're done being a runaway, \Nget your ass back home.
+Dialogue: 0,0:13:21.17,0:13:22.65,Main,,0000,0000,0000,,But I can stay here until then?
+Dialogue: 0,0:13:23.75,0:13:29.04,Italics,,0000,0000,0000,,It would've been hard, but there were other, \Nhealthier ways to make a living
+Dialogue: 0,0:13:29.04,0:13:31.37,Italics,,0000,0000,0000,,than trying to seduce men \Ninto letting her stay.
+Dialogue: 0,0:13:31.96,0:13:36.14,Italics,,0000,0000,0000,,But for some reason, \Nshe forgot that a long time ago.
+Dialogue: 0,0:13:36.60,0:13:42.12,Italics,,0000,0000,0000,,And over the past few minutes it's\Nclear that she's totally spoiled.
+Dialogue: 0,0:13:42.65,0:13:46.66,Italics,,0000,0000,0000,,If I don't watch my mouth, \Nshe may end up staying here for years.
+Dialogue: 0,0:13:49.44,0:13:53.06,Main,,0000,0000,0000,,You can stay here until you learn \Nto stop being a spoiled brat.
+Dialogue: 0,0:13:54.53,0:13:59.87,Main,,0000,0000,0000,,But the next time you try to seduce me, \NI'm kicking you out!
+Dialogue: 0,0:13:59.87,0:14:01.52,Main,,0000,0000,0000,,O-Okay!
+Dialogue: 0,0:14:02.21,0:14:05.45,Italics,,0000,0000,0000,,And thus began a strange chapter
+Dialogue: 0,0:14:05.45,0:14:09.74,Italics,,0000,0000,0000,,in the lives of a runaway girl \Nand a 26-year-old salaryman.
+Dialogue: 0,0:14:10.02,0:14:11.70,Italics,,0000,0000,0000,,But in that moment,
+Dialogue: 0,0:14:12.63,0:14:19.66,Italics,,0000,0000,0000,,I didn't realize how hard it is \Nto live with a teenage girl.
+Dialogue: 0,0:14:21.59,0:14:23.75,Main,,0000,0000,0000,,Is that what happened after that?!
+Dialogue: 0,0:14:24.79,0:14:26.31,Main,,0000,0000,0000,,Keep your voice down!
+Dialogue: 0,0:14:26.92,0:14:29.31,Main,,0000,0000,0000,,Listen, that's not good.
+Dialogue: 0,0:14:29.31,0:14:31.26,Main,,0000,0000,0000,,Is there a missing-persons report out on her?
+Dialogue: 0,0:14:31.58,0:14:37.02,Main,,0000,0000,0000,,I looked online and didn't see a thing.
+Dialogue: 0,0:14:37.02,0:14:41.08,Main,,0000,0000,0000,,But you can't just take in a runaway teen \Nwithout knowing what her deal is.
+Dialogue: 0,0:14:41.08,0:14:44.48,Main,,0000,0000,0000,,Yeah, it's pretty risky, actually.
+Dialogue: 0,0:14:48.72,0:14:52.28,Main,,0000,0000,0000,,Did she eat?
+Dialogue: 0,0:14:53.92,0:14:57.20,Flashback,,0000,0000,0000,,Well, just don't get too attached.
+Dialogue: 0,0:14:57.88,0:15:01.17,Flashback,,0000,0000,0000,,You should send her back to her parents \Nbefore it becomes a problem.
+Dialogue: 0,0:15:01.58,0:15:05.63,Italics,,0000,0000,0000,,I know that, but...
+Dialogue: 0,0:15:06.09,0:15:09.26,Flashback,,0000,0000,0000,,I'm sure they're happy I'm gone.
+Dialogue: 0,0:15:10.44,0:15:14.98,Main,,0000,0000,0000,,She's still just a teen. \NShe shouldn't be making a face like that.
+Dialogue: 0,0:15:21.86,0:15:23.06,Main,,0000,0000,0000,,Miso soup?
+Dialogue: 0,0:15:24.22,0:15:26.32,Main,,0000,0000,0000,,Welcome back, Daddy!
+Dialogue: 0,0:15:26.32,0:15:28.52,Main,,0000,0000,0000,,Stop it. That's gross.
+Dialogue: 0,0:15:30.05,0:15:33.91,Main,,0000,0000,0000,,But I've only made miso soup so far.
+Dialogue: 0,0:15:35.71,0:15:38.50,Main,,0000,0000,0000,,I bought us bento. You'll eat one, too, right?
+Dialogue: 0,0:15:45.12,0:15:47.63,Italics,,0000,0000,0000,,She ironed them?
+Dialogue: 0,0:15:48.77,0:15:51.61,Italics,,0000,0000,0000,,She's better at chores than I thought.
+Dialogue: 0,0:16:00.32,0:16:02.09,Main,,0000,0000,0000,,Thank you for the meal.
+Dialogue: 0,0:16:04.60,0:16:06.20,Main,,0000,0000,0000,,What's wrong, Yoshida-san?
+Dialogue: 0,0:16:06.64,0:16:08.63,Main,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:16:08.63,0:16:10.92,Main,,0000,0000,0000,,Anyway, where's the ashtray?
+Dialogue: 0,0:16:12.30,0:16:15.82,Main,,0000,0000,0000,,Sorry, I washed it \Nwith the rest of the dishes.
+Dialogue: 0,0:16:15.82,0:16:17.93,Main,,0000,0000,0000,,I see. Thanks.
+Dialogue: 0,0:16:22.98,0:16:23.88,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:16:23.88,0:16:26.94,Main,,0000,0000,0000,,Why are you going out to the patio? \NYou can smoke here.
+Dialogue: 0,0:16:27.52,0:16:29.00,Main,,0000,0000,0000,,Because you're here.
+Dialogue: 0,0:16:32.10,0:16:33.74,Main,,0000,0000,0000,,You're nice.
+Dialogue: 0,0:16:33.74,0:16:35.16,Main,,0000,0000,0000,,Nice?
+Dialogue: 0,0:16:35.16,0:16:40.86,Main,,0000,0000,0000,,It's just... All the other guys smoked \Nwithout worrying about me.
+Dialogue: 0,0:16:41.65,0:16:47.94,Italics,,0000,0000,0000,,Why is she getting all her\Nvalues from loser guys?
+Dialogue: 0,0:16:49.01,0:16:49.99,Main,,0000,0000,0000,,Sayu!
+Dialogue: 0,0:16:51.52,0:16:55.58,Main,,0000,0000,0000,,Listen up! I'm not nice. They were shit.
+Dialogue: 0,0:16:55.58,0:16:56.71,Main,,0000,0000,0000,,Get that straight.
+Dialogue: 0,0:16:57.30,0:17:01.13,Main,,0000,0000,0000,,Have standards for yourself. \NAnd for everything else.
+Dialogue: 0,0:17:01.13,0:17:02.83,Main,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:09.59,0:17:13.05,Italics,,0000,0000,0000,,I keep looking at her as if I'm her guardian.
+Dialogue: 0,0:17:13.05,0:17:16.39,Italics,,0000,0000,0000,,I don't know how anybody\Ncould get hard looking at that.
+Dialogue: 0,0:17:20.76,0:17:26.74,Italics,,0000,0000,0000,,Part of what made her such a mess \Nis that she's spoiled.
+Dialogue: 0,0:17:27.11,0:17:34.73,Italics,,0000,0000,0000,,But I'm sure there were grown-ups \Nand an environment that made it worse.
+Dialogue: 0,0:17:35.27,0:17:36.95,Italics,,0000,0000,0000,,The whole world's full of shitheads.
+Dialogue: 0,0:17:37.46,0:17:39.62,Main,,0000,0000,0000,,Everybody.
+Dialogue: 0,0:17:40.40,0:17:46.24,Italics,,0000,0000,0000,,Including me. I'm letting her stay spoiled. \NGiving her a place to run to.
+Dialogue: 0,0:17:47.94,0:17:52.58,Italics,,0000,0000,0000,,And what do I even want to do?
+Dialogue: 0,0:17:54.13,0:17:55.59,sign_25754_269_Alarm,,0000,0000,0000,,Alarm
+Dialogue: 0,0:17:59.30,0:18:02.64,Main,,0000,0000,0000,,Sorry, I left my alarm on, \Neven though it's my day off.
+Dialogue: 0,0:18:03.07,0:18:04.36,Main,,0000,0000,0000,,It's okay.
+Dialogue: 0,0:18:05.01,0:18:09.00,Main,,0000,0000,0000,,I was going to get up \Nand do the laundry early anyway.
+Dialogue: 0,0:18:11.21,0:18:13.32,Main,,0000,0000,0000,,Ow...
+Dialogue: 0,0:18:15.78,0:18:19.70,Black Signs,,0000,0000,0000,,{\fs18}Metropolitan Police arrested a man in Musashino for abduction \Nof a minor on suspicion of kidnapping a 17-year old girl.
+Dialogue: 0,0:18:17.25,0:18:19.18,Main,,0000,0000,0000,,'Scuse me!
+Dialogue: 0,0:18:22.69,0:18:24.68,Main,,0000,0000,0000,,I just saw your panties.
+Dialogue: 0,0:18:24.68,0:18:27.08,Main,,0000,0000,0000,,It's a skirt. I can't help it!
+Dialogue: 0,0:18:27.56,0:18:30.33,Main,,0000,0000,0000,,You've been wearing your uniform \Nthis whole time, haven't you?
+Dialogue: 0,0:18:30.33,0:18:32.12,Main,,0000,0000,0000,,It's all I have.
+Dialogue: 0,0:18:32.12,0:18:35.05,Main,,0000,0000,0000,,And I wash it, so it's not dirty.
+Dialogue: 0,0:18:35.05,0:18:40.09,Main,,0000,0000,0000,,It's weird to have you \Nwearing a uniform here, though.
+Dialogue: 0,0:18:41.51,0:18:44.43,Main,,0000,0000,0000,,It's fine. Let's go home, Yoshida-san.
+Dialogue: 0,0:18:44.43,0:18:47.70,Main,,0000,0000,0000,,You're not fine. Just get some new clothes.
+Dialogue: 0,0:18:47.70,0:18:49.39,Main,,0000,0000,0000,,All you've got is this uniform, right?
+Dialogue: 0,0:18:50.79,0:18:53.07,Main,,0000,0000,0000,,So you're buying clothes.
+Dialogue: 0,0:18:53.07,0:18:55.18,Main,,0000,0000,0000,,And I'm buying a new futon.
+Dialogue: 0,0:18:56.14,0:18:59.61,Main,,0000,0000,0000,,You wake up rubbing your back \Nand saying "ow" every morning.
+Dialogue: 0,0:19:00.72,0:19:02.32,Main,,0000,0000,0000,,I was doing that?
+Dialogue: 0,0:19:02.32,0:19:03.69,Main,,0000,0000,0000,,You sure were.
+Dialogue: 0,0:19:05.56,0:19:06.62,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:19:07.78,0:19:08.87,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:19:10.36,0:19:15.34,Main,,0000,0000,0000,,If you do all that for me, \NI won't know how to repay you.
+Dialogue: 0,0:19:18.13,0:19:20.81,Italics,,0000,0000,0000,,So that's it?
+Dialogue: 0,0:19:20.81,0:19:25.85,Italics,,0000,0000,0000,,She's not trying to be modest. \NShe can't take it, because she can't repay me.
+Dialogue: 0,0:19:26.38,0:19:28.87,Italics,,0000,0000,0000,,Why does a kid think like that?
+Dialogue: 0,0:19:31.00,0:19:33.31,Main,,0000,0000,0000,,I'm pretty busy.
+Dialogue: 0,0:19:33.31,0:19:36.15,Main,,0000,0000,0000,,So I can't spend time on chores.
+Dialogue: 0,0:19:37.08,0:19:40.03,Main,,0000,0000,0000,,But you're doing it all, right?
+Dialogue: 0,0:19:40.40,0:19:44.49,Main,,0000,0000,0000,,This past week or so, \Nit's been a lot easier for me at home.
+Dialogue: 0,0:19:46.15,0:19:47.95,Main,,0000,0000,0000,,Is that not enough?
+Dialogue: 0,0:19:51.25,0:19:54.67,Main,,0000,0000,0000,,If you're okay with it, then I am.
+Dialogue: 0,0:19:56.20,0:19:58.12,Main,,0000,0000,0000,,Okay, that's how it is, then.
+Dialogue: 0,0:20:00.77,0:20:02.09,Main,,0000,0000,0000,,It's so comfy!
+Dialogue: 0,0:20:02.76,0:20:04.43,Main,,0000,0000,0000,,It's better to have a futon, right?
+Dialogue: 0,0:20:05.03,0:20:07.89,Main,,0000,0000,0000,,Yeah! I'll sleep great tonight.
+Dialogue: 0,0:20:11.14,0:20:12.39,Main,,0000,0000,0000,,Yoshida-san.
+Dialogue: 0,0:20:14.04,0:20:15.27,Main,,0000,0000,0000,,Want to sleep with me?
+Dialogue: 0,0:20:16.71,0:20:20.46,Main,,0000,0000,0000,,Hey! I told you if you tried \Nto seduce me again, I'd kick you out!
+Dialogue: 0,0:20:21.24,0:20:24.74,Main,,0000,0000,0000,,I didn't say a word \Nabout doing anything dirty.
+Dialogue: 0,0:20:29.04,0:20:31.11,Main,,0000,0000,0000,,You're such a perv.
+Dialogue: 0,0:20:34.16,0:20:35.48,Main,,0000,0000,0000,,Hey...
+Dialogue: 0,0:20:36.55,0:20:38.38,Main,,0000,0000,0000,,You're cuter when you laugh.
+Dialogue: 0,0:20:42.30,0:20:45.34,Main,,0000,0000,0000,,Wh-Why are you hitting on me?
+Dialogue: 0,0:20:45.34,0:20:47.45,Main,,0000,0000,0000,,I told you. You're not my type.
+Dialogue: 0,0:20:50.02,0:20:51.50,Main,,0000,0000,0000,,Yoshida-san...
+Dialogue: 0,0:20:53.99,0:20:55.14,Main,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:58.98,0:21:01.86,Main,,0000,0000,0000,,There's a rumor going around \Nthat you got a girlfriend.
+Dialogue: 0,0:21:02.74,0:21:03.82,Main,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:21:04.12,0:21:06.62,Main,,0000,0000,0000,,You're going home \Nright at quitting time every day.
+Dialogue: 0,0:21:06.62,0:21:09.42,Main,,0000,0000,0000,,You're cleaner. Your shirts are ironed.
+Dialogue: 0,0:21:10.10,0:21:15.59,Main,,0000,0000,0000,,Your face has more color to it, \Nand you're doing a better job at work, they say.
+Dialogue: 0,0:21:16.12,0:21:18.00,Main,,0000,0000,0000,,The girls were saying that.
+Dialogue: 0,0:21:18.00,0:21:21.22,Main,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:21:22.98,0:21:25.43,Main,,0000,0000,0000,,It's actually a teenage girl, though.
+Dialogue: 0,0:21:28.44,0:21:30.05,Main,,0000,0000,0000,,Yeah, I guess.
+Dialogue: 0,0:21:30.05,0:21:33.76,Main,,0000,0000,0000,,A runaway girl sounds like somebody \Nwho's kind of ditzy.
+Dialogue: 0,0:21:33.76,0:21:35.90,Main,,0000,0000,0000,,But maybe she has her act together.
+Dialogue: 0,0:21:35.90,0:21:39.19,Main,,0000,0000,0000,,Yeah, that's true.
+Dialogue: 0,0:21:41.40,0:21:46.64,Italics,,0000,0000,0000,,Yeah, she's not my type, physically.
+Dialogue: 0,0:21:46.64,0:21:49.28,Italics,,0000,0000,0000,,But she's pretty cute.
+Dialogue: 0,0:21:49.28,0:21:52.04,Italics,,0000,0000,0000,,She can do chores and she's friendly.
+Dialogue: 0,0:21:52.71,0:21:54.54,Italics,,0000,0000,0000,,So why run away?
+Dialogue: 0,0:21:55.49,0:21:58.73,Italics,,0000,0000,0000,,And come all the way to Tokyo?
+Dialogue: 0,0:22:10.26,0:22:11.91,Main Top,,0000,0000,0000,,Yoshida-san, your facial hair.
+Dialogue: 0,0:22:12.65,0:22:14.09,Main Top,,0000,0000,0000,,Don't you want to shave it?
+Dialogue: 0,0:22:16.04,0:22:18.30,Main Top,,0000,0000,0000,,Not today. I'm too lazy.
+Dialogue: 0,0:22:18.30,0:22:20.61,Main Top,,0000,0000,0000,,Some days you shave, \Nand sometimes you don't.
+Dialogue: 0,0:22:20.61,0:22:22.76,Main Top,,0000,0000,0000,,Is there a reason?
+Dialogue: 0,0:22:22.76,0:22:25.44,Main Top,,0000,0000,0000,,Nope. I just shave it \Nwhen it gets long.
+Dialogue: 0,0:22:25.90,0:22:28.63,Main Top,,0000,0000,0000,,And you don't think that's long?
+Dialogue: 0,0:22:30.00,0:22:31.47,Main Top,,0000,0000,0000,,Maybe I will shave it.
+Dialogue: 0,0:22:31.47,0:22:32.66,Main Top,,0000,0000,0000,,Which is it?
+Dialogue: 0,0:22:33.25,0:22:37.79,Main,,0000,0000,0000,,Well, it makes me feel old.
+Dialogue: 0,0:22:37.79,0:22:38.66,Main,,0000,0000,0000,,Why?
+Dialogue: 0,0:22:39.08,0:22:45.13,Main Top,,0000,0000,0000,,When I just turned twenty, I would shave it \Nany time it got even the slightest bit long.
+Dialogue: 0,0:22:45.65,0:22:48.25,Main,,0000,0000,0000,,And I'd try really hard \Nnot to miss any spots.
+Dialogue: 0,0:22:49.10,0:22:53.50,Main,,0000,0000,0000,,Having facial hair is kind\Nof a symbol of being old.
+Dialogue: 0,0:22:54.27,0:22:55.64,Main,,0000,0000,0000,,But I think that's wrong.
+Dialogue: 0,0:22:56.00,0:22:57.14,Main,,0000,0000,0000,,Wrong?
+Dialogue: 0,0:22:59.57,0:23:03.82,Main Top,,0000,0000,0000,,When you get too lazy to shave\Nyour facial hair is when you're old.
+Dialogue: 0,0:23:06.74,0:23:08.02,Main,,0000,0000,0000,,Yoshida-san.
+Dialogue: 0,0:23:09.21,0:23:11.79,Main Top,,0000,0000,0000,,That facial hair doesn't\Nlook that good on you.
+Dialogue: 0,0:23:11.79,0:23:12.91,Main Top,,0000,0000,0000,,Nobody asked you.
+Dialogue: 0,0:23:13.83,0:23:17.36,Main,,0000,0000,0000,,Yoshida-san, you'll be late.
+Dialogue: 0,0:23:18.12,0:23:19.90,Main,,0000,0000,0000,,I know!
+Dialogue: 0,0:23:23.72,0:23:25.64,Italics Top,,0000,0000,0000,,I guess I will shave it.
+Dialogue: 0,0:23:30.26,0:23:35.05,Next time,,0000,0000,0000,,{\fad(399,1)}Next time
+Dialogue: 0,0:23:30.26,0:23:35.05,Next Episode Title,,0000,0000,0000,,{\fad(399,1)}"Cell Phone"
+Dialogue: 0,0:23:35.05,0:23:40.06,See you next week,,0000,0000,0000,,See you next week!

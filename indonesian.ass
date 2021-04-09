@@ -1,0 +1,370 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.16,0:00:24.25,Default,,0,0,0,,Semua makanannya enak.
+Dialogue: 0,0:00:24.88,0:00:27.96,Default,,0,0,0,,Terima kasih telah mengundang saya, Yoshida-kun.
+Dialogue: 0,0:00:32.20,0:00:34.49,Default,,0,0,0,,Um, Gotou-san ...
+Dialogue: 0,0:00:38.58,0:00:41.35,Default,,0,0,0,,Apakah Anda ingin datang ke tempat saya setelah ini?
+Dialogue: 0,0:00:46.26,0:00:50.52,Default,,0,0,0,,Maafkan saya. Saya tidak menyebutkannya di tempat kerja,
+Dialogue: 0,0:00:50.87,0:00:53.51,Default,,0,0,0,,tapi saya melihat seseorang.
+Dialogue: 0,0:00:56.04,0:00:59.32,Default,,0,0,0,,Maka, cinta tak terbalas saya pun berakhir.
+Dialogue: 0,0:01:03.86,0:01:09.07,Default,,0,0,0,,Jika Anda memiliki seorang pria, katakan saja!
+Dialogue: 0,0:01:08.92,0:01:13.92,Default,,0,0,0,,{\ iseng (482.472)} "Gadis Remaja di Bawah Cahaya Lampu"
+Dialogue: 0,0:01:09.07,0:01:11.55,Default,,0,0,0,,Hei, Yoshida, kamu terlalu berisik!
+Dialogue: 0,0:01:11.55,0:01:14.63,Default,,0,0,0,,Maaf, dia sedikit mabuk.
+Dialogue: 0,0:01:15.19,0:01:17.21,Default,,0,0,0,,Hentikan itu.
+Dialogue: 0,0:01:17.21,0:01:21.94,Default,,0,0,0,,Dasar bodoh! Aku belum selesai marah!
+Dialogue: 0,0:01:22.85,0:01:25.45,Default,,0,0,0,,Saya bertanya-tanya mengapa Anda ingin berbicara begitu tiba-tiba.
+Dialogue: 0,0:01:22.85,0:01:27.56,Default,,0,0,0,,Hati 200 Yen
+Dialogue: 0,0:01:22.85,0:01:27.56,Default,,0,0,0,,Heart 200 Yen
+Dialogue: 0,0:01:22.85,0:01:27.56,Default,,0,0,0,,Pantat 200 yen
+Dialogue: 0,0:01:25.45,0:01:27.18,Default,,0,0,0,,Anda hanya ingin mengomel tentang ditolak.
+Dialogue: 0,0:01:27.18,0:01:31.32,Default,,0,0,0,,Sial! Dia bilang dia sudah berkencan dengan pria itu selama lima tahun!
+Dialogue: 0,0:01:31.32,0:01:32.76,Default,,0,0,0,,Dia menipu saya!
+Dialogue: 0,0:01:32.76,0:01:35.34,Default,,0,0,0,,Dia mencuri hatiku dan tidak mau mengembalikannya!
+Dialogue: 0,0:01:37.06,0:01:38.68,Default,,0,0,0,,Beri aku segelas bir lagi!
+Dialogue: 0,0:01:38.68,0:01:40.20,Default,,0,0,0,,Anda minum terlalu banyak.
+Dialogue: 0,0:01:40.20,0:01:42.92,Default,,0,0,0,,Tidak apa-apa. Kami berangkat besok!
+Dialogue: 0,0:01:45.11,0:01:47.36,Default,,0,0,0,,Saya menuju rumah sebelum kereta ditutup.
+Dialogue: 0,0:01:47.36,0:01:48.75,Default,,0,0,0,,Istri saya menunggu saya.
+Dialogue: 0,0:01:48.75,0:01:51.21,Default,,0,0,0,,Baik!
+Dialogue: 0,0:01:55.51,0:01:58.34,Default,,0,0,0,,Sial semuanya. Gotou ...
+Dialogue: 0,0:02:23.28,0:02:25.16,Default,,0,0,0,,Hei kau. Gadis remaja.
+Dialogue: 0,0:02:27.94,0:02:30.70,Default,,0,0,0,,Apa yang kamu lakukan pada jam ini?
+Dialogue: 0,0:02:30.70,0:02:32.42,Default,,0,0,0,,Pulang ke rumah.
+Dialogue: 0,0:02:32.42,0:02:34.39,Default,,0,0,0,,Tidak ada kereta api yang beroperasi.
+Dialogue: 0,0:02:35.00,0:02:36.97,Default,,0,0,0,,Jadi, apakah kamu akan duduk di sana sepanjang malam?
+Dialogue: 0,0:02:37.60,0:02:39.72,Default,,0,0,0,,Kedengarannya akan sangat dingin.
+Dialogue: 0,0:02:39.72,0:02:41.43,Default,,0,0,0,,Jadi apa yang akan kamu lakukan?
+Dialogue: 0,0:02:51.36,0:02:52.86,Default,,0,0,0,,Biarkan saya tinggal di tempat Anda, Pak.
+Dialogue: 0,0:02:54.13,0:02:55.08,Default,,0,0,0,,"Tuan"-
+Dialogue: 0,0:02:55.67,0:03:00.98,Default,,0,0,0,,Mendengarkan. Gadis remaja macam apa yang ingin tinggal di tempat pria yang belum pernah dia temui?
+Dialogue: 0,0:03:02.18,0:03:04.58,Default,,0,0,0,,Tapi aku tidak punya tempat untuk pergi malam ini.
+Dialogue: 0,0:03:04.92,0:03:08.75,Default,,0,0,0,,Jika Anda kembali ke stasiun, Anda bisa tidur di tempat karaoke atau kafe internet.
+Dialogue: 0,0:03:08.75,0:03:10.04,Default,,0,0,0,,Saya tidak punya uang.
+Dialogue: 0,0:03:10.41,0:03:13.82,Default,,0,0,0,,Jadi aku harus membiarkanmu tinggal gratis?
+Dialogue: 0,0:03:13.82,0:03:15.83,Default,,0,0,0,,Baik...
+Dialogue: 0,0:03:17.91,0:03:19.98,Default,,0,0,0,,Aku akan membiarkanmu melakukannya, jadi biarkan aku tinggal.
+Dialogue: 0,0:03:22.16,0:03:25.37,Default,,0,0,0,,Apakah semua gadis remaja seperti ini sekarang?
+Dialogue: 0,0:03:26.07,0:03:28.72,Default,,0,0,0,,Tidak, itu tidak benar.
+Dialogue: 0,0:03:29.76,0:03:31.44,Default,,0,0,0,,Dia aneh!
+Dialogue: 0,0:03:32.24,0:03:34.62,Default,,0,0,0,,Jangan katakan itu, bahkan sebagai lelucon.
+Dialogue: 0,0:03:34.62,0:03:37.12,Default,,0,0,0,,Ini bukan lelucon. Saya baik-baik saja dengan itu.
+Dialogue: 0,0:03:37.12,0:03:39.31,Default,,0,0,0,,Yah, aku tidak.
+Dialogue: 0,0:03:39.31,0:03:41.66,Default,,0,0,0,,Saya tidak tidur dengan anak kecil.
+Dialogue: 0,0:03:43.59,0:03:44.66,Default,,0,0,0,,Baik...
+Dialogue: 0,0:03:45.36,0:03:46.87,Default,,0,0,0,,Kalau begitu biarkan aku tinggal gratis!
+Dialogue: 0,0:03:52.64,0:03:54.50,Default,,0,0,0,,Halo!
+Dialogue: 0,0:03:56.67,0:03:57.66,Default,,0,0,0,,Itu kotor.
+Dialogue: 0,0:03:57.66,0:04:00.09,Default,,0,0,0,,Mengapa seorang pria yang tinggal di apartemen satu kamar menjaga kebersihannya?
+Dialogue: 0,0:04:00.59,0:04:02.05,Default,,0,0,0,,Saya telah melihat beberapa yang bersih.
+Dialogue: 0,0:04:03.56,0:04:04.47,Default,,0,0,0,,Apa?
+Dialogue: 0,0:04:04.84,0:04:06.07,Default,,0,0,0,,Uh, tidak ada ...
+Dialogue: 0,0:04:06.47,0:04:08.20,Default,,0,0,0,,Jangan ikut campur.
+Dialogue: 0,0:04:08.20,0:04:13.19,Default,,0,0,0,,Tidak peduli kehidupan seperti apa yang dia jalani, di mana pun dia berada sebelum dia datang ke sini ...
+Dialogue: 0,0:04:13.48,0:04:15.05,Default,,0,0,0,,Itu bukan masalahmu!
+Dialogue: 0,0:04:16.49,0:04:19.43,Default,,0,0,0,,Aku akan mengusirnya besok pagi, dan kemudian semuanya akan berakhir.
+Dialogue: 0,0:04:23.54,0:04:24.65,Default,,0,0,0,,Anda akan tidur?
+Dialogue: 0,0:04:25.75,0:04:27.50,Default,,0,0,0,,Lakukan apa yang kamu inginkan.
+Dialogue: 0,0:04:36.44,0:04:39.48,Default,,0,0,0,,Hei, apakah kamu yakin tidak ingin melakukan aku?
+Dialogue: 0,0:04:39.48,0:04:41.64,Default,,0,0,0,,Jangan membuatku mengulangi diriku sendiri.
+Dialogue: 0,0:04:41.64,0:04:43.88,Default,,0,0,0,,Saya tidak suka anak kecil.
+Dialogue: 0,0:04:46.88,0:04:48.51,Default,,0,0,0,,Kamu bukan.
+Dialogue: 0,0:04:51.58,0:04:53.77,Default,,0,0,0,,Kalau begitu, ada hal lain yang kamu ingin aku lakukan?
+Dialogue: 0,0:04:55.11,0:04:56.15,Default,,0,0,0,,Sup miso.
+Dialogue: 0,0:04:57.56,0:05:01.35,Default,,0,0,0,,Sup miso ... dibuat oleh seorang wanita ...
+Dialogue: 0,0:05:02.05,0:05:04.41,Default,,0,0,0,,Itu yang saya mau.
+Dialogue: 0,0:05:28.18,0:05:30.73,Default,,0,0,0,,Sial! Saya terlambat.
+Dialogue: 0,0:05:33.27,0:05:35.40,Default,,0,0,0,,Ini Minggu.
+Dialogue: 0,0:05:36.96,0:05:38.15,Default,,0,0,0,,Bau apa ini?
+Dialogue: 0,0:05:38.15,0:05:41.04,Default,,0,0,0,,Oh, kamu akhirnya bangun.
+Dialogue: 0,0:05:41.04,0:05:41.86,Default,,0,0,0,,Selamat pagi.
+Dialogue: 0,0:05:43.72,0:05:45.13,Default,,0,0,0,,Apa sih kamu
+Dialogue: 0,0:05:45.13,0:05:49.20,Default,,0,0,0,,Saya tidak yakin bagaimana menjawabnya. "Seorang gadis remaja"?
+Dialogue: 0,0:05:49.74,0:05:52.40,Default,,0,0,0,,Apa yang dilakukan gadis remaja di rumahku?
+Dialogue: 0,0:05:52.40,0:05:54.54,Default,,0,0,0,,Saya meminta Anda untuk mengizinkan saya tinggal di sini, dan Anda berkata tidak apa-apa.
+Dialogue: 0,0:05:55.62,0:05:57.08,Default,,0,0,0,,Siapa bilang tidak apa-apa?
+Dialogue: 0,0:05:58.05,0:05:59.04,Default,,0,0,0,,Kamu melakukannya!
+Dialogue: 0,0:05:59.04,0:06:01.24,Default,,0,0,0,,Aku tidak!
+Dialogue: 0,0:06:01.24,0:06:03.53,Default,,0,0,0,,Anda pasti melakukannya, Pak.
+Dialogue: 0,0:06:07.49,0:06:10.07,Default,,0,0,0,,Um ... baik.
+Dialogue: 0,0:06:10.07,0:06:14.26,Default,,0,0,0,,Aku tidak menyerangmu atau apapun, kan?
+Dialogue: 0,0:06:23.79,0:06:25.74,Default,,0,0,0,,Hanya bercanda!
+Dialogue: 0,0:06:25.74,0:06:28.81,Default,,0,0,0,,Aku hanya ingin sedikit menggodamu.
+Dialogue: 0,0:06:28.81,0:06:30.20,Default,,0,0,0,,Kamu...
+Dialogue: 0,0:06:30.20,0:06:33.70,Default,,0,0,0,,Anda terus mengatakan Anda tidak ingin tidur dengan seorang gadis kecil.
+Dialogue: 0,0:06:34.66,0:06:36.91,Default,,0,0,0,,Wah! Kerja bagus, tadi malam aku!
+Dialogue: 0,0:06:37.29,0:06:41.18,Default,,0,0,0,,Jadi saya bertanya apakah ada hal lain yang Anda ingin saya lakukan, dan ...
+Dialogue: 0,0:06:45.06,0:06:46.21,Default,,0,0,0,,Sup miso?
+Dialogue: 0,0:06:46.51,0:06:47.60,Default,,0,0,0,,Saya berhasil.
+Dialogue: 0,0:06:47.60,0:06:50.60,Default,,0,0,0,,Jangan membuat sup miso di rumah orang lain.
+Dialogue: 0,0:06:52.18,0:06:53.93,Default,,0,0,0,,Apa desahan itu?
+Dialogue: 0,0:06:54.45,0:06:56.96,Default,,0,0,0,,Anda menyuruh saya untuk membuatnya, Pak.
+Dialogue: 0,0:06:56.96,0:06:58.75,Default,,0,0,0,,Berhenti memanggilku seperti itu.
+Dialogue: 0,0:06:58.75,0:07:02.60,Default,,0,0,0,,Jadi, apa yang Anda ingin saya panggil?
+Dialogue: 0,0:07:03.75,0:07:07.11,Default,,0,0,0,,Saya tidak peduli Anda memanggil saya apa. Pergi saja.
+Dialogue: 0,0:07:07.11,0:07:09.64,Default,,0,0,0,,Anda benar-benar tidak ingat apa-apa?
+Dialogue: 0,0:07:09.64,0:07:14.32,Default,,0,0,0,,Saya duduk di bawah tiang lampu tadi malam, dan Anda datang dan berbicara dengan saya.
+Dialogue: 0,0:07:14.32,0:07:17.51,Default,,0,0,0,,Tadi malam? Tiang lampu di jalan?
+Dialogue: 0,0:07:26.50,0:07:27.69,Default,,0,0,0,,Kamu ingat?
+Dialogue: 0,0:07:27.69,0:07:29.10,Default,,0,0,0,,Celana dalam hitam.
+Dialogue: 0,0:07:29.10,0:07:31.16,Default,,0,0,0,,Jawaban macam apa itu?
+Dialogue: 0,0:07:31.16,0:07:32.76,Default,,0,0,0,,Itu sangat buruk.
+Dialogue: 0,0:07:32.76,0:07:34.36,Default,,0,0,0,,Saya melihat.
+Dialogue: 0,0:07:35.19,0:07:36.28,Default,,0,0,0,,Tuan, dengarkan ...
+Dialogue: 0,0:07:36.28,0:07:37.64,Default,,0,0,0,,Saya bilang...
+Dialogue: 0,0:07:37.64,0:07:39.18,Default,,0,0,0,,Siapa namamu?
+Dialogue: 0,0:07:40.90,0:07:42.10,Default,,0,0,0,,Yoshida.
+Dialogue: 0,0:07:42.10,0:07:43.54,Default,,0,0,0,,Yoshida-san.
+Dialogue: 0,0:07:44.64,0:07:48.52,Default,,0,0,0,,Itu cocok. Anda terlihat seperti Yoshida-san.
+Dialogue: 0,0:07:48.52,0:07:49.84,Default,,0,0,0,,Apa artinya?
+Dialogue: 0,0:07:49.84,0:07:51.82,Default,,0,0,0,,Ngomong-ngomong, makanlah sup miso.
+Dialogue: 0,0:07:51.82,0:07:53.07,Default,,0,0,0,,Kalau begitu kita bisa bicara.
+Dialogue: 0,0:07:53.07,0:07:54.78,Default,,0,0,0,,Mengapa Anda memberi tahu saya apa yang harus dilakukan?
+Dialogue: 0,0:07:59.51,0:08:01.21,Default,,0,0,0,,Makanlah sebelum menjadi dingin.
+Dialogue: 0,0:08:06.80,0:08:07.75,Default,,0,0,0,,Ini baik.
+Dialogue: 0,0:08:10.63,0:08:13.55,Default,,0,0,0,,Anda ingin Gotou-san membuatnya untuk Anda, bukan?
+Dialogue: 0,0:08:13.55,0:08:15.64,Default,,0,0,0,,Bagaimana kamu tahu?
+Dialogue: 0,0:08:15.64,0:08:19.02,Default,,0,0,0,,Kamu ditolak tadi malam, kan? Anda bergumam tentang hal itu dalam tidur Anda.
+Dialogue: 0,0:08:24.63,0:08:25.65,Default,,0,0,0,,Hei...
+Dialogue: 0,0:08:27.70,0:08:29.61,Default,,0,0,0,,Ingin aku membuatmu merasa lebih baik?
+Dialogue: 0,0:08:37.67,0:08:40.29,Default,,0,0,0,,Aku terus memberitahumu untuk menghentikan itu.
+Dialogue: 0,0:08:40.81,0:08:42.67,Default,,0,0,0,,Anda tidak membodohi siapa pun.
+Dialogue: 0,0:08:42.67,0:08:49.78,Default,,0,0,0,,Dengar, aku belum begitu jauh sehingga aku membutuhkan seorang gadis remaja kecil untuk membuatku merasa lebih baik.
+Dialogue: 0,0:08:52.40,0:08:56.47,Default,,0,0,0,,Sepertinya payudaraku cukup besar.
+Dialogue: 0,0:08:58.42,0:09:02.67,Default,,0,0,0,,Yah, mereka mungkin besar untuk seorang remaja.
+Dialogue: 0,0:09:02.67,0:09:04.18,Default,,0,0,0,,Tapi Gotou-san lebih besar.
+Dialogue: 0,0:09:05.12,0:09:06.89,Default,,0,0,0,,Benar, ya?
+Dialogue: 0,0:09:06.89,0:09:08.15,Default,,0,0,0,,Ukuran cup berapa?
+Dialogue: 0,0:09:08.54,0:09:12.06,Default,,0,0,0,,Saya tidak tahu, tapi mungkin F!
+Dialogue: 0,0:09:12.06,0:09:14.17,Default,,0,0,0,,F berukuran sama denganku.
+Dialogue: 0,0:09:14.17,0:09:16.27,Default,,0,0,0,,Hah?! Itu adalah F?
+Dialogue: 0,0:09:16.27,0:09:17.11,Default,,0,0,0,,Ya.
+Dialogue: 0,0:09:17.11,0:09:21.08,Default,,0,0,0,,Jika mereka terlihat lebih besar dari ini, mereka mungkin G atau H.
+Dialogue: 0,0:09:21.58,0:09:23.43,Default,,0,0,0,,H-cangkir ...
+Dialogue: 0,0:09:23.94,0:09:25.22,Default,,0,0,0,,Saya melihat.
+Dialogue: 0,0:09:25.22,0:09:26.57,Default,,0,0,0,,H-cup.
+Dialogue: 0,0:09:27.38,0:09:31.84,Default,,0,0,0,,Saya berharap saya bisa menyelipkannya di antara cangkir-H itu, sekali saja.
+Dialogue: 0,0:09:31.84,0:09:37.42,Default,,0,0,0,,Tapi bukankah F-cup yang bisa Anda sentuh bernilai lebih dari H-cup yang tidak bisa Anda sentuh?
+Dialogue: 0,0:09:39.08,0:09:43.77,Default,,0,0,0,,Mendengarkan. Mengapa Anda berusaha keras untuk merayuku?
+Dialogue: 0,0:09:43.77,0:09:45.89,Default,,0,0,0,,Bagaimana jika saya benar-benar melakukannya?
+Dialogue: 0,0:09:46.82,0:09:48.47,Default,,0,0,0,,Nah, kalau begitu kami akan melakukannya.
+Dialogue: 0,0:09:48.92,0:09:51.38,Default,,0,0,0,,Anda ingin melakukannya dengan saya?
+Dialogue: 0,0:09:51.81,0:09:54.92,Default,,0,0,0,,Tidak terlalu.
+Dialogue: 0,0:09:56.06,0:09:57.95,Default,,0,0,0,,Apa masalahmu?
+Dialogue: 0,0:09:57.95,0:10:00.66,Default,,0,0,0,,Banyak pria akan melakukannya!
+Dialogue: 0,0:10:01.24,0:10:03.05,Default,,0,0,0,,Kalau begitu izinkan aku bertanya padamu ...
+Dialogue: 0,0:10:03.05,0:10:03.98,Default,,0,0,0,,Apa?
+Dialogue: 0,0:10:07.81,0:10:12.84,Default,,0,0,0,,Ada seorang gadis di depan Anda yang bersedia melakukannya. Kenapa tidak?
+Dialogue: 0,0:10:14.37,0:10:16.09,Default,,0,0,0,,Mengapa Anda membuat wajah itu?
+Dialogue: 0,0:10:16.63,0:10:19.09,Default,,0,0,0,,Kaulah yang tidak normal, Yoshida-san.
+Dialogue: 0,0:10:19.78,0:10:25.35,Default,,0,0,0,,Saya belum pernah bertemu dengan seorang pria yang bersedia membiarkan saya tinggal tanpa imbalan apa pun.
+Dialogue: 0,0:10:33.94,0:10:35.78,Default,,0,0,0,,Apa kamu bodoh
+Dialogue: 0,0:10:36.61,0:10:38.40,Default,,0,0,0,,Siapa namamu?
+Dialogue: 0,0:10:39.24,0:10:40.41,Default,,0,0,0,,Sayu.
+Dialogue: 0,0:10:43.35,0:10:46.20,Default,,0,0,0,,Dari mana kamu berasal? Tunjukkan ID pelajar Anda.
+Dialogue: 0,0:10:47.83,0:10:52.79,Default,,0,0,0,,SMA Asahikawa 6
+Dialogue: 0,0:10:48.87,0:10:50.30,Default,,0,0,0,,Asahikawa ?!
+Dialogue: 0,0:10:50.30,0:10:51.95,Default,,0,0,0,,Anda datang jauh-jauh dari Hokkaido sendirian?
+Dialogue: 0,0:10:51.95,0:10:52.79,Default,,0,0,0,,Ya.
+Dialogue: 0,0:10:53.15,0:10:55.56,Default,,0,0,0,,Kapan Anda meninggalkan Hokkaido?
+Dialogue: 0,0:10:56.39,0:10:58.52,Default,,0,0,0,,Enam bulan lalu, saya pikir.
+Dialogue: 0,0:10:58.52,0:11:00.89,Default,,0,0,0,,Apakah Anda memberi tahu orang tua Anda?
+Dialogue: 0,0:11:01.78,0:11:03.08,Default,,0,0,0,,Tidak...
+Dialogue: 0,0:11:03.08,0:11:05.60,Default,,0,0,0,,Kalau begitu bawa pantatmu kembali ke rumah.
+Dialogue: 0,0:11:05.60,0:11:06.60,Default,,0,0,0,,Saya baik-baik saja.
+Dialogue: 0,0:11:08.60,0:11:11.85,Default,,0,0,0,,Saya yakin mereka senang saya pergi.
+Dialogue: 0,0:11:12.39,0:11:14.08,Default,,0,0,0,,Apa apaan?
+Dialogue: 0,0:11:14.08,0:11:16.54,Default,,0,0,0,,Anda yakin tidak terlihat baik-baik saja bagi saya.
+Dialogue: 0,0:11:17.68,0:11:19.95,Default,,0,0,0,,Anda tidak tahu itu.
+Dialogue: 0,0:11:21.41,0:11:22.41,Default,,0,0,0,,Saya lakukan.
+Dialogue: 0,0:11:24.29,0:11:28.35,Default,,0,0,0,,Jika Anda tidak ingin pulang, atau pergi ke sekolah,
+Dialogue: 0,0:11:28.35,0:11:30.06,Default,,0,0,0,,bagaimana kamu akan bertahan?
+Dialogue: 0,0:11:30.55,0:11:32.75,Default,,0,0,0,,Saya akan mencari cara untuk tinggal di rumah seseorang.
+Dialogue: 0,0:11:32.75,0:11:34.67,Default,,0,0,0,,Dan bagaimana Anda akan "mencari cara"?
+Dialogue: 0,0:11:36.47,0:11:37.80,Default,,0,0,0,,Jangan menghina saya.
+Dialogue: 0,0:11:39.08,0:11:42.04,Default,,0,0,0,,Saya tidak tahu bagaimana perasaan orang lain,
+Dialogue: 0,0:11:42.48,0:11:45.64,Default,,0,0,0,,tapi aku sama sekali tidak tertarik pada tubuhmu.
+Dialogue: 0,0:11:47.17,0:11:49.76,Default,,0,0,0,,Apa yang akan kamu lakukan jika aku mengusirmu?
+Dialogue: 0,0:11:49.76,0:11:52.35,Default,,0,0,0,,A-Aku akan mencari tempat lain untuk tinggal, entah bagaimana.
+Dialogue: 0,0:11:52.67,0:11:55.23,Default,,0,0,0,,Bagaimana secara spesifik?
+Dialogue: 0,0:11:57.01,0:11:58.47,Default,,0,0,0,,Baik...
+Dialogue: 0,0:12:01.92,0:12:04.86,Default,,0,0,0,,Mengapa Anda tidak mendapatkannya?
+Dialogue: 0,0:12:07.70,0:12:08.66,Default,,0,0,0,,Kerja.
+Dialogue: 0,0:12:10.34,0:12:15.03,Default,,0,0,0,,Semua anak lain yang putus sekolah mencari uang untuk hidup.
+Dialogue: 0,0:12:15.46,0:12:19.45,Default,,0,0,0,,Tapi saya tidak bisa membayar sewa hanya dengan pekerjaan paruh waktu.
+Dialogue: 0,0:12:19.92,0:12:21.38,Default,,0,0,0,,Kalau begitu tinggallah disini.
+Dialogue: 0,0:12:22.69,0:12:24.63,Default,,0,0,0,,Tapi...
+Dialogue: 0,0:12:25.92,0:12:27.92,Default,,0,0,0,,Tidak ada uang. Tidak ada tempat tinggal.
+Dialogue: 0,0:12:27.92,0:12:30.19,Default,,0,0,0,,Jadi Anda hanya akan pergi berkeliling merayu pria?
+Dialogue: 0,0:12:30.19,0:12:33.60,Default,,0,0,0,,Aku akan menjatuhkan orang bodoh itu darimu.
+Dialogue: 0,0:12:34.72,0:12:36.44,Default,,0,0,0,,Anda terus memanggil saya bodoh.
+Dialogue: 0,0:12:36.44,0:12:38.38,Default,,0,0,0,,Yah, karena kamu bodoh! Anda sebodoh batu.
+Dialogue: 0,0:12:38.84,0:12:41.45,Default,,0,0,0,,Anda anak manja kecil yang tidak tahu apa yang berharga.
+Dialogue: 0,0:12:44.86,0:12:46.58,Default,,0,0,0,,Mengapa?
+Dialogue: 0,0:12:46.58,0:12:49.96,Default,,0,0,0,,Mengapa dia tidak bisa memiliki kehidupan normal
+Dialogue: 0,0:12:49.96,0:12:54.72,Default,,0,0,0,,{\ fad (1.280)} dan cinta yang normal?
+Dialogue: 0,0:12:57.11,0:13:01.35,Default,,0,0,0,,Pertama, Anda melakukan semua tugas di sini. Itu tugasmu.
+Dialogue: 0,0:13:02.44,0:13:07.13,Default,,0,0,0,,Mendengarkan. Saat ini kita perlu mengatur ruang hidup kita.
+Dialogue: 0,0:13:07.13,0:13:09.47,Default,,0,0,0,,Saya tidak ingin Anda membuat kekacauan.
+Dialogue: 0,0:13:11.40,0:13:15.69,Default,,0,0,0,,Anda membuatnya terdengar seperti saya bisa tinggal di sini selamanya.
+Dialogue: 0,0:13:15.69,0:13:17.53,Default,,0,0,0,,Tidak selamanya.
+Dialogue: 0,0:13:17.53,0:13:19.94,Default,,0,0,0,,Setelah selesai kabur, pulanglah ke rumah.
+Dialogue: 0,0:13:21.17,0:13:22.65,Default,,0,0,0,,Tapi aku bisa tinggal di sini sampai saat itu?
+Dialogue: 0,0:13:23.75,0:13:29.04,Default,,0,0,0,,Itu akan sulit, tetapi ada cara lain yang lebih sehat untuk mencari nafkah
+Dialogue: 0,0:13:29.04,0:13:31.37,Default,,0,0,0,,daripada mencoba merayu pria agar membiarkannya tinggal.
+Dialogue: 0,0:13:31.96,0:13:36.14,Default,,0,0,0,,Tapi untuk beberapa alasan, dia sudah lama melupakannya.
+Dialogue: 0,0:13:36.60,0:13:42.12,Default,,0,0,0,,Dan selama beberapa menit terakhir terlihat jelas bahwa dia benar-benar manja.
+Dialogue: 0,0:13:42.65,0:13:46.66,Default,,0,0,0,,Jika aku tidak menjaga mulutku, dia mungkin akan tinggal di sini selama bertahun-tahun.
+Dialogue: 0,0:13:49.44,0:13:53.06,Default,,0,0,0,,Kamu bisa tinggal di sini sampai kamu belajar berhenti menjadi anak manja.
+Dialogue: 0,0:13:54.53,0:13:59.87,Default,,0,0,0,,Tapi lain kali Anda mencoba merayu saya, saya akan mengusir Anda!
+Dialogue: 0,0:13:59.87,0:14:01.52,Default,,0,0,0,,O-Oke!
+Dialogue: 0,0:14:02.21,0:14:05.45,Default,,0,0,0,,Dan dengan demikian dimulailah bab yang aneh
+Dialogue: 0,0:14:05.45,0:14:09.74,Default,,0,0,0,,dalam kehidupan seorang gadis yang melarikan diri dan seorang pegawai berusia 26 tahun.
+Dialogue: 0,0:14:10.02,0:14:11.70,Default,,0,0,0,,Tapi pada saat itu,
+Dialogue: 0,0:14:12.63,0:14:19.66,Default,,0,0,0,,Saya tidak menyadari betapa sulitnya hidup dengan seorang gadis remaja.
+Dialogue: 0,0:14:21.59,0:14:23.75,Default,,0,0,0,,Itukah yang terjadi setelah itu ?!
+Dialogue: 0,0:14:24.79,0:14:26.31,Default,,0,0,0,,Pelankan suaramu!
+Dialogue: 0,0:14:26.92,0:14:29.31,Default,,0,0,0,,Dengar, itu tidak bagus.
+Dialogue: 0,0:14:29.31,0:14:31.26,Default,,0,0,0,,Apakah ada laporan orang hilang tentang dia?
+Dialogue: 0,0:14:31.58,0:14:37.02,Default,,0,0,0,,Saya mencari online dan tidak melihat apa-apa.
+Dialogue: 0,0:14:37.02,0:14:41.08,Default,,0,0,0,,Tetapi Anda tidak bisa begitu saja menerima remaja yang melarikan diri tanpa mengetahui apa kesepakatannya.
+Dialogue: 0,0:14:41.08,0:14:44.48,Default,,0,0,0,,Ya, sebenarnya itu cukup berisiko.
+Dialogue: 0,0:14:48.72,0:14:52.28,Default,,0,0,0,,Apakah dia makan?
+Dialogue: 0,0:14:53.92,0:14:57.20,Default,,0,0,0,,Nah, jangan terlalu terikat.
+Dialogue: 0,0:14:57.88,0:15:01.17,Default,,0,0,0,,Anda harus mengirimnya kembali ke orang tuanya sebelum itu menjadi masalah.
+Dialogue: 0,0:15:01.58,0:15:05.63,Default,,0,0,0,,Aku tahu itu, tapi ...
+Dialogue: 0,0:15:06.09,0:15:09.26,Default,,0,0,0,,Saya yakin mereka senang saya pergi.
+Dialogue: 0,0:15:10.44,0:15:14.98,Default,,0,0,0,,Dia masih remaja. Dia seharusnya tidak membuat wajah seperti itu.
+Dialogue: 0,0:15:21.86,0:15:23.06,Default,,0,0,0,,Sup miso?
+Dialogue: 0,0:15:24.22,0:15:26.32,Default,,0,0,0,,Selamat datang kembali, Ayah!
+Dialogue: 0,0:15:26.32,0:15:28.52,Default,,0,0,0,,Hentikan. Menjijikkan.
+Dialogue: 0,0:15:30.05,0:15:33.91,Default,,0,0,0,,Tapi sejauh ini saya baru membuat sup miso.
+Dialogue: 0,0:15:35.71,0:15:38.50,Default,,0,0,0,,Saya membelikan kami bento. Anda akan makan satu juga, kan?
+Dialogue: 0,0:15:45.12,0:15:47.63,Default,,0,0,0,,Dia menyetrika mereka?
+Dialogue: 0,0:15:48.77,0:15:51.61,Default,,0,0,0,,Dia lebih baik dalam pekerjaan rumah daripada yang saya kira.
+Dialogue: 0,0:16:00.32,0:16:02.09,Default,,0,0,0,,Terima kasih untuk makanannya.
+Dialogue: 0,0:16:04.60,0:16:06.20,Default,,0,0,0,,Ada apa, Yoshida-san?
+Dialogue: 0,0:16:06.64,0:16:08.63,Default,,0,0,0,,Tidak ada.
+Dialogue: 0,0:16:08.63,0:16:10.92,Default,,0,0,0,,Ngomong-ngomong, dimana asbaknya?
+Dialogue: 0,0:16:12.30,0:16:15.82,Default,,0,0,0,,Maaf, saya mencucinya dengan sisa piring.
+Dialogue: 0,0:16:15.82,0:16:17.93,Default,,0,0,0,,Saya melihat. Terima kasih.
+Dialogue: 0,0:16:22.98,0:16:23.88,Default,,0,0,0,,Apa?
+Dialogue: 0,0:16:23.88,0:16:26.94,Default,,0,0,0,,Mengapa Anda pergi ke teras? Anda bisa merokok di sini.
+Dialogue: 0,0:16:27.52,0:16:29.00,Default,,0,0,0,,Karena kamu disini.
+Dialogue: 0,0:16:32.10,0:16:33.74,Default,,0,0,0,,Kamu baik.
+Dialogue: 0,0:16:33.74,0:16:35.16,Default,,0,0,0,,Bagus?
+Dialogue: 0,0:16:35.16,0:16:40.86,Default,,0,0,0,,Hanya saja ... Semua pria lain merokok tanpa mengkhawatirkanku.
+Dialogue: 0,0:16:41.65,0:16:47.94,Default,,0,0,0,,Mengapa dia mendapatkan semua nilainya dari pria pecundang?
+Dialogue: 0,0:16:49.01,0:16:49.99,Default,,0,0,0,,Sayu!
+Dialogue: 0,0:16:51.52,0:16:55.58,Default,,0,0,0,,Dengarkan! Aku tidak baik. Mereka brengsek.
+Dialogue: 0,0:16:55.58,0:16:56.71,Default,,0,0,0,,Luruskan itu.
+Dialogue: 0,0:16:57.30,0:17:01.13,Default,,0,0,0,,Miliki standar untuk diri Anda sendiri. Dan untuk yang lainnya.
+Dialogue: 0,0:17:01.13,0:17:02.83,Default,,0,0,0,,Baik.
+Dialogue: 0,0:17:09.59,0:17:13.05,Default,,0,0,0,,Aku terus menatapnya seolah-olah aku adalah walinya.
+Dialogue: 0,0:17:13.05,0:17:16.39,Default,,0,0,0,,Saya tidak tahu bagaimana orang bisa sulit melihat itu.
+Dialogue: 0,0:17:20.76,0:17:26.74,Default,,0,0,0,,Bagian dari apa yang membuatnya berantakan adalah dia dimanjakan.
+Dialogue: 0,0:17:27.11,0:17:34.73,Default,,0,0,0,,Tapi saya yakin ada orang dewasa dan lingkungan yang membuatnya lebih buruk.
+Dialogue: 0,0:17:35.27,0:17:36.95,Default,,0,0,0,,Seluruh dunia penuh dengan orang bodoh.
+Dialogue: 0,0:17:37.46,0:17:39.62,Default,,0,0,0,,Semua orang.
+Dialogue: 0,0:17:40.40,0:17:46.24,Default,,0,0,0,,Termasuk saya. Saya membiarkan dia tetap manja. Memberinya tempat untuk lari.
+Dialogue: 0,0:17:47.94,0:17:52.58,Default,,0,0,0,,Dan apa yang bahkan ingin saya lakukan?
+Dialogue: 0,0:17:54.13,0:17:55.59,Default,,0,0,0,,Alarm
+Dialogue: 0,0:17:59.30,0:18:02.64,Default,,0,0,0,,Maaf, alarm saya tetap aktif, padahal ini hari libur saya.
+Dialogue: 0,0:18:03.07,0:18:04.36,Default,,0,0,0,,Tidak masalah.
+Dialogue: 0,0:18:05.01,0:18:09.00,Default,,0,0,0,,Lagipula aku akan bangun dan mencuci pakaian lebih awal.
+Dialogue: 0,0:18:11.21,0:18:13.32,Default,,0,0,0,,Aduh ...
+Dialogue: 0,0:18:15.78,0:18:19.70,Default,,0,0,0,,{\ fs18} Polisi Metropolitan menangkap seorang pria di Musashino karena menculik anak di bawah umur karena dicurigai menculik seorang gadis berusia 17 tahun.
+Dialogue: 0,0:18:17.25,0:18:19.18,Default,,0,0,0,,'Permisi!
+Dialogue: 0,0:18:22.69,0:18:24.68,Default,,0,0,0,,Aku baru saja melihat celana dalammu.
+Dialogue: 0,0:18:24.68,0:18:27.08,Default,,0,0,0,,Itu rok. Saya tidak bisa menahannya!
+Dialogue: 0,0:18:27.56,0:18:30.33,Default,,0,0,0,,Anda telah mengenakan seragam Anda selama ini, bukan?
+Dialogue: 0,0:18:30.33,0:18:32.12,Default,,0,0,0,,Hanya itu yang saya miliki.
+Dialogue: 0,0:18:32.12,0:18:35.05,Default,,0,0,0,,Dan saya mencucinya, agar tidak kotor.
+Dialogue: 0,0:18:35.05,0:18:40.09,Default,,0,0,0,,Aneh rasanya kamu memakai seragam di sini.
+Dialogue: 0,0:18:41.51,0:18:44.43,Default,,0,0,0,,Tidak apa-apa. Ayo pulang, Yoshida-san.
+Dialogue: 0,0:18:44.43,0:18:47.70,Default,,0,0,0,,Anda tidak baik-baik saja. Belilah baju baru.
+Dialogue: 0,0:18:47.70,0:18:49.39,Default,,0,0,0,,Yang Anda punya hanyalah seragam ini, bukan?
+Dialogue: 0,0:18:50.79,0:18:53.07,Default,,0,0,0,,Jadi Anda sedang membeli pakaian.
+Dialogue: 0,0:18:53.07,0:18:55.18,Default,,0,0,0,,Dan saya membeli kasur baru.
+Dialogue: 0,0:18:56.14,0:18:59.61,Default,,0,0,0,,Anda bangun sambil menggosok punggung dan berkata "ow" setiap pagi.
+Dialogue: 0,0:19:00.72,0:19:02.32,Default,,0,0,0,,Saya melakukan itu?
+Dialogue: 0,0:19:02.32,0:19:03.69,Default,,0,0,0,,Anda yakin.
+Dialogue: 0,0:19:05.56,0:19:06.62,Default,,0,0,0,,Tapi...
+Dialogue: 0,0:19:07.78,0:19:08.87,Default,,0,0,0,,Tapi...
+Dialogue: 0,0:19:10.36,0:19:15.34,Default,,0,0,0,,Jika Anda melakukan semua itu untuk saya, saya tidak akan tahu bagaimana membalas Anda.
+Dialogue: 0,0:19:18.13,0:19:20.81,Default,,0,0,0,,Jadi begitu?
+Dialogue: 0,0:19:20.81,0:19:25.85,Default,,0,0,0,,Dia tidak mencoba untuk menjadi rendah hati. Dia tidak bisa menerimanya, karena dia tidak bisa membalas budi saya.
+Dialogue: 0,0:19:26.38,0:19:28.87,Default,,0,0,0,,Mengapa seorang anak berpikir seperti itu?
+Dialogue: 0,0:19:31.00,0:19:33.31,Default,,0,0,0,,Saya cukup sibuk.
+Dialogue: 0,0:19:33.31,0:19:36.15,Default,,0,0,0,,Jadi saya tidak bisa menghabiskan waktu untuk pekerjaan rumah.
+Dialogue: 0,0:19:37.08,0:19:40.03,Default,,0,0,0,,Tapi Anda melakukan semuanya, bukan?
+Dialogue: 0,0:19:40.40,0:19:44.49,Default,,0,0,0,,Sekitar seminggu terakhir ini, jauh lebih mudah bagi saya di rumah.
+Dialogue: 0,0:19:46.15,0:19:47.95,Default,,0,0,0,,Apa itu belum cukup?
+Dialogue: 0,0:19:51.25,0:19:54.67,Default,,0,0,0,,Jika Anda setuju dengan itu, maka saya setuju.
+Dialogue: 0,0:19:56.20,0:19:58.12,Default,,0,0,0,,Oke, kalau begitu.
+Dialogue: 0,0:20:00.77,0:20:02.09,Default,,0,0,0,,Sangat nyaman!
+Dialogue: 0,0:20:02.76,0:20:04.43,Default,,0,0,0,,Lebih baik memiliki kasur, bukan?
+Dialogue: 0,0:20:05.03,0:20:07.89,Default,,0,0,0,,Ya! Aku akan tidur nyenyak malam ini.
+Dialogue: 0,0:20:11.14,0:20:12.39,Default,,0,0,0,,Yoshida-san.
+Dialogue: 0,0:20:14.04,0:20:15.27,Default,,0,0,0,,Mau tidur denganku?
+Dialogue: 0,0:20:16.71,0:20:20.46,Default,,0,0,0,,Hei! Sudah kubilang jika kamu mencoba merayuku lagi, aku akan mengusirmu!
+Dialogue: 0,0:20:21.24,0:20:24.74,Default,,0,0,0,,Saya tidak mengatakan sepatah kata pun tentang melakukan sesuatu yang kotor.
+Dialogue: 0,0:20:29.04,0:20:31.11,Default,,0,0,0,,Kau mesum seperti itu.
+Dialogue: 0,0:20:34.16,0:20:35.48,Default,,0,0,0,,Hei...
+Dialogue: 0,0:20:36.55,0:20:38.38,Default,,0,0,0,,Anda lebih manis saat tertawa.
+Dialogue: 0,0:20:42.30,0:20:45.34,Default,,0,0,0,,Ke-Kenapa kamu merayuku?
+Dialogue: 0,0:20:45.34,0:20:47.45,Default,,0,0,0,,Aku sudah bilang. Kamu bukan tipe saya.
+Dialogue: 0,0:20:50.02,0:20:51.50,Default,,0,0,0,,Yoshida-san ...
+Dialogue: 0,0:20:53.99,0:20:55.14,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:20:58.98,0:21:01.86,Default,,0,0,0,,Ada rumor yang beredar bahwa kamu punya pacar.
+Dialogue: 0,0:21:02.74,0:21:03.82,Default,,0,0,0,,Apa apaan?
+Dialogue: 0,0:21:04.12,0:21:06.62,Default,,0,0,0,,Anda akan pulang tepat pada waktu berhenti setiap hari.
+Dialogue: 0,0:21:06.62,0:21:09.42,Default,,0,0,0,,Anda lebih bersih. Kemejamu sudah disetrika.
+Dialogue: 0,0:21:10.10,0:21:15.59,Default,,0,0,0,,Wajah Anda memiliki lebih banyak warna, dan Anda melakukan pekerjaan yang lebih baik di tempat kerja, kata mereka.
+Dialogue: 0,0:21:16.12,0:21:18.00,Default,,0,0,0,,Gadis-gadis itu mengatakan itu.
+Dialogue: 0,0:21:18.00,0:21:21.22,Default,,0,0,0,,Apa apaan?
+Dialogue: 0,0:21:22.98,0:21:25.43,Default,,0,0,0,,Ini sebenarnya seorang gadis remaja.
+Dialogue: 0,0:21:28.44,0:21:30.05,Default,,0,0,0,,Ya saya kira.
+Dialogue: 0,0:21:30.05,0:21:33.76,Default,,0,0,0,,Seorang gadis pelarian terdengar seperti seseorang yang agak bodoh.
+Dialogue: 0,0:21:33.76,0:21:35.90,Default,,0,0,0,,Tapi mungkin dia bisa berakting bersama.
+Dialogue: 0,0:21:35.90,0:21:39.19,Default,,0,0,0,,Ya itu benar.
+Dialogue: 0,0:21:41.40,0:21:46.64,Default,,0,0,0,,Ya, dia bukan tipeku, secara fisik.
+Dialogue: 0,0:21:46.64,0:21:49.28,Default,,0,0,0,,Tapi dia sangat manis.
+Dialogue: 0,0:21:49.28,0:21:52.04,Default,,0,0,0,,Dia bisa melakukan pekerjaan rumah dan dia ramah.
+Dialogue: 0,0:21:52.71,0:21:54.54,Default,,0,0,0,,Jadi kenapa kabur?
+Dialogue: 0,0:21:55.49,0:21:58.73,Default,,0,0,0,,Dan datang jauh-jauh ke Tokyo?
+Dialogue: 0,0:22:10.26,0:22:11.91,Default,,0,0,0,,Yoshida-san, rambut wajahmu.
+Dialogue: 0,0:22:12.65,0:22:14.09,Default,,0,0,0,,Apakah Anda tidak ingin mencukurnya?
+Dialogue: 0,0:22:16.04,0:22:18.30,Default,,0,0,0,,Tidak hari ini. Aku terlalu malas.
+Dialogue: 0,0:22:18.30,0:22:20.61,Default,,0,0,0,,Terkadang Anda bercukur, dan terkadang tidak.
+Dialogue: 0,0:22:20.61,0:22:22.76,Default,,0,0,0,,Apakah ada alasan?
+Dialogue: 0,0:22:22.76,0:22:25.44,Default,,0,0,0,,Nggak. Saya hanya mencukurnya jika sudah lama.
+Dialogue: 0,0:22:25.90,0:22:28.63,Default,,0,0,0,,Dan menurutmu itu tidak lama?
+Dialogue: 0,0:22:30.00,0:22:31.47,Default,,0,0,0,,Mungkin aku akan mencukurnya.
+Dialogue: 0,0:22:31.47,0:22:32.66,Default,,0,0,0,,Yang mana
+Dialogue: 0,0:22:33.25,0:22:37.79,Default,,0,0,0,,Yah, itu membuatku merasa tua.
+Dialogue: 0,0:22:37.79,0:22:38.66,Default,,0,0,0,,Mengapa?
+Dialogue: 0,0:22:39.08,0:22:45.13,Default,,0,0,0,,Ketika saya baru berusia dua puluh tahun, saya akan mencukurnya kapan saja.
+Dialogue: 0,0:22:45.65,0:22:48.25,Default,,0,0,0,,Dan saya akan berusaha keras untuk tidak melewatkan satu titik pun.
+Dialogue: 0,0:22:49.10,0:22:53.50,Default,,0,0,0,,Memiliki rambut wajah adalah semacam simbol menjadi tua.
+Dialogue: 0,0:22:54.27,0:22:55.64,Default,,0,0,0,,Tapi saya pikir itu salah.
+Dialogue: 0,0:22:56.00,0:22:57.14,Default,,0,0,0,,Salah?
+Dialogue: 0,0:22:59.57,0:23:03.82,Default,,0,0,0,,Saat Anda terlalu malas untuk mencukur rambut wajah Anda adalah saat Anda sudah tua.
+Dialogue: 0,0:23:06.74,0:23:08.02,Default,,0,0,0,,Yoshida-san.
+Dialogue: 0,0:23:09.21,0:23:11.79,Default,,0,0,0,,Rambut wajah itu tidak terlihat bagus untukmu.
+Dialogue: 0,0:23:11.79,0:23:12.91,Default,,0,0,0,,Tidak ada yang memintamu.
+Dialogue: 0,0:23:13.83,0:23:17.36,Default,,0,0,0,,Yoshida-san, kamu akan terlambat.
+Dialogue: 0,0:23:18.12,0:23:19.90,Default,,0,0,0,,Aku tahu!
+Dialogue: 0,0:23:23.72,0:23:25.64,Default,,0,0,0,,Saya kira saya akan mencukurnya.
+Dialogue: 0,0:23:30.26,0:23:35.05,Default,,0,0,0,,{\ fad (399,1)} Lain kali
+Dialogue: 0,0:23:30.26,0:23:35.05,Default,,0,0,0,,{\ fad (399,1)} "Ponsel"
+Dialogue: 0,0:23:35.05,0:23:40.06,Default,,0,0,0,,Sampai jumpa minggu depan!

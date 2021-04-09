@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Flashback_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00F9FDFA,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,7,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,8,0012,0499,0054,1
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,0035,0038,0050,1
+Style: sign_1653_9_The_Teenage_Girl,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,0,7,0035,0200,0050,1
+Style: sign_1987_16_Rump__200_Yen,Arial,20,&H00CBEAF4,&H000000FF,&H001A2034,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0478,0077,0020,1
+Style: sign_1987_15_Heart__200_Yen,Arial,20,&H00CBEAF4,&H000000FF,&H001A2034,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0245,0309,0020,1
+Style: sign_1987_14_Liver__200_Yen,Arial,20,&H00CBEAF4,&H000000FF,&H001A2034,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0114,0441,0020,1
+Style: sign_15533_166_Asahikawa_High_S,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0032,0364,0038,1
+Style: sign_25754_269_Alarm,Arial,20,&H00E5BEBF,&H000000FF,&H00B66668,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0288,0288,0018,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00767679,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,0,3,0021,0056,0070,1
+Style: See you next week,Arial,20,&H00E145E2,&H000000FF,&H00FFE4FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0388,0045,0067,1
+Style: sign_33928_366_Ci_vediamo_la_pr,Arial,20,&H00E145E2,&H000000FF,&H00FFE4FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0227,0045,0067,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.16,0:00:24.25,Main,,0000,0000,0000,,Era tutto squisito!
+Dialogue: 0,0:00:24.88,0:00:27.96,Main,,0000,0000,0000,,Grazie di avermi invitata, Yoshida!
+Dialogue: 0,0:00:32.20,0:00:34.49,Main,,0000,0000,0000,,Ecco, Gotou,
+Dialogue: 0,0:00:38.58,0:00:41.35,Main,,0000,0000,0000,,ti andrebbe di venire a casa mia dopo?
+Dialogue: 0,0:00:46.26,0:00:50.52,Main,,0000,0000,0000,,Mi dispiace. Non te l'ho detto al lavoro,
+Dialogue: 0,0:00:50.87,0:00:53.51,Main,,0000,0000,0000,,ma sono fidanzata.
+Dialogue: 0,0:00:56.04,0:00:59.32,Italics Top,,0000,0000,0000,,E così il mio amore non corrisposto ebbe fine.
+Dialogue: 0,0:01:03.86,0:01:06.00,Main,,0000,0000,0000,,Se hai un uomo...
+Dialogue: 0,0:01:06.90,0:01:09.07,Main,,0000,0000,0000,,dillo subito!
+Dialogue: 0,0:01:08.92,0:01:13.92,sign_1653_9_The_Teenage_Girl,,0000,0000,0000,,{\fad(482,472)}"La liceale sotto al lampione"
+Dialogue: 0,0:01:09.07,0:01:11.55,Main,,0000,0000,0000,,Calmati, Yoshida, ti sentono tutti!
+Dialogue: 0,0:01:11.55,0:01:14.63,Main,,0000,0000,0000,,Scusatelo, è un po' alticcio!
+Dialogue: 0,0:01:15.19,0:01:17.21,Main,,0000,0000,0000,,Dacci un taglio ora!
+Dialogue: 0,0:01:17.21,0:01:21.94,Main,,0000,0000,0000,,Idiota! La mia rabbia è ben lontana dall'esaurirsi!
+Dialogue: 0,0:01:22.85,0:01:27.18,Main,,0000,0000,0000,,Mi chiedevo perché volessi parlarmi all'improvviso,\Nma volevi solo lamentarti di essere stato scaricato!
+Dialogue: 0,0:01:22.85,0:01:27.56,sign_1987_14_Liver__200_Yen,,0000,0000,0000,,{\move(137,95,170,95)}Fegato\N200 Yen
+Dialogue: 0,0:01:22.85,0:01:27.56,sign_1987_15_Heart__200_Yen,,0000,0000,0000,,{\move(281,53,315,53)}Cuore\N200 Yen
+Dialogue: 0,0:01:22.85,0:01:27.56,sign_1987_16_Rump__200_Yen,,0000,0000,0000,,{\move(450,16,485,16)}Fesa\N200 Yen
+Dialogue: 0,0:01:27.18,0:01:31.32,Main,,0000,0000,0000,,Merda! Ha pure detto che lo vede già da cinque anni!
+Dialogue: 0,0:01:31.32,0:01:32.76,Main,,0000,0000,0000,,Mi ha ingannato!
+Dialogue: 0,0:01:32.76,0:01:35.34,Main,,0000,0000,0000,,Deve ridarmi i miei sentimenti!
+Dialogue: 0,0:01:37.06,0:01:38.68,Main,,0000,0000,0000,,Dammi un'altra birra!
+Dialogue: 0,0:01:38.68,0:01:40.20,Main,,0000,0000,0000,,Stai bevendo troppo.
+Dialogue: 0,0:01:40.20,0:01:42.92,Main,,0000,0000,0000,,Non importa! Tanto domani non si lavora!
+Dialogue: 0,0:01:45.11,0:01:47.36,Main,,0000,0000,0000,,Torno a casa prima di perdere l'ultimo treno!
+Dialogue: 0,0:01:47.36,0:01:48.75,Main,,0000,0000,0000,,Mia moglie mi aspetta.
+Dialogue: 0,0:01:48.75,0:01:51.21,Main,,0000,0000,0000,,Va bene!
+Dialogue: 0,0:01:55.51,0:01:58.34,Main,,0000,0000,0000,,Accidenti a te, Gotou!
+Dialogue: 0,0:02:23.28,0:02:25.16,Main,,0000,0000,0000,,Ehi, tu, ragazzina!
+Dialogue: 0,0:02:27.94,0:02:30.70,Main,,0000,0000,0000,,Che ci fai in giro a quest'ora?
+Dialogue: 0,0:02:30.70,0:02:32.42,Main,,0000,0000,0000,,Vattene a casa! Su!
+Dialogue: 0,0:02:32.42,0:02:34.39,Main,,0000,0000,0000,,Non ci sono più treni.
+Dialogue: 0,0:02:35.00,0:02:36.97,Main,,0000,0000,0000,,E quindi te ne resti qui fino a domattina?
+Dialogue: 0,0:02:37.60,0:02:39.72,Main,,0000,0000,0000,,Ho paura che farà piuttosto freddo.
+Dialogue: 0,0:02:39.72,0:02:41.43,Main,,0000,0000,0000,,E quindi che farai?
+Dialogue: 0,0:02:51.36,0:02:52.86,Main,,0000,0000,0000,,Ospitami da te, zietto!
+Dialogue: 0,0:02:54.13,0:02:55.08,Main,,0000,0000,0000,,"Zietto"?
+Dialogue: 0,0:02:55.67,0:03:00.98,Main,,0000,0000,0000,,Ma ti senti? Quale liceale vorrebbe fermarsi\Na casa di un perfetto sconosciuto?
+Dialogue: 0,0:03:02.18,0:03:04.58,Main,,0000,0000,0000,,Ma non ho un altro posto dove andare...
+Dialogue: 0,0:03:04.92,0:03:08.75,Main,,0000,0000,0000,,Torna alla stazione e potrai dormire\Nin un karaoke o un internet café.
+Dialogue: 0,0:03:08.75,0:03:10.04,Main,,0000,0000,0000,,Sono senza soldi.
+Dialogue: 0,0:03:10.41,0:03:13.82,Main,,0000,0000,0000,,Vorresti dire che dovrei farti dormire a casa mia gratis?
+Dialogue: 0,0:03:13.82,0:03:15.83,Main,,0000,0000,0000,,Ehm... sì!
+Dialogue: 0,0:03:17.91,0:03:19.98,Main,,0000,0000,0000,,Ti permetterò di abusare di me. Allora, mi ospiti?
+Dialogue: 0,0:03:22.16,0:03:25.37,Italics,,0000,0000,0000,,Sono tutte così le liceali di oggi?
+Dialogue: 0,0:03:26.07,0:03:28.72,Italics,,0000,0000,0000,,No, non può essere!
+Dialogue: 0,0:03:29.76,0:03:31.44,Italics,,0000,0000,0000,,È questa qui che è strana!
+Dialogue: 0,0:03:32.24,0:03:34.62,Main,,0000,0000,0000,,Non dirlo nemmeno per scherzo!
+Dialogue: 0,0:03:34.62,0:03:37.12,Main,,0000,0000,0000,,Non è uno scherzo. Puoi farlo davvero!
+Dialogue: 0,0:03:37.12,0:03:39.31,Main,,0000,0000,0000,,Grazie, ma ne faccio volentieri a meno.
+Dialogue: 0,0:03:39.31,0:03:41.66,Main,,0000,0000,0000,,Non me la faccio con le ragazzine!
+Dialogue: 0,0:03:43.59,0:03:44.66,Main,,0000,0000,0000,,Va bene...
+Dialogue: 0,0:03:45.36,0:03:46.87,Main,,0000,0000,0000,,Allora mi ospiti gratis?
+Dialogue: 0,0:03:52.64,0:03:54.50,Main,,0000,0000,0000,,Con permesso!
+Dialogue: 0,0:03:56.67,0:03:57.66,Main,,0000,0000,0000,,Quanta sporcizia!
+Dialogue: 0,0:03:57.66,0:04:00.09,Main,,0000,0000,0000,,Credevi che un uomo che vive in un monolocale \Nlo tenesse pulito?
+Dialogue: 0,0:04:00.59,0:04:02.05,Main,,0000,0000,0000,,Alcuni lo fanno!
+Dialogue: 0,0:04:03.56,0:04:04.47,Main,,0000,0000,0000,,Che c'è?
+Dialogue: 0,0:04:04.84,0:04:06.07,Main,,0000,0000,0000,,No, niente...
+Dialogue: 0,0:04:06.47,0:04:08.20,Italics,,0000,0000,0000,,Non devo farmi coinvolgere!
+Dialogue: 0,0:04:08.20,0:04:13.19,Italics,,0000,0000,0000,,Non importa che vita conduca\No dove sia stata prima di venire qui...
+Dialogue: 0,0:04:13.48,0:04:15.05,Italics,,0000,0000,0000,,Non è affar mio!
+Dialogue: 0,0:04:16.49,0:04:19.43,Italics,,0000,0000,0000,,Domattina la caccio via e fine!
+Dialogue: 0,0:04:23.54,0:04:24.65,Main,,0000,0000,0000,,Vuoi dormire?
+Dialogue: 0,0:04:24.65,0:04:27.50,Main,,0000,0000,0000,,Sì! Tu fa come ti pare!
+Dialogue: 0,0:04:36.44,0:04:37.30,Main,,0000,0000,0000,,Ehi...
+Dialogue: 0,0:04:37.76,0:04:39.48,Main,,0000,0000,0000,,Non ti va proprio di farlo?
+Dialogue: 0,0:04:39.48,0:04:41.64,Main,,0000,0000,0000,,Non farmelo ripetere.
+Dialogue: 0,0:04:41.64,0:04:43.88,Main,,0000,0000,0000,,Non mi piacciono le ragazzine.
+Dialogue: 0,0:04:46.88,0:04:48.51,Main,,0000,0000,0000,,Capisco...
+Dialogue: 0,0:04:51.58,0:04:53.77,Main,,0000,0000,0000,,In questo caso, c'è nient'altro che vorresti?
+Dialogue: 0,0:04:55.11,0:04:56.15,Main,,0000,0000,0000,,Una zuppa di miso.
+Dialogue: 0,0:04:57.56,0:04:59.38,Main,,0000,0000,0000,,Una zuppa di miso...
+Dialogue: 0,0:04:59.74,0:05:01.35,Main,,0000,0000,0000,,preparata da una donna.
+Dialogue: 0,0:05:02.05,0:05:04.41,Main,,0000,0000,0000,,Questo voglio.
+Dialogue: 0,0:05:28.18,0:05:30.73,Main,,0000,0000,0000,,Oh, cavolo! Sono in ritardo!
+Dialogue: 0,0:05:33.27,0:05:35.40,Main,,0000,0000,0000,,Ah, è domenica...
+Dialogue: 0,0:05:36.96,0:05:38.15,Main,,0000,0000,0000,,Cos'è questo profumino?
+Dialogue: 0,0:05:38.15,0:05:41.04,Main,,0000,0000,0000,,Ah, finalmente sei sveglio!
+Dialogue: 0,0:05:41.04,0:05:41.86,Main,,0000,0000,0000,,Buongiorno!
+Dialogue: 0,0:05:43.72,0:05:45.13,Main,,0000,0000,0000,,Cosa diavolo sei tu?!
+Dialogue: 0,0:05:45.13,0:05:49.20,Main,,0000,0000,0000,,Non so bene cosa rispondere... una liceale?
+Dialogue: 0,0:05:49.74,0:05:52.40,Main,,0000,0000,0000,,Che ci fa una liceale a casa mia?
+Dialogue: 0,0:05:52.40,0:05:54.54,Main,,0000,0000,0000,,Ti ho chiesto di ospitarmi per la notte e lo hai fatto!
+Dialogue: 0,0:05:55.62,0:05:57.08,Main,,0000,0000,0000,,Chi ti ha detto che potevi restare?!
+Dialogue: 0,0:05:58.05,0:05:59.04,Main,,0000,0000,0000,,Tu, zietto!
+Dialogue: 0,0:05:59.04,0:06:01.24,Main,,0000,0000,0000,,Non chiamarmi zietto!
+Dialogue: 0,0:06:01.24,0:06:03.53,Main,,0000,0000,0000,,Invece lo faccio! È divertente!
+Dialogue: 0,0:06:07.49,0:06:10.07,Main,,0000,0000,0000,,Piuttosto... dimmi...
+Dialogue: 0,0:06:10.07,0:06:14.26,Main,,0000,0000,0000,,Non ti ho assalita o altro, vero?
+Dialogue: 0,0:06:23.79,0:06:25.74,Main,,0000,0000,0000,,Scherzetto!
+Dialogue: 0,0:06:25.74,0:06:28.81,Main,,0000,0000,0000,,Scusa, volevo solo prenderti un po' in giro.
+Dialogue: 0,0:06:28.81,0:06:30.20,Italics,,0000,0000,0000,,Questa ragazza...
+Dialogue: 0,0:06:30.20,0:06:33.70,Main,,0000,0000,0000,,Non facevi che ripetere\N"Non lo faccio con una ragazzina!".
+Dialogue: 0,0:06:34.66,0:06:36.91,Italics,,0000,0000,0000,,Ben fatto, me di ieri!
+Dialogue: 0,0:06:37.29,0:06:41.18,Main,,0000,0000,0000,,Allora ti ho chiesto\Nse potevo fare qualcos'altro per te...
+Dialogue: 0,0:06:45.06,0:06:46.21,Main,,0000,0000,0000,,Zuppa di miso?
+Dialogue: 0,0:06:46.51,0:06:47.60,Main,,0000,0000,0000,,L'ho fatta io!
+Dialogue: 0,0:06:47.60,0:06:50.60,Main,,0000,0000,0000,,Non cucinare zuppe di miso in casa d'altri!
+Dialogue: 0,0:06:52.18,0:06:53.93,Main,,0000,0000,0000,,Cos'era quel sospiro?
+Dialogue: 0,0:06:54.45,0:06:56.96,Main,,0000,0000,0000,,Mi hai chiesto tu di cucinarla, zietto.
+Dialogue: 0,0:06:56.96,0:06:58.75,Main,,0000,0000,0000,,Basta con 'sto zietto!
+Dialogue: 0,0:06:58.75,0:07:02.60,Main,,0000,0000,0000,,Se zietto non ti piace, come posso chiamarti allora?
+Dialogue: 0,0:07:03.75,0:07:07.11,Main,,0000,0000,0000,,Non importa come mi chiami,\Nbasta che tu te ne vada subito!
+Dialogue: 0,0:07:07.11,0:07:09.64,Main,,0000,0000,0000,,Davvero non ti ricordi nulla?
+Dialogue: 0,0:07:09.64,0:07:14.32,Main,,0000,0000,0000,,Ieri sera me ne stavo seduta sotto un lampione,\Npoi sei arrivato tu e mi hai parlato.
+Dialogue: 0,0:07:14.32,0:07:17.51,Main,,0000,0000,0000,,Ieri sera? Lampione?
+Dialogue: 0,0:07:26.50,0:07:27.69,Main,,0000,0000,0000,,Ti è tornato in mente?
+Dialogue: 0,0:07:27.69,0:07:29.10,Main,,0000,0000,0000,,Mutandine nere!
+Dialogue: 0,0:07:29.10,0:07:31.16,Main,,0000,0000,0000,,Che razza di risposta è?
+Dialogue: 0,0:07:31.16,0:07:32.76,Main,,0000,0000,0000,,È disgustoso!
+Dialogue: 0,0:07:32.76,0:07:34.36,Main,,0000,0000,0000,,Capisco...
+Dialogue: 0,0:07:35.19,0:07:36.28,Main,,0000,0000,0000,,Senti, zietto...
+Dialogue: 0,0:07:36.28,0:07:37.64,Main,,0000,0000,0000,,Ti ho detto...!
+Dialogue: 0,0:07:37.64,0:07:39.18,Main,,0000,0000,0000,,Come ti chiami?
+Dialogue: 0,0:07:40.90,0:07:42.10,Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:42.10,0:07:43.54,Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:44.64,0:07:48.52,Main,,0000,0000,0000,,Ti si addice! Hai proprio la faccia da Yoshida!
+Dialogue: 0,0:07:48.52,0:07:49.84,Main,,0000,0000,0000,,Con questo cosa vorresti dire?
+Dialogue: 0,0:07:49.84,0:07:51.82,Main,,0000,0000,0000,,Beh, intanto mangiamo la zuppa di miso!
+Dialogue: 0,0:07:51.82,0:07:53.07,Main,,0000,0000,0000,,Possiamo parlare dopo!
+Dialogue: 0,0:07:53.07,0:07:54.78,Main,,0000,0000,0000,,Perché decidi tu cosa fare?!
+Dialogue: 0,0:07:59.51,0:08:01.21,Main,,0000,0000,0000,,Mangia prima che si raffreddi!
+Dialogue: 0,0:08:06.80,0:08:07.75,Main,,0000,0000,0000,,È buona!
+Dialogue: 0,0:08:10.63,0:08:13.55,Main,,0000,0000,0000,,Avresti preferito fosse stata Gotou a cucinartela, vero?
+Dialogue: 0,0:08:13.55,0:08:15.64,Main,,0000,0000,0000,,E tu come lo sai?!
+Dialogue: 0,0:08:15.64,0:08:19.02,Main,,0000,0000,0000,,Ieri sei stato scaricato, vero?\NNe parlavi nel sonno.
+Dialogue: 0,0:08:24.63,0:08:25.65,Main,,0000,0000,0000,,Senti...
+Dialogue: 0,0:08:27.70,0:08:29.61,Main,,0000,0000,0000,,Che ne dici se ti consolo un po'?
+Dialogue: 0,0:08:37.67,0:08:40.29,Main,,0000,0000,0000,,Ti ho già detto che non devi parlare così!
+Dialogue: 0,0:08:40.81,0:08:42.67,Main,,0000,0000,0000,,Non sei sincero...
+Dialogue: 0,0:08:42.67,0:08:49.78,Main,,0000,0000,0000,,Scema, non sono così disperato da aver bisogno\Ndi essere consolato da una ragazza così minuta come te!
+Dialogue: 0,0:08:52.40,0:08:53.82,Main,,0000,0000,0000,,Però a me...
+Dialogue: 0,0:08:53.82,0:08:56.47,Main,,0000,0000,0000,,sembra che le mie bocce siano piuttosto grosse!
+Dialogue: 0,0:08:58.42,0:09:02.67,Main,,0000,0000,0000,,Beh, forse per una liceale.
+Dialogue: 0,0:09:02.67,0:09:04.18,Main,,0000,0000,0000,,Ma Gotou le ha molto più grosse!
+Dialogue: 0,0:09:05.12,0:09:06.89,Main,,0000,0000,0000,,Molto più grosse?
+Dialogue: 0,0:09:06.89,0:09:08.15,Main,,0000,0000,0000,,Che taglia porta di coppa?
+Dialogue: 0,0:09:08.54,0:09:12.06,Main,,0000,0000,0000,,Non so, forse la F.
+Dialogue: 0,0:09:12.06,0:09:14.17,Main,,0000,0000,0000,,Se ha la F, allora sono come le mie!
+Dialogue: 0,0:09:14.17,0:09:16.27,Main,,0000,0000,0000,,Eh?! Quelle sarebbero F?!
+Dialogue: 0,0:09:16.27,0:09:17.11,Main,,0000,0000,0000,,Sì.
+Dialogue: 0,0:09:17.11,0:09:21.08,Main,,0000,0000,0000,,Se ti sembrano più grosse delle mie,\Nallora forse sono G o H.
+Dialogue: 0,0:09:21.58,0:09:23.43,Main,,0000,0000,0000,,Una coppa H...
+Dialogue: 0,0:09:23.94,0:09:25.22,Main,,0000,0000,0000,,Capisco...
+Dialogue: 0,0:09:25.22,0:09:26.57,Main,,0000,0000,0000,,Coppa H...
+Dialogue: 0,0:09:27.38,0:09:31.84,Italics,,0000,0000,0000,,Avrei voluto infilarlo tra quelle coppe H,\N anche solo una volta!
+Dialogue: 0,0:09:31.84,0:09:37.42,Main,,0000,0000,0000,,Ma scusa, non è meglio una coppa F che puoi toccare \Ndi una coppa H che è fuori portata?
+Dialogue: 0,0:09:39.08,0:09:43.77,Main,,0000,0000,0000,,Senti, perché stai cercando così tanto di sedurmi?
+Dialogue: 0,0:09:43.77,0:09:45.89,Main,,0000,0000,0000,,E se ti saltassi davvero addosso, che faresti?
+Dialogue: 0,0:09:46.82,0:09:48.47,Main,,0000,0000,0000,,Allora lo faremmo normalmente.
+Dialogue: 0,0:09:48.92,0:09:51.38,Main,,0000,0000,0000,,Vorresti farlo con me?
+Dialogue: 0,0:09:51.81,0:09:54.92,Main,,0000,0000,0000,,No, non era questo che intendevo.
+Dialogue: 0,0:09:56.06,0:09:57.95,Main,,0000,0000,0000,,Ma che problemi hai?!
+Dialogue: 0,0:09:57.95,0:10:00.66,Main,,0000,0000,0000,,Altri uomini ti avrebbero assalita senza problemi!
+Dialogue: 0,0:10:01.24,0:10:03.05,Main,,0000,0000,0000,,Allora ti chiedo...
+Dialogue: 0,0:10:03.05,0:10:03.98,Main,,0000,0000,0000,,Cosa?
+Dialogue: 0,0:10:07.81,0:10:12.84,Main,,0000,0000,0000,,C'è una ragazza davanti a te che vorrebbe farlo. \NPerché non ci stai?
+Dialogue: 0,0:10:14.37,0:10:16.09,Main,,0000,0000,0000,,Perché fai quella faccia?
+Dialogue: 0,0:10:16.63,0:10:19.09,Main,,0000,0000,0000,,Sei tu che non sei normale, Yoshida.
+Dialogue: 0,0:10:19.78,0:10:25.35,Main,,0000,0000,0000,,Non avevo mai incontrato un uomo che mi ospitasse\Nper la notte senza chiedere qualcosa in cambio.
+Dialogue: 0,0:10:33.94,0:10:35.78,Main,,0000,0000,0000,,Per caso sei scema?
+Dialogue: 0,0:10:36.61,0:10:38.40,Main,,0000,0000,0000,,Qual è il tuo nome?
+Dialogue: 0,0:10:39.24,0:10:40.41,Main,,0000,0000,0000,,Sayu.
+Dialogue: 0,0:10:43.35,0:10:46.20,Main,,0000,0000,0000,,Da dove vieni? \NFammi vedere i tuoi documenti scolastici.
+Dialogue: 0,0:10:47.83,0:10:52.79,sign_15533_166_Asahikawa_High_S,,0000,0000,0000,,{\pos(275,230)\fs22}Liceo N° 6 di Asahikawa
+Dialogue: 0,0:10:48.87,0:10:50.30,Main,,0000,0000,0000,,Asahikawa?!
+Dialogue: 0,0:10:50.30,0:10:51.95,Main,,0000,0000,0000,,Sei venuta fin qui dall'Hokkaido da sola?
+Dialogue: 0,0:10:51.95,0:10:52.79,Main,,0000,0000,0000,,Sì.
+Dialogue: 0,0:10:53.15,0:10:55.56,Main,,0000,0000,0000,,Quando hai lasciato l'Hokkaido?
+Dialogue: 0,0:10:56.39,0:10:58.52,Main,,0000,0000,0000,,Circa sei mesi fa.
+Dialogue: 0,0:10:58.52,0:11:00.89,Main,,0000,0000,0000,,Lo hai detto ai tuoi genitori?
+Dialogue: 0,0:11:01.78,0:11:03.08,Main,,0000,0000,0000,,No...
+Dialogue: 0,0:11:03.08,0:11:05.60,Main,,0000,0000,0000,,Idiota! Torna subito a casa allora!
+Dialogue: 0,0:11:05.60,0:11:06.60,Main,,0000,0000,0000,,Va bene così.
+Dialogue: 0,0:11:08.60,0:11:11.85,Main,,0000,0000,0000,,Sono sicura che si sentono sollevati\Nora che non sono più con loro.
+Dialogue: 0,0:11:12.39,0:11:14.08,Italics,,0000,0000,0000,,Non prendermi in giro!
+Dialogue: 0,0:11:14.08,0:11:16.54,Italics,,0000,0000,0000,,Quella non è una faccia da "va bene così"!
+Dialogue: 0,0:11:17.68,0:11:19.95,Main,,0000,0000,0000,,Questo non puoi saperlo!
+Dialogue: 0,0:11:21.41,0:11:22.41,Main,,0000,0000,0000,,Sì che posso!
+Dialogue: 0,0:11:24.29,0:11:28.35,Main,,0000,0000,0000,,Se non vuoi tornare a casa né andare a scuola,
+Dialogue: 0,0:11:28.35,0:11:30.06,Main,,0000,0000,0000,,come pensi di sopravvivere?
+Dialogue: 0,0:11:30.55,0:11:32.75,Main,,0000,0000,0000,,Troverò un modo per rimanere a casa di qualcuno.
+Dialogue: 0,0:11:32.75,0:11:34.67,Main,,0000,0000,0000,,E come pensi di "trovare un modo"?
+Dialogue: 0,0:11:36.47,0:11:37.80,Main,,0000,0000,0000,,Non prendermi per i fondelli!
+Dialogue: 0,0:11:39.08,0:11:42.04,Main,,0000,0000,0000,,Non so come si siano sentiti gli altri,
+Dialogue: 0,0:11:42.48,0:11:45.64,Main,,0000,0000,0000,,ma io non ho il benché minimo interesse\Nnei confronti del tuo corpo.
+Dialogue: 0,0:11:47.17,0:11:49.76,Main,,0000,0000,0000,,Che pensi di fare se ti caccio fuori?
+Dialogue: 0,0:11:49.76,0:11:52.35,Main,,0000,0000,0000,,T-Troverò un altro posto dove stare, in qualche modo.
+Dialogue: 0,0:11:52.67,0:11:55.23,Main,,0000,0000,0000,,In che modo esattamente?
+Dialogue: 0,0:11:57.01,0:11:58.47,Main,,0000,0000,0000,,Ecco...
+Dialogue: 0,0:12:01.92,0:12:04.86,Italics,,0000,0000,0000,,Perché non capisci?
+Dialogue: 0,0:12:07.70,0:12:08.66,Main,,0000,0000,0000,,Lavora!
+Dialogue: 0,0:12:10.34,0:12:15.03,Main,,0000,0000,0000,,Tutti i ragazzini che lasciano la scuola\Nsi guadagnano da vivere lavorando.
+Dialogue: 0,0:12:15.46,0:12:19.45,Main,,0000,0000,0000,,Ma non posso permettermi di pagare\Nun affitto con un lavoro part-time.
+Dialogue: 0,0:12:19.92,0:12:21.38,Main,,0000,0000,0000,,Puoi vivere qui.
+Dialogue: 0,0:12:22.69,0:12:24.63,Main,,0000,0000,0000,,M-Ma...
+Dialogue: 0,0:12:25.92,0:12:27.92,Main,,0000,0000,0000,,Non hai soldi. Non hai dove vivere.
+Dialogue: 0,0:12:27.92,0:12:30.19,Main,,0000,0000,0000,,Quindi continuerai a sedurre uomini?
+Dialogue: 0,0:12:30.19,0:12:33.60,Main,,0000,0000,0000,,Caccerò dalla tua testa queste stupidaggini con la forza.
+Dialogue: 0,0:12:34.72,0:12:36.44,Main,,0000,0000,0000,,Non fai che darmi della stupida...
+Dialogue: 0,0:12:36.44,0:12:38.38,Main,,0000,0000,0000,,Perché lo sei! E tanto!
+Dialogue: 0,0:12:38.84,0:12:41.45,Main,,0000,0000,0000,,Sei una ragazzina viziata\Nche non conosce il valore delle cose!
+Dialogue: 0,0:12:44.86,0:12:46.58,Italics,,0000,0000,0000,,Perché?
+Dialogue: 0,0:12:46.58,0:12:49.96,Italics,,0000,0000,0000,,Perché non può avere una vita normale?
+Dialogue: 0,0:12:49.96,0:12:54.72,Italics,,0000,0000,0000,,{\fad(1,280)}Perché non può vivere un amore normale?
+Dialogue: 0,0:12:57.11,0:13:01.30,Main,,0000,0000,0000,,Per prima cosa, farai tutti le faccende di casa.\NQuesto sarà il tuo lavoro!
+Dialogue: 0,0:13:02.44,0:13:07.13,Main,,0000,0000,0000,,Ascolta. \NOra dobbiamo definire i nostri spazi vitali.
+Dialogue: 0,0:13:07.13,0:13:09.47,Main,,0000,0000,0000,,Sarebbe un guaio se facessi tutto a modo tuo!
+Dialogue: 0,0:13:11.40,0:13:15.69,Main,,0000,0000,0000,,Da come lo dici,\Nsembra quasi che potrò stare qui per sempre.
+Dialogue: 0,0:13:15.69,0:13:17.53,Main,,0000,0000,0000,,Per sempre no!
+Dialogue: 0,0:13:17.53,0:13:19.94,Main,,0000,0000,0000,,Quanto ti sarai stancata di essere una fuggiasca, \Ntornatene a casa!
+Dialogue: 0,0:13:21.17,0:13:22.65,Main,,0000,0000,0000,,Ma fino ad allora posso restare?
+Dialogue: 0,0:13:23.75,0:13:29.04,Italics,,0000,0000,0000,,Sarebbe stato faticoso, ma c'erano altri modi\Npiù sani di guadagnarsi da vivere
+Dialogue: 0,0:13:29.04,0:13:31.37,Italics,,0000,0000,0000,,che sedurre uomini per farsi ospitare.
+Dialogue: 0,0:13:31.96,0:13:36.14,Italics,,0000,0000,0000,,Ma per una qualche ragione,\Nlo ha dimenticato tanto tempo fa.
+Dialogue: 0,0:13:36.60,0:13:39.45,Italics,,0000,0000,0000,,Per di più, ho capito una cosa\Ndurante questa conversazione.
+Dialogue: 0,0:13:40.21,0:13:42.46,Italics,,0000,0000,0000,,Questa ragazza è davvero viziata.
+Dialogue: 0,0:13:42.46,0:13:46.66,Italics,,0000,0000,0000,,Se non sto attento a quel che dico,\Npotrebbe rimanere a vivere qui per anni.
+Dialogue: 0,0:13:49.44,0:13:53.06,Main,,0000,0000,0000,,Puoi rimanere qui finché non impari\Na non comportarti da bambina viziata.
+Dialogue: 0,0:13:54.53,0:13:59.87,Main,,0000,0000,0000,,Ma la prossima volta che cerchi di sedurmi,\Nti butto fuori immediatamente!
+Dialogue: 0,0:13:59.87,0:14:01.52,Main,,0000,0000,0000,,T-Tutto chiaro!
+Dialogue: 0,0:14:02.21,0:14:05.45,Italics,,0000,0000,0000,,E così iniziò uno strano capitolo
+Dialogue: 0,0:14:05.45,0:14:09.74,Italics,,0000,0000,0000,,nelle vite di una ragazza scappata di casa\Ne di un impiegato ventiseienne.
+Dialogue: 0,0:14:10.02,0:14:11.70,Italics,,0000,0000,0000,,Ma, in quel momento,
+Dialogue: 0,0:14:12.63,0:14:19.66,Italics,,0000,0000,0000,,non avevo ancora capito quanto fosse difficile \Nvivere assieme a una liceale.
+Dialogue: 0,0:14:21.59,0:14:23.75,Main,,0000,0000,0000,,È questo che è successo dopo?!
+Dialogue: 0,0:14:24.79,0:14:26.31,Main,,0000,0000,0000,,Abbassa la voce!
+Dialogue: 0,0:14:26.92,0:14:29.31,Main,,0000,0000,0000,,Ascoltami, così non va bene!
+Dialogue: 0,0:14:29.31,0:14:31.26,Main,,0000,0000,0000,,Sicuro non ci sia un avviso di scomparsa che la riguardi?
+Dialogue: 0,0:14:31.58,0:14:37.02,Main,,0000,0000,0000,,Ho provato a cercare in rete\Nma non ho trovato nulla di simile.
+Dialogue: 0,0:14:37.02,0:14:41.08,Main,,0000,0000,0000,,Non puoi ospitare una liceale scappata\Ndi casa senza sapere cos'è successo.
+Dialogue: 0,0:14:41.08,0:14:44.48,Main,,0000,0000,0000,,Sì, lo so. È un bel guaio.
+Dialogue: 0,0:14:48.72,0:14:52.28,Main,,0000,0000,0000,,Avrà cenato?
+Dialogue: 0,0:14:53.92,0:14:57.20,Flashback,,0000,0000,0000,,Beh, l'importante è che non ti affezioni troppo!
+Dialogue: 0,0:14:57.88,0:15:01.17,Flashback,,0000,0000,0000,,Dovresti rimandarla dai suoi\Nprima che ti causi dei problemi.
+Dialogue: 0,0:15:01.58,0:15:05.63,Italics,,0000,0000,0000,,Lo so bene, ma...
+Dialogue: 0,0:15:06.09,0:15:09.26,Flashback,,0000,0000,0000,,Sono sicura che si sentono sollevati\Nora che non sono più con loro.
+Dialogue: 0,0:15:10.44,0:15:14.98,Main,,0000,0000,0000,,È solo una ragazzina. \NNon dovrebbe avere un'espressione come quella.
+Dialogue: 0,0:15:21.86,0:15:23.06,Main,,0000,0000,0000,,Zuppa di miso?
+Dialogue: 0,0:15:24.22,0:15:26.32,Main,,0000,0000,0000,,Bentornato, papà!
+Dialogue: 0,0:15:26.32,0:15:28.52,Main,,0000,0000,0000,,Piantala! Mi fai venire la nausea!
+Dialogue: 0,0:15:30.05,0:15:33.91,Main,,0000,0000,0000,,Ma finora ho solo cucinato una zuppa di miso.
+Dialogue: 0,0:15:35.71,0:15:38.50,Main,,0000,0000,0000,,Ho comprato dei bento. Ce n'è uno anche per te!
+Dialogue: 0,0:15:45.12,0:15:47.63,Italics,,0000,0000,0000,,Ha... stirato?
+Dialogue: 0,0:15:48.77,0:15:51.61,Italics,,0000,0000,0000,,È più brava di quanto credessi con le faccende.
+Dialogue: 0,0:16:00.32,0:16:02.09,Main,,0000,0000,0000,,Grazie! Era ottimo!
+Dialogue: 0,0:16:04.60,0:16:06.20,Main,,0000,0000,0000,,Che succede, Yoshida?
+Dialogue: 0,0:16:06.64,0:16:08.63,Main,,0000,0000,0000,,No, niente!
+Dialogue: 0,0:16:08.63,0:16:10.92,Main,,0000,0000,0000,,Piuttosto, dov'è finito il posacenere?
+Dialogue: 0,0:16:12.30,0:16:15.82,Main,,0000,0000,0000,,Scusa, l'ho lavato con il resto delle stoviglie.
+Dialogue: 0,0:16:15.82,0:16:17.93,Main,,0000,0000,0000,,Capisco. Grazie.
+Dialogue: 0,0:16:22.98,0:16:23.88,Main,,0000,0000,0000,,Che c'è?
+Dialogue: 0,0:16:23.88,0:16:26.94,Main,,0000,0000,0000,,Perché esci sul balcone? Puoi fumare qui.
+Dialogue: 0,0:16:27.52,0:16:29.00,Main,,0000,0000,0000,,Perché qui ci sei tu.
+Dialogue: 0,0:16:32.10,0:16:33.74,Main,,0000,0000,0000,,Sei davvero gentile...
+Dialogue: 0,0:16:33.74,0:16:35.16,Main,,0000,0000,0000,,Gentile?
+Dialogue: 0,0:16:35.16,0:16:40.86,Main,,0000,0000,0000,,Sì, tutti gli altri fumavano senza preoccuparsi di me.
+Dialogue: 0,0:16:41.65,0:16:47.94,Italics,,0000,0000,0000,,Perché prende degli uomini falliti come modello?
+Dialogue: 0,0:16:49.01,0:16:49.99,Main,,0000,0000,0000,,Sayu!
+Dialogue: 0,0:16:51.52,0:16:55.58,Main,,0000,0000,0000,,Sentimi bene! Io non sono gentile!\N{\b1}Loro{\b0} erano delle merde!
+Dialogue: 0,0:16:55.58,0:16:56.71,Main,,0000,0000,0000,,Vedi di capirlo!
+Dialogue: 0,0:16:57.30,0:17:01.13,Main,,0000,0000,0000,,Non avere standard così bassi!\NCerca la giusta misura nelle cose!
+Dialogue: 0,0:17:01.13,0:17:02.83,Main,,0000,0000,0000,,O-Ok!
+Dialogue: 0,0:17:09.59,0:17:13.05,Italics,,0000,0000,0000,,Continuo a occuparmi di lei come se fossi il suo tutore.
+Dialogue: 0,0:17:13.05,0:17:16.39,Italics,,0000,0000,0000,,No so come qualcuno possa eccitarsi \Nin una situazione simile.
+Dialogue: 0,0:17:20.76,0:17:26.74,Italics,,0000,0000,0000,,Lei è ridotta così in parte perché è viziata.
+Dialogue: 0,0:17:27.11,0:17:34.73,Italics,,0000,0000,0000,,Ma sono sicuro che certi adulti\Ne un certo ambiente hanno peggiorato le cose.
+Dialogue: 0,0:17:35.27,0:17:36.95,Italics,,0000,0000,0000,,Il mondo è pieno di pezzi di merda!
+Dialogue: 0,0:17:37.46,0:17:39.62,Main,,0000,0000,0000,,Sono davvero ovunque!
+Dialogue: 0,0:17:40.40,0:17:46.24,Italics,,0000,0000,0000,,E io sono uno di loro! Permetto che rimanga \Nuna bambina viziata e le do pure un posto dove stare.
+Dialogue: 0,0:17:47.94,0:17:52.58,Italics,,0000,0000,0000,,Ma poi... io cosa voglio fare davvero?
+Dialogue: 0,0:17:54.13,0:17:55.59,sign_25754_269_Alarm,,0000,0000,0000,,{\frz45\pos(306,130)\frx20\fry342}Sveglia
+Dialogue: 0,0:17:59.30,0:18:00.32,sign_25754_269_Alarm,,0000,0000,0000,,{\frz45\pos(306,130)\frx20\fry342}Sveglia
+Dialogue: 0,0:17:59.30,0:18:02.64,Main,,0000,0000,0000,,Scusa. Ho lasciato attiva la sveglia\Nanche se oggi non lavoro.
+Dialogue: 0,0:18:03.07,0:18:04.36,Main,,0000,0000,0000,,Fa niente!
+Dialogue: 0,0:18:05.01,0:18:09.00,Main,,0000,0000,0000,,Mi sarei alzata presto lo stesso per fare il bucato.
+Dialogue: 0,0:18:11.21,0:18:13.32,Main,,0000,0000,0000,,Ahi, ahi, ahi...
+Dialogue: 0,0:18:15.78,0:18:19.20,Black Signs,,0000,0000,0000,,{\fs14\pos(233,168)}La polizia di Musashino\Nha arrestato un uomo\Nsospettato del rapimento\N di una diciassettenne.
+Dialogue: 0,0:18:17.25,0:18:19.18,Main,,0000,0000,0000,,Scusa un attimo!
+Dialogue: 0,0:18:22.69,0:18:24.68,Main,,0000,0000,0000,,Ti ho appena visto le mutandine.
+Dialogue: 0,0:18:24.68,0:18:27.08,Main,,0000,0000,0000,,Non posso evitarlo se ho la gonna!
+Dialogue: 0,0:18:27.56,0:18:30.33,Main,,0000,0000,0000,,A proposito, sbaglio o hai tenuto la divisa \Nper tutto questo tempo?
+Dialogue: 0,0:18:30.33,0:18:32.12,Main,,0000,0000,0000,,Non ho altro.
+Dialogue: 0,0:18:32.12,0:18:35.05,Main,,0000,0000,0000,,E poi la lavo, quindi non è sporca!
+Dialogue: 0,0:18:35.05,0:18:40.09,Main,,0000,0000,0000,,È strano comunque indossare la divisa in casa.
+Dialogue: 0,0:18:41.51,0:18:44.43,Main,,0000,0000,0000,,Va bene così! Torniamo a casa, Yoshida!
+Dialogue: 0,0:18:44.43,0:18:47.70,Main,,0000,0000,0000,,Non va bene, no! Non farti pregare!
+Dialogue: 0,0:18:47.70,0:18:49.39,Main,,0000,0000,0000,,Hai solo la divisa, no?
+Dialogue: 0,0:18:50.79,0:18:53.07,Main,,0000,0000,0000,,Quindi ti compro dei vestiti!
+Dialogue: 0,0:18:53.07,0:18:55.18,Main,,0000,0000,0000,,E compro anche un nuovo futon!
+Dialogue: 0,0:18:56.14,0:18:59.61,Main,,0000,0000,0000,,Ogni mattina ti alzi dicendo "ahi ahi" \Ne massaggiandoti la schiena.
+Dialogue: 0,0:19:00.72,0:19:02.32,Main,,0000,0000,0000,,D-Davvero?!
+Dialogue: 0,0:19:02.32,0:19:03.69,Main,,0000,0000,0000,,Sì, sì!
+Dialogue: 0,0:19:05.56,0:19:06.62,Main,,0000,0000,0000,,Però...
+Dialogue: 0,0:19:07.78,0:19:08.87,Main,,0000,0000,0000,,Però...
+Dialogue: 0,0:19:10.36,0:19:15.34,Main,,0000,0000,0000,,Se fai tutto questo per me,\Npoi io non so come ripagarti.
+Dialogue: 0,0:19:18.13,0:19:20.81,Italics,,0000,0000,0000,,È per questo?
+Dialogue: 0,0:19:20.81,0:19:25.85,Italics,,0000,0000,0000,,Non si sta facendo pregare.\NNon può accettare perché non può ripagarmi.
+Dialogue: 0,0:19:26.38,0:19:28.87,Italics,,0000,0000,0000,,Perché una ragazzina dovrebbe pensarla così?
+Dialogue: 0,0:19:31.00,0:19:33.31,Main,,0000,0000,0000,,Io ho delle cose da fare.
+Dialogue: 0,0:19:33.31,0:19:36.15,Main,,0000,0000,0000,,Quindi non posso perdere tempo con le faccende.
+Dialogue: 0,0:19:37.08,0:19:40.03,Main,,0000,0000,0000,,Ma adesso ci pensi sempre tu, no?
+Dialogue: 0,0:19:40.40,0:19:44.49,Main,,0000,0000,0000,,Quest'ultima settimana è stata molto\Npiù leggera per me a casa.
+Dialogue: 0,0:19:46.15,0:19:47.95,Main,,0000,0000,0000,,Non basta?
+Dialogue: 0,0:19:51.25,0:19:54.67,Main,,0000,0000,0000,,Se va bene per te, va bene anche per me...
+Dialogue: 0,0:19:56.20,0:19:58.12,Main,,0000,0000,0000,,Bene, allora siamo d'accordo!
+Dialogue: 0,0:20:00.77,0:20:02.09,Main,,0000,0000,0000,,Quant'è morbido!
+Dialogue: 0,0:20:02.76,0:20:04.43,Main,,0000,0000,0000,,Che ti avevo detto? Meglio avere un futon, no?
+Dialogue: 0,0:20:05.03,0:20:07.89,Main,,0000,0000,0000,,Sì! Oggi dormirò benissimo!
+Dialogue: 0,0:20:11.14,0:20:12.39,Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:20:14.04,0:20:15.27,Main,,0000,0000,0000,,Vuoi dormire con me?
+Dialogue: 0,0:20:16.71,0:20:20.46,Main,,0000,0000,0000,,Allora! Ti avevo detto che se avessi cercato\Ndi sedurmi di nuovo, ti avrei cacciata!
+Dialogue: 0,0:20:21.24,0:20:24.74,Main,,0000,0000,0000,,Io non ho detto nulla sul fare cosacce!
+Dialogue: 0,0:20:29.04,0:20:31.11,Main,,0000,0000,0000,,Sei tu che sei un maniaco!
+Dialogue: 0,0:20:34.16,0:20:35.48,Main,,0000,0000,0000,,Sai...
+Dialogue: 0,0:20:36.55,0:20:38.38,Main,,0000,0000,0000,,sei molto più carina quando ridi.
+Dialogue: 0,0:20:42.30,0:20:45.34,Main,,0000,0000,0000,,S-Stai cercando di sedurmi?
+Dialogue: 0,0:20:45.34,0:20:46.86,Main,,0000,0000,0000,,Te l'ho già detto! Non sei il mio tipo!
+Dialogue: 0,0:20:50.02,0:20:51.50,Main,,0000,0000,0000,,Yoshida...
+Dialogue: 0,0:20:53.99,0:20:55.14,Main,,0000,0000,0000,,Grazie!
+Dialogue: 0,0:20:58.98,0:21:01.86,Main,,0000,0000,0000,,Sai, in giro si dice che hai la ragazza!
+Dialogue: 0,0:21:02.74,0:21:03.82,Main,,0000,0000,0000,,Da dove esce questa cosa?
+Dialogue: 0,0:21:04.12,0:21:06.62,Main,,0000,0000,0000,,Torni sempre subito a casa a fine turno.
+Dialogue: 0,0:21:06.62,0:21:09.42,Main,,0000,0000,0000,,Sei più pulito e hai le camicie stirate.
+Dialogue: 0,0:21:10.10,0:21:15.59,Main,,0000,0000,0000,,Hai un colorito migliore e dicono che lavori pure meglio!
+Dialogue: 0,0:21:16.12,0:21:18.00,Main,,0000,0000,0000,,Questo lo dicono le donne.
+Dialogue: 0,0:21:18.00,0:21:21.22,Main,,0000,0000,0000,,Ma cosa passa in mente a quelle?
+Dialogue: 0,0:21:22.98,0:21:25.43,Main,,0000,0000,0000,,In realtà si tratta della liceale, vero?
+Dialogue: 0,0:21:28.44,0:21:30.05,Main,,0000,0000,0000,,Sì, immagino.
+Dialogue: 0,0:21:30.05,0:21:33.76,Main,,0000,0000,0000,,Di solito si ha l'idea che\Nuna scappata di casa sia trasandata,
+Dialogue: 0,0:21:33.76,0:21:35.90,Main,,0000,0000,0000,,lei invece sembra avere la testa sulle spalle.
+Dialogue: 0,0:21:35.90,0:21:39.19,Main,,0000,0000,0000,,Sì, hai ragione...
+Dialogue: 0,0:21:41.40,0:21:42.72,Italics,,0000,0000,0000,,Effettivamente...
+Dialogue: 0,0:21:43.02,0:21:46.64,Italics,,0000,0000,0000,,lei non è il mio tipo, fisicamente parlando.
+Dialogue: 0,0:21:46.64,0:21:49.28,Italics,,0000,0000,0000,,Ma è davvero carina.
+Dialogue: 0,0:21:49.28,0:21:52.04,Italics,,0000,0000,0000,,Se la cava bene con le faccende di casa \Ned è molto affabile.
+Dialogue: 0,0:21:52.71,0:21:54.54,Italics,,0000,0000,0000,,Quindi perché è scappata di casa?
+Dialogue: 0,0:21:55.49,0:21:58.73,Italics,,0000,0000,0000,,E perché è venuta fino a Tokyo?
+Dialogue: 0,0:22:10.26,0:22:11.91,Main Top,,0000,0000,0000,,Yoshida, la barba!
+Dialogue: 0,0:22:12.65,0:22:14.09,Main Top,,0000,0000,0000,,Non ti radi?
+Dialogue: 0,0:22:16.04,0:22:18.30,Main Top,,0000,0000,0000,,Oggi no, mi scoccia!
+Dialogue: 0,0:22:18.30,0:22:20.61,Main Top,,0000,0000,0000,,Alcuni giorni lo fai e altri no.
+Dialogue: 0,0:22:20.61,0:22:22.76,Main Top,,0000,0000,0000,,C'è una ragione precisa?
+Dialogue: 0,0:22:22.76,0:22:25.44,Main Top,,0000,0000,0000,,No, mi rado quando è troppo lunga.
+Dialogue: 0,0:22:25.90,0:22:28.63,Main Top,,0000,0000,0000,,E oggi non ti sembra lunga?
+Dialogue: 0,0:22:30.00,0:22:31.47,Main Top,,0000,0000,0000,,In effetti, forse è il caso di radermi...
+Dialogue: 0,0:22:31.47,0:22:32.66,Main Top,,0000,0000,0000,,Deciditi!
+Dialogue: 0,0:22:33.25,0:22:37.79,Main,,0000,0000,0000,,Che dire... Mi fa sentire vecchio.
+Dialogue: 0,0:22:37.79,0:22:38.66,Main,,0000,0000,0000,,Perché?
+Dialogue: 0,0:22:39.08,0:22:45.13,Main Top,,0000,0000,0000,,Quando avevo vent'anni, mi radevo\Nappena cresceva anche solo un pochino.
+Dialogue: 0,0:22:45.65,0:22:48.25,Main,,0000,0000,0000,,E mi impegnavo a non tralasciare neanche un pelo.
+Dialogue: 0,0:22:49.10,0:22:53.50,Main,,0000,0000,0000,,Avere la barba è come un simbolo dell'essere vecchio.
+Dialogue: 0,0:22:54.27,0:22:55.64,Main,,0000,0000,0000,,Ma io non la penso così.
+Dialogue: 0,0:22:56.00,0:22:57.14,Main,,0000,0000,0000,,Ah no?
+Dialogue: 0,0:22:59.57,0:23:03.82,Main Top,,0000,0000,0000,,Quando sei troppo pigro per raderti,\Nallora sei davvero vecchio!
+Dialogue: 0,0:23:06.74,0:23:08.02,Main,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:23:09.21,0:23:11.79,Main Top,,0000,0000,0000,,La barba non ti sta molto bene.
+Dialogue: 0,0:23:11.79,0:23:12.91,Main Top,,0000,0000,0000,,Non ho chiesto il tuo parere.
+Dialogue: 0,0:23:13.83,0:23:17.36,Main,,0000,0000,0000,,Yoshida, farai tardi al lavoro!
+Dialogue: 0,0:23:18.12,0:23:19.90,Main,,0000,0000,0000,,Lo so!
+Dialogue: 0,0:23:23.72,0:23:25.64,Italics Top,,0000,0000,0000,,In effetti, è il caso di radermi...
+Dialogue: 0,0:23:30.26,0:23:35.05,Next time,,0000,0000,0000,,{\fad(399,1)}Prossimo episodio
+Dialogue: 0,0:23:30.26,0:23:35.05,Next Episode Title,,0000,0000,0000,,{\blur1\fad(399,1)}"Il cellulare"
+Dialogue: 0,0:23:35.05,0:23:40.06,sign_33928_366_Ci_vediamo_la_pr,,0000,0000,0000,,Ci vediamo la prossima settimana!

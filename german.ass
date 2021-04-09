@@ -1,0 +1,443 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback Internal,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback Top,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,0
+Style: Narrator,Arial,23,&H00F2F2F9,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Top Italics,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Type_Epititel,Verdana,19,&H00E9F2F8,&H000000FF,&H003F6CAA,&H2E525760,0,0,0,0,100,100,0,0,1,1,1,8,0010,0010,0020,1
+Style: Type_Logo,Verdana,28,&H00FFFFFF,&H000000FF,&H00A6C217,&H00FFFFFF,0,0,0,0,100,100,0,0,1,3,0,7,0010,0010,0020,1
+Style: TypePlaceholder,Verdana,19,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,1,8,0010,0010,0020,1
+Style: sign_Handy,Verdana,19,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,3,1,1,8,0010,0010,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.75,0:00:24.86,Default,,0000,0000,0000,,Das Essen war ausgesprochen köstlich.
+Dialogue: 0,0:00:24.86,0:00:27.96,Default,,0000,0000,0000,,Danke für die Einladung, Yoshida-kun.
+Dialogue: 0,0:00:32.13,0:00:34.76,Default,,0000,0000,0000,,Ähm … Gotou-san …
+Dialogue: 0,0:00:34.76,0:00:35.64,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:00:38.58,0:00:41.35,Default,,0000,0000,0000,,Hättest du Lust,\Nnachher mit zu mir zu kommen?
+Dialogue: 0,0:00:41.35,0:00:42.70,Default,,0000,0000,0000,,Wie?
+Dialogue: 0,0:00:46.22,0:00:50.52,Default,,0000,0000,0000,,Tut mir leid …\NIn der Firma halte ich es geheim,
+Dialogue: 0,0:00:50.52,0:00:53.61,Default,,0000,0000,0000,,aber ich habe einen Freund.
+Dialogue: 0,0:00:53.61,0:00:55.03,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:00:55.98,0:01:00.03,Internal,,0000,0000,0000,,So erfuhr ich, dass meine\NLiebe nicht erwidert wurde.
+Dialogue: 0,0:01:03.91,0:01:06.00,Default,,0000,0000,0000,,Wenn du ’nen Stecher hast, …
+Dialogue: 0,0:01:06.92,0:01:08.75,Default,,0000,0000,0000,,dann sag das doch im Voraus!
+Dialogue: 0,0:01:08.75,0:01:11.44,Default,,0000,0000,0000,,Komm schon, Yoshida,\Nbrüll hier nicht so rum.
+Dialogue: 0,0:01:08.92,0:01:13.96,Type_Epititel,title,0000,0000,0000,,{\an7\pos(8,45.3)\fad(530,550)\bord0.1\be1\4c&H525760&\3c&H525760&}Die Oberschülerin unter dem Strommast
+Dialogue: 0,0:01:11.44,0:01:14.63,Default,,0000,0000,0000,,Verzeihung, er hatte\Nwohl ein Gläschen zu viel …
+Dialogue: 0,0:01:14.63,0:01:17.26,Default,,0000,0000,0000,,Das reicht jetzt aber.
+Dialogue: 0,0:01:17.26,0:01:22.85,Default,,0000,0000,0000,,Hackt’s?! Als hätt ich mich\Ndamit schon abgefunden!
+Dialogue: 0,0:01:22.85,0:01:27.04,Default,,0000,0000,0000,,Hast mich also nur hergebeten, um über\Ndeine unerwiderte Liebe zu lamentieren …
+Dialogue: 1,0:01:22.85,0:01:27.56,TypePlaceholder,type,0000,0000,0000,,{=7}{\fax0.27\bord0\shad0\3c&H191E32&\c&HB6D8E7&\b1\frz86\frx6\fry343\move(154.93,140,188.73,140.07,24,4695)}Leber 200 Yen
+Dialogue: 1,0:01:22.85,0:01:27.56,TypePlaceholder,type,0000,0000,0000,,{=9}{\fax0.25\bord0\shad0\3c&H191E32&\c&HB6D8E7&\b1\frz87.9\frx4\fry354\move(307.1,90.13,340.9,90.2,24,4695)}Herz 200 Yen
+Dialogue: 1,0:01:22.85,0:01:27.56,TypePlaceholder,type,0000,0000,0000,,{=8}{\fax0.1\fs+1\bord0\shad0\3c&H191E32&\c&HBED4E1&\b1\frz97.1\move(478.3,56.7,512.6,56.27,24,4695)\frx19\fry344}Bürzel 200 Yen
+Dialogue: 0,0:01:27.04,0:01:31.25,Default,,0000,0000,0000,,Dreck noch mal! Seit fünf Jahren sei sie schon\Nmit ihrem Macker zusammen …
+Dialogue: 0,0:01:31.25,0:01:35.58,Default,,0000,0000,0000,,Hinters Licht geführt hat sie mich!\NGib mir mein Herz zurück!
+Dialogue: 0,0:01:37.06,0:01:38.32,Default,,0000,0000,0000,,Bringen Sie mir noch ein Glas!
+Dialogue: 0,0:01:38.32,0:01:40.20,Default,,0000,0000,0000,,Du übertreibst es mit dem Trinken …
+Dialogue: 0,0:01:40.20,0:01:43.24,Default,,0000,0000,0000,,Wen kümmert’s?!\NMorgen haben wir sowieso frei!
+Dialogue: 0,0:01:45.04,0:01:47.25,Default,,0000,0000,0000,,Ich werd nach Hause gehen,\Nbevor kein Zug mehr fährt.
+Dialogue: 0,0:01:47.25,0:01:48.75,Default,,0000,0000,0000,,Meine Frau wartet auf mich.
+Dialogue: 0,0:01:48.75,0:01:51.21,Default,,0000,0000,0000,,Ja, mach halt!
+Dialogue: 0,0:01:55.53,0:01:58.34,Default,,0000,0000,0000,,Dreck noch mal … Gotou …
+Dialogue: 0,0:01:59.34,0:02:00.14,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:02:23.22,0:02:25.29,Default,,0000,0000,0000,,Hey, du da, Oberschülerin.
+Dialogue: 0,0:02:25.29,0:02:26.35,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:02:27.98,0:02:30.71,Default,,0000,0000,0000,,Was hast du um die Uhrzeit hier verloren?
+Dialogue: 0,0:02:30.71,0:02:32.42,Default,,0000,0000,0000,,Ab nach Hause mit dir, aber pronto.
+Dialogue: 0,0:02:32.42,0:02:34.96,Default,,0000,0000,0000,,Es fahren aber gar keine Züge mehr.
+Dialogue: 0,0:02:34.96,0:02:37.55,Default,,0000,0000,0000,,Hast du vor, die ganze Nacht da zu sitzen?
+Dialogue: 0,0:02:37.55,0:02:39.68,Default,,0000,0000,0000,,Da würde ich mir wohl einen abfrieren.
+Dialogue: 0,0:02:39.68,0:02:41.43,Default,,0000,0000,0000,,Was haste dann vor?
+Dialogue: 0,0:02:51.39,0:02:52.86,Default,,0000,0000,0000,,Lass mich bei dir übernachten, Mister.
+Dialogue: 0,0:02:54.10,0:02:55.59,Default,,0000,0000,0000,,Mis…
+Dialogue: 0,0:02:55.59,0:02:57.28,Default,,0000,0000,0000,,Jetzt pass mal auf,
+Dialogue: 0,0:02:57.28,0:03:01.31,Default,,0000,0000,0000,,was fällt dir Oberschülerin ein, mit ’nem Kerl mitgehen\Nzu wollen, den du gerade erst kennengelernt hast?!
+Dialogue: 0,0:03:02.16,0:03:04.58,Default,,0000,0000,0000,,Ich kann heute halt sonst nirgends hin …
+Dialogue: 0,0:03:04.58,0:03:08.66,Default,,0000,0000,0000,,Dann latsch zurück zum Bahnhof und übernacht da\Nin ’nem Karaoke-Schuppen oder ’nem Internetcafé.
+Dialogue: 0,0:03:08.66,0:03:10.04,Default,,0000,0000,0000,,Ich habe kein Geld mit.
+Dialogue: 0,0:03:10.04,0:03:13.75,Default,,0000,0000,0000,,Und ich soll dich für lau bei mir aufnehmen?
+Dialogue: 0,0:03:13.75,0:03:15.86,Default,,0000,0000,0000,,Ahh … Mh …
+Dialogue: 0,0:03:15.86,0:03:16.75,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:03:17.88,0:03:20.51,Default,,0000,0000,0000,,Wenn ich bei dir unterkommen darf,\Nlass ich dich dafür ran.
+Dialogue: 0,0:03:22.17,0:03:25.97,Internal,,0000,0000,0000,,Sind Oberschülerinnen heutzutage alle so?
+Dialogue: 0,0:03:25.97,0:03:28.72,Internal,,0000,0000,0000,,Ne, das kann ich mir echt nicht vorstellen …
+Dialogue: 0,0:03:29.73,0:03:31.44,Internal,,0000,0000,0000,,Die hat doch ’nen Schaden!
+Dialogue: 0,0:03:32.33,0:03:34.52,Default,,0000,0000,0000,,Über so was macht man keine Witze!
+Dialogue: 0,0:03:34.52,0:03:37.08,Default,,0000,0000,0000,,Ist ja auch keiner. Ich mein das so.
+Dialogue: 0,0:03:37.08,0:03:39.31,Default,,0000,0000,0000,,Da biste bei mir aber an der falschen Adresse.
+Dialogue: 0,0:03:39.31,0:03:42.12,Default,,0000,0000,0000,,Ich vergreif mich doch nicht an ’nem Mädel,\Ndas noch ein halbes Kind ist.
+Dialogue: 0,0:03:42.12,0:03:44.66,Default,,0000,0000,0000,,Hmm … Wenn das so ist …
+Dialogue: 0,0:03:45.36,0:03:46.87,Default,,0000,0000,0000,,Lass mich umsonst übernachten!
+Dialogue: 0,0:03:47.42,0:03:48.56,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:03:52.71,0:03:54.50,Default,,0000,0000,0000,,Dann bin ich mal so frei …
+Dialogue: 0,0:03:56.70,0:03:57.73,Default,,0000,0000,0000,,Was für ein Saustall.
+Dialogue: 0,0:03:57.73,0:04:00.09,Default,,0000,0000,0000,,Welcher allein lebende Kerl\Nräumt schon seine Bude auf?
+Dialogue: 0,0:04:00.55,0:04:02.05,Default,,0000,0000,0000,,War auch schon in aufgeräumteren.
+Dialogue: 0,0:04:03.56,0:04:04.85,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:04:04.85,0:04:06.43,Default,,0000,0000,0000,,Vergiss es.
+Dialogue: 0,0:04:06.43,0:04:08.20,Internal,,0000,0000,0000,,Lass dich nicht drauf ein.
+Dialogue: 0,0:04:08.20,0:04:10.85,Internal,,0000,0000,0000,,Was auch immer die bisher\Nfür ein Leben geführt und was auch immer
+Dialogue: 0,0:04:10.85,0:04:13.19,Internal,,0000,0000,0000,,sie zu dieser Eskapade getrieben hat,
+Dialogue: 0,0:04:13.20,0:04:15.23,Internal,,0000,0000,0000,,ist alles nicht mein Problem!
+Dialogue: 0,0:04:16.57,0:04:20.11,Internal,,0000,0000,0000,,Morgen früh schmeiß ich sie raus\Nund damit hat’s sich dann.
+Dialogue: 0,0:04:23.53,0:04:24.70,Default,,0000,0000,0000,,Willst du schlafen?
+Dialogue: 0,0:04:24.70,0:04:27.73,Default,,0000,0000,0000,,Jo … Mach, was du willst.
+Dialogue: 0,0:04:36.47,0:04:37.29,Default,,0000,0000,0000,,Sag …
+Dialogue: 0,0:04:37.79,0:04:39.50,Default,,0000,0000,0000,,Sicher, dass du nicht willst?
+Dialogue: 0,0:04:39.50,0:04:41.59,Default,,0000,0000,0000,,Wie oft denn noch?
+Dialogue: 0,0:04:41.59,0:04:44.02,Default,,0000,0000,0000,,Ich steh nicht auf Kinder.
+Dialogue: 0,0:04:46.91,0:04:48.51,Default,,0000,0000,0000,,Ach?
+Dialogue: 0,0:04:51.27,0:04:54.00,Default,,0000,0000,0000,,Kann ich denn sonst\Nirgendwas für dich tun?
+Dialogue: 0,0:04:55.14,0:04:56.15,Default,,0000,0000,0000,,Miso-Suppe …
+Dialogue: 0,0:04:56.15,0:04:57.53,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:04:57.53,0:04:59.36,Default,,0000,0000,0000,,Von einer Frau gekocht …
+Dialogue: 0,0:04:59.36,0:05:04.66,Default,,0000,0000,0000,,’ne Miso-Suppe, … das … wär’s …
+Dialogue: 0,0:05:29.08,0:05:30.76,Default,,0000,0000,0000,,Shit! Voll verpennt …!
+Dialogue: 0,0:05:33.00,0:05:35.76,Default,,0000,0000,0000,,Heute ist ja Sonntag …
+Dialogue: 0,0:05:36.62,0:05:38.15,Default,,0000,0000,0000,,Hm? Was duftet hier so?
+Dialogue: 0,0:05:38.15,0:05:41.11,Default,,0000,0000,0000,,Oh, du bist endlich wach.
+Dialogue: 0,0:05:41.11,0:05:41.86,Default,,0000,0000,0000,,Morgen~
+Dialogue: 0,0:05:43.32,0:05:45.09,Default,,0000,0000,0000,,Was zum Geier bist du?!
+Dialogue: 0,0:05:45.09,0:05:47.53,Default,,0000,0000,0000,,Was ist das denn für eine Frage?
+Dialogue: 0,0:05:47.53,0:05:49.20,Default,,0000,0000,0000,,’ne Oberschülerin …?
+Dialogue: 0,0:05:49.73,0:05:52.33,Default,,0000,0000,0000,,Was hat ’ne Oberschülerin\Nin meiner Wohnung zu suchen?
+Dialogue: 0,0:05:52.33,0:05:54.42,Default,,0000,0000,0000,,Hast mich hier übernachten lassen,\Nals ich dich darum bat.
+Dialogue: 0,0:05:54.42,0:05:57.09,Default,,0000,0000,0000,,Wie bitte?! Wer hat dir erlaubt,\Nhier zu übernachten?!
+Dialogue: 0,0:05:57.98,0:05:59.04,Default,,0000,0000,0000,,Du, Mister.
+Dialogue: 0,0:05:59.04,0:06:01.21,Default,,0000,0000,0000,,Ich bin kein Mister!
+Dialogue: 0,0:06:01.21,0:06:04.30,Default,,0000,0000,0000,,Haha, du bist ja drollig,\Nund wie du das bist.
+Dialogue: 0,0:06:07.47,0:06:09.90,Default,,0000,0000,0000,,Ich hab mich aber nicht, …\Näh, wie soll ich sagen,
+Dialogue: 0,0:06:09.90,0:06:14.30,Default,,0000,0000,0000,,an dir vergriffen, oder so …?
+Dialogue: 0,0:06:23.44,0:06:25.64,Default,,0000,0000,0000,,Ach, ich mach nur Spaß!
+Dialogue: 0,0:06:25.64,0:06:28.70,Default,,0000,0000,0000,,Entschuldige, das war nur grad\Ndie ideale Vorlage.
+Dialogue: 0,0:06:28.70,0:06:30.20,Internal,,0000,0000,0000,,Diese kleine …
+Dialogue: 0,0:06:30.20,0:06:33.70,Default,,0000,0000,0000,,Du hast beharrlich drauf bestanden,\Ndass du es nicht mit Kindern treibst, Mister.
+Dialogue: 0,0:06:34.69,0:06:36.91,Internal,,0000,0000,0000,,Gut gemacht, gestriges Ich!
+Dialogue: 0,0:06:36.91,0:06:41.79,Default,,0000,0000,0000,,Als ich wissen wollte, ob ich sonst was\Nfür dich tun könne, meintest du …
+Dialogue: 0,0:06:45.09,0:06:46.21,Default,,0000,0000,0000,,Miso-Suppe?
+Dialogue: 0,0:06:46.21,0:06:47.50,Default,,0000,0000,0000,,Hab ich gekocht.
+Dialogue: 0,0:06:47.50,0:06:50.79,Default,,0000,0000,0000,,Was fällt dir ein, in ’ner fremden\NWohnung Miso-Suppe zu kochen?
+Dialogue: 0,0:06:52.16,0:06:53.93,Default,,0000,0000,0000,,Was gibt’s da zu seufzen?
+Dialogue: 0,0:06:54.44,0:06:56.89,Default,,0000,0000,0000,,Du wolltest ja, dass ich dir\Nwelche koche, Mister …
+Dialogue: 0,0:06:56.89,0:06:58.78,Default,,0000,0000,0000,,Ich bin kein Mister!
+Dialogue: 0,0:06:58.78,0:07:02.73,Default,,0000,0000,0000,,Was denn, wenn nicht Mister?\NWie soll ich dich dann nennen?
+Dialogue: 0,0:07:03.70,0:07:07.11,Default,,0000,0000,0000,,Mir doch schnuppe, wie du mich nennst.\NHauptsache, du verziehst dich.
+Dialogue: 0,0:07:07.11,0:07:09.57,Default,,0000,0000,0000,,Erinnerst du dich wirklich an nichts mehr?
+Dialogue: 0,0:07:09.57,0:07:14.32,Default,,0000,0000,0000,,Du hast mich gestern Nacht angesprochen,\Nals ich unter einem Strommast saß, Mister.
+Dialogue: 0,0:07:14.32,0:07:16.32,Default,,0000,0000,0000,,Gestern Nacht?
+Dialogue: 0,0:07:16.32,0:07:17.83,Default,,0000,0000,0000,,Strommast?
+Dialogue: 0,0:07:25.73,0:07:26.50,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:07:26.50,0:07:27.68,Default,,0000,0000,0000,,Du erinnerst dich wieder?
+Dialogue: 0,0:07:27.68,0:07:29.10,Default,,0000,0000,0000,,Die mit dem schwarzen Höschen!
+Dialogue: 0,0:07:29.10,0:07:32.76,Default,,0000,0000,0000,,A-An das erinnerst du dich?\NIst ja total daneben …
+Dialogue: 0,0:07:32.76,0:07:34.59,Default,,0000,0000,0000,,Findest du?
+Dialogue: 0,0:07:35.20,0:07:36.30,Default,,0000,0000,0000,,Mister, du …
+Dialogue: 0,0:07:36.30,0:07:37.64,Default,,0000,0000,0000,,Noch mal …
+Dialogue: 0,0:07:37.64,0:07:39.27,Default,,0000,0000,0000,,Wie heißt du?
+Dialogue: 0,0:07:40.88,0:07:42.10,Default,,0000,0000,0000,,Yoshida.
+Dialogue: 0,0:07:42.10,0:07:43.73,Default,,0000,0000,0000,,Yoshida-san.
+Dialogue: 0,0:07:43.73,0:07:46.27,Default,,0000,0000,0000,,Mhm, passt.
+Dialogue: 0,0:07:46.27,0:07:48.54,Default,,0000,0000,0000,,Du siehst aus wie ein Yoshida-san.
+Dialogue: 0,0:07:48.54,0:07:49.81,Default,,0000,0000,0000,,Was soll das bitte heißen?
+Dialogue: 0,0:07:49.81,0:07:51.82,Default,,0000,0000,0000,,Ach, iss doch erst mal deine Miso-Suppe.
+Dialogue: 0,0:07:51.82,0:07:52.98,Default,,0000,0000,0000,,Wir können uns danach weiter unter…
+Dialogue: 0,0:07:52.98,0:07:54.78,Default,,0000,0000,0000,,Sag mir nicht, was ich zu tun hab!
+Dialogue: 0,0:07:59.54,0:08:01.21,Default,,0000,0000,0000,,Schlag zu, solange sie noch heiß ist.
+Dialogue: 0,0:08:06.83,0:08:07.69,Default,,0000,0000,0000,,Lecker!
+Dialogue: 0,0:08:10.64,0:08:13.55,Default,,0000,0000,0000,,Eigentlich hättest du lieber welche\Nvon Gotou-san gehabt, stimmt’s?
+Dialogue: 0,0:08:13.55,0:08:15.56,Default,,0000,0000,0000,,Woher weißt du das?!
+Dialogue: 0,0:08:15.56,0:08:19.16,Default,,0000,0000,0000,,Du hast gestern ’nen Korb bekommen, oder?\NHast im Schlaf von geplappert.
+Dialogue: 0,0:08:24.65,0:08:25.65,Default,,0000,0000,0000,,Na …
+Dialogue: 0,0:08:27.75,0:08:29.61,Default,,0000,0000,0000,,Soll ich dich trösten?
+Dialogue: 0,0:08:37.64,0:08:40.29,Default,,0000,0000,0000,,Jetzt lass den Quatsch endlich sein.
+Dialogue: 0,0:08:40.29,0:08:42.68,Default,,0000,0000,0000,,Versuch doch nicht,\Nmir was vorzumachen …
+Dialogue: 0,0:08:42.68,0:08:47.79,Default,,0000,0000,0000,,Geht’s noch? So erbärmlich bin ich auch nicht,\Ndass ich mich von ’ner noch nicht mal ausgewachsenen
+Dialogue: 0,0:08:47.79,0:08:49.75,Default,,0000,0000,0000,,Oberschülerin trösten lassen muss.
+Dialogue: 0,0:08:49.75,0:08:51.31,Default,,0000,0000,0000,,Ah ja?
+Dialogue: 0,0:08:52.40,0:08:53.80,Default,,0000,0000,0000,,Also ich …
+Dialogue: 0,0:08:53.80,0:08:56.47,Default,,0000,0000,0000,,würde meine Brüste ja als\Nausgewachsen bezeichnen.
+Dialogue: 0,0:08:58.41,0:09:02.60,Default,,0000,0000,0000,,Na ja, für ’ne Oberschülerin hast du\Nvielleicht ’ne ganz beachtliche Oberweite,
+Dialogue: 0,0:09:02.60,0:09:04.19,Default,,0000,0000,0000,,aber an Gotou-sans\Nkommst du nicht ran.
+Dialogue: 0,0:09:05.22,0:09:08.14,Default,,0000,0000,0000,,Die hat größere?\NWas ist denn ihre Körbchengröße?
+Dialogue: 0,0:09:08.14,0:09:12.03,Default,,0000,0000,0000,,Ich hab keinen Schimmer,\Naber ich würde sie etwa auf F schätzen.
+Dialogue: 0,0:09:12.03,0:09:14.06,Default,,0000,0000,0000,,Wenn sie F hat, haben wir dieselbe.
+Dialogue: 0,0:09:14.06,0:09:16.24,Default,,0000,0000,0000,,Was?! Die sind F?!
+Dialogue: 0,0:09:16.24,0:09:17.11,Default,,0000,0000,0000,,Mhm.
+Dialogue: 0,0:09:17.11,0:09:21.08,Default,,0000,0000,0000,,Wenn sie größer sind als meine,\Nmüsste es eher G oder H sein.
+Dialogue: 0,0:09:21.08,0:09:23.91,Default,,0000,0000,0000,,Körbchengröße H …
+Dialogue: 0,0:09:23.91,0:09:27.42,Default,,0000,0000,0000,,Aha … Körbchengröße H also …
+Dialogue: 0,0:09:27.42,0:09:31.84,Internal,,0000,0000,0000,,Wie gern ich mich mal zwischen diese Körbchengröße-\NH-Brüste gelegt hätte … Wenn auch nur einmal …
+Dialogue: 0,0:09:31.84,0:09:32.80,Default,,0000,0000,0000,,Aber bringen dir …
+Dialogue: 0,0:09:32.80,0:09:35.05,Default,,0000,0000,0000,,Brüste in Körbchengröße F,\Ndie du anfassen darfst,
+Dialogue: 0,0:09:35.05,0:09:37.80,Default,,0000,0000,0000,,nicht mehr als welche in Körbchengröße H,\Ndie du nicht anfassen darfst?
+Dialogue: 0,0:09:38.76,0:09:43.62,Default,,0000,0000,0000,,Warum versuchst du dich eigentlich so hartnäckig\Nan mich ranzuschmeißen? Was erhoffst du dir davon?
+Dialogue: 0,0:09:43.62,0:09:45.90,Default,,0000,0000,0000,,Was, wenn ich mich tatsächlich an dir vergreife?
+Dialogue: 0,0:09:45.90,0:09:48.85,Default,,0000,0000,0000,,Hm? Dann würden wir’s halt\Nmiteinander treiben.
+Dialogue: 0,0:09:48.85,0:09:51.70,Default,,0000,0000,0000,,Willst du das denn mit mir?
+Dialogue: 0,0:09:51.70,0:09:55.74,Default,,0000,0000,0000,,Nein, das nicht unbedingt …
+Dialogue: 0,0:09:55.74,0:09:57.95,Default,,0000,0000,0000,,Was geht bitte mit dir?!
+Dialogue: 0,0:09:57.95,0:10:01.20,Default,,0000,0000,0000,,Es gibt genug Kerle, die das ohne mit der\NWimper zu zucken durchziehen würden!
+Dialogue: 0,0:10:01.20,0:10:03.03,Default,,0000,0000,0000,,Lass mich dir eine Gegenfrage stellen …
+Dialogue: 0,0:10:03.03,0:10:04.06,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:10:07.75,0:10:12.84,Default,,0000,0000,0000,,Vor dir sitzt ein Mädchen, das dich ranlassen würde.\NWarum willst du nicht?
+Dialogue: 0,0:10:12.84,0:10:14.39,Default,,0000,0000,0000,,Bitte?
+Dialogue: 0,0:10:14.39,0:10:16.09,Default,,0000,0000,0000,,Warum schaust du mich so an?
+Dialogue: 0,0:10:16.09,0:10:19.09,Default,,0000,0000,0000,,Du bist hier der, der sich komisch verhält.
+Dialogue: 0,0:10:19.80,0:10:25.35,Default,,0000,0000,0000,,Mich hat noch nie jemand aus purer Güte,\Nohne etwas zu verlangen, bei sich übernachten lassen.
+Dialogue: 0,0:10:32.81,0:10:33.92,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:10:33.92,0:10:35.78,Default,,0000,0000,0000,,Bist du eigentlich bescheuert?
+Dialogue: 0,0:10:36.61,0:10:38.40,Default,,0000,0000,0000,,Wie heißt du überhaupt?
+Dialogue: 0,0:10:38.40,0:10:40.53,Default,,0000,0000,0000,,Mh? Sayu …
+Dialogue: 0,0:10:43.35,0:10:46.50,Default,,0000,0000,0000,,Wo kommst du her?\NZeig mal deinen Schülerausweis.
+Dialogue: 1,0:10:47.83,0:10:52.79,TypePlaceholder,type,0000,0000,0000,,{\an2\pos(294.5,216.5)\shad0\bord0\fs20\fnTimes New Roman\c&H4CA1B6&}Name
+Dialogue: 1,0:10:47.83,0:10:52.79,TypePlaceholder,type,0000,0000,0000,,{\an1\pos(235.3,262.3)\shad0\bord0\fs15\fnTimes New Roman\c&H000000&}Nachweis, dass dieser Schüler folgende Schule besucht
+Dialogue: 1,0:10:47.83,0:10:52.79,TypePlaceholder,type,0000,0000,0000,,{\an1\pos(282,290.5)\shad0\bord0\fs15\fnTimes New Roman\c&H000000&}Asahikawa-Oberschule Nummer 6
+Dialogue: 2,0:10:48.86,0:10:51.88,Default,,0000,0000,0000,,Asahikawa?! Du bist aus Hokkaido\Nallein hergekommen?!
+Dialogue: 2,0:10:51.88,0:10:52.79,Default,,0000,0000,0000,,Mhm …
+Dialogue: 0,0:10:52.79,0:10:56.43,Default,,0000,0000,0000,,Wann bist du aus Hokkaido weg?
+Dialogue: 0,0:10:56.43,0:10:58.30,Default,,0000,0000,0000,,Vor etwa einem halben Jahr …
+Dialogue: 0,0:10:58.30,0:11:01.76,Default,,0000,0000,0000,,Und deine Eltern wissen Bescheid?
+Dialogue: 0,0:11:01.76,0:11:03.03,Default,,0000,0000,0000,,Nein …
+Dialogue: 0,0:11:03.03,0:11:05.48,Default,,0000,0000,0000,,Ich glaub, ich hör nicht recht …\NDann ab mit dir zurück nach Ha…
+Dialogue: 0,0:11:05.48,0:11:07.39,Default,,0000,0000,0000,,Ist schon okay.
+Dialogue: 0,0:11:08.56,0:11:11.85,Default,,0000,0000,0000,,Die sind bestimmt erleichtert,\Ndass ich weg bin.
+Dialogue: 0,0:11:12.42,0:11:16.86,Internal,,0000,0000,0000,,{\fad(0,425)}Red doch keinen Stuss …\NDu siehst alles andere als „okay“ aus …
+Dialogue: 0,0:11:17.72,0:11:19.95,Default,,0000,0000,0000,,Das kannst du gar nicht wissen.
+Dialogue: 0,0:11:21.46,0:11:22.41,Default,,0000,0000,0000,,Klar weiß ich das.
+Dialogue: 0,0:11:24.20,0:11:28.26,Default,,0000,0000,0000,,Wenn du weder nach Hause\Nnoch zur Schule willst,
+Dialogue: 0,0:11:28.26,0:11:30.52,Default,,0000,0000,0000,,wie willst du dich dann durchschlagen?
+Dialogue: 0,0:11:30.52,0:11:32.46,Default,,0000,0000,0000,,Ich werd mir was einfallen lassen,\Ndamit mich wer bei sich …
+Dialogue: 0,0:11:32.46,0:11:34.67,Default,,0000,0000,0000,,Und was stellst du dir da vor?
+Dialogue: 0,0:11:36.46,0:11:38.42,Default,,0000,0000,0000,,Versuch nicht, mich zu verarschen.
+Dialogue: 0,0:11:39.06,0:11:42.46,Default,,0000,0000,0000,,Keine Ahnung, wie’s bei den Kerlen war,\Nmit denen du bisher zu tun hattest,
+Dialogue: 0,0:11:42.46,0:11:45.64,Default,,0000,0000,0000,,aber ich bin nicht im Geringsten\Nan deinem Körper interessiert.
+Dialogue: 0,0:11:47.14,0:11:49.74,Default,,0000,0000,0000,,Was hast du vor,\Nwenn ich dich vor die Tür setze?
+Dialogue: 0,0:11:49.74,0:11:52.36,Default,,0000,0000,0000,,I-Ich werd mir irgendwie\N’ne neue Bleibe suchen.
+Dialogue: 0,0:11:52.36,0:11:55.23,Default,,0000,0000,0000,,Und wie würde das konkret aussehen?
+Dialogue: 0,0:11:56.98,0:11:58.64,Default,,0000,0000,0000,,Na ja …
+Dialogue: 0,0:12:02.00,0:12:05.02,Internal,,0000,0000,0000,,Warum nur willst du es nicht begreifen?
+Dialogue: 0,0:12:07.76,0:12:08.66,Default,,0000,0000,0000,,Geh arbeiten.
+Dialogue: 0,0:12:08.66,0:12:10.28,Default,,0000,0000,0000,,Wie …?
+Dialogue: 0,0:12:10.28,0:12:15.30,Default,,0000,0000,0000,,Wer die Schule schmeißt, geht arbeiten,\Num sich seinen Lebensunterhalt zu verdienen.
+Dialogue: 0,0:12:15.30,0:12:19.86,Default,,0000,0000,0000,,Aber allein ein Nebenjob reicht nicht\Nfür ’ne Wohnungsmiete.
+Dialogue: 0,0:12:19.86,0:12:21.38,Default,,0000,0000,0000,,Dann wohn hier.
+Dialogue: 0,0:12:21.38,0:12:22.67,Default,,0000,0000,0000,,Was?!
+Dialogue: 0,0:12:22.67,0:12:24.75,Default,,0000,0000,0000,,A-Aber …
+Dialogue: 0,0:12:25.59,0:12:30.14,Default,,0000,0000,0000,,„Kein Geld und keine Unterkunft,\Ndann schmeiß ich mich halt an ’nen Kerl ran!“
+Dialogue: 0,0:12:30.14,0:12:33.61,Default,,0000,0000,0000,,Solche hirnrissigen Flausen werd\Nich dir schon austreiben!
+Dialogue: 0,0:12:34.64,0:12:36.36,Default,,0000,0000,0000,,Nenn mich nicht ständig „bescheuert“ und so …
+Dialogue: 0,0:12:36.36,0:12:38.57,Default,,0000,0000,0000,,Das bist du aber!\NDir hat doch wer ins Gehirn geschissen!
+Dialogue: 0,0:12:38.57,0:12:41.77,Default,,0000,0000,0000,,Ein verwöhntes Gör,\Ndas nicht mal schnallt, was es hat.
+Dialogue: 0,0:12:44.57,0:12:46.53,Internal,,0000,0000,0000,,Warum nur?
+Dialogue: 0,0:12:46.53,0:12:49.90,Internal,,0000,0000,0000,,Warum konnte sie nicht\Nganz normal aufwachsen
+Dialogue: 0,0:12:49.90,0:12:55.30,Internal,,0000,0000,0000,,und ihre Jugend und die Liebe\Nwie jeder andere erleben?
+Dialogue: 0,0:12:57.04,0:12:59.50,Default,,0000,0000,0000,,Du übernimmst jetzt erst mal\Nden Haushalt hier.
+Dialogue: 0,0:12:59.50,0:13:02.13,Default,,0000,0000,0000,,Das wird vorerst dein Job sein.
+Dialogue: 0,0:13:02.13,0:13:07.02,Default,,0000,0000,0000,,Zuerst ist es das Wichtigste,\Neinen gemeinsamen Rhythmus zu finden, kapiert?
+Dialogue: 0,0:13:07.02,0:13:09.48,Default,,0000,0000,0000,,Du kannst nicht einfach tun und lassen,\Nwonach dir der Sinn steht.
+Dialogue: 0,0:13:11.34,0:13:15.66,Default,,0000,0000,0000,,Das klingt fast, als … würdest du mir erlauben,\Nfür immer hier zu bleiben …
+Dialogue: 0,0:13:15.66,0:13:17.51,Default,,0000,0000,0000,,Nicht für immer.
+Dialogue: 0,0:13:17.51,0:13:19.94,Default,,0000,0000,0000,,Sobald du’s satt hast, auszureißen,\Nverziehst du dich nach Hause.
+Dialogue: 0,0:13:21.32,0:13:22.65,Default,,0000,0000,0000,,Bis dahin darf ich bleiben?
+Dialogue: 0,0:13:23.78,0:13:25.49,Internal,,0000,0000,0000,,Leicht wäre es sicher nicht gewesen,
+Dialogue: 0,0:13:25.49,0:13:29.03,Internal,,0000,0000,0000,,aber es gäbe ungefährlichere Optionen,\Nals ’nem Kerl, von dem sie nichts will,
+Dialogue: 0,0:13:29.03,0:13:31.36,Internal,,0000,0000,0000,,schöne Augen zu machen,\Num sich bei dem einzunisten.
+Dialogue: 0,0:13:31.86,0:13:36.54,Internal,,0000,0000,0000,,Nur ist ihr dieses Konzept\Nlängst völlig fremd geworden …
+Dialogue: 0,0:13:36.54,0:13:40.18,Internal,,0000,0000,0000,,Außerdem wurde mir aus diesem\Nkurzen Gespräch schon deutlich,
+Dialogue: 0,0:13:40.18,0:13:42.63,Internal,,0000,0000,0000,,dass sie komplett verwöhnt ist.
+Dialogue: 0,0:13:42.63,0:13:47.55,Internal,,0000,0000,0000,,Wenn ich nicht aufpasse, was ich sage, quartiert die\Nsich hier am Ende tatsächlich jahrelang ein.
+Dialogue: 0,0:13:49.52,0:13:53.06,Default,,0000,0000,0000,,Bis wir dir deine verwöhnte Art\Nausgetrieben haben, kannst du bleiben.
+Dialogue: 0,0:13:54.57,0:13:55.93,Default,,0000,0000,0000,,Allerdings!
+Dialogue: 0,0:13:55.93,0:13:59.86,Default,,0000,0000,0000,,Fliegst du im hohen Bogen raus, wenn du\Ndich noch mal an mich ranschmeißt.
+Dialogue: 0,0:13:59.86,0:14:01.52,Default,,0000,0000,0000,,I-In Ordnung!
+Dialogue: 0,0:14:02.19,0:14:05.44,Internal,,0000,0000,0000,,Und so begann dieser kuriose Lebensabschnitt\Ndes 26-jährigen Büroangestellten
+Dialogue: 0,0:14:05.44,0:14:09.74,Internal,,0000,0000,0000,,und der ausgerissenen Oberschülerin,\Ndie mit ihm unter einem Dach wohnte.
+Dialogue: 0,0:14:09.74,0:14:11.70,Internal,,0000,0000,0000,,Doch in diesem Moment …
+Dialogue: 0,0:14:12.58,0:14:20.04,Internal,,0000,0000,0000,,unterschätzte ich noch schwer, wie anstrengend es ist,\Nmit einer Oberschülerin zusammenzuwohnen.
+Dialogue: 0,0:14:20.96,0:14:23.75,Default,,0000,0000,0000,,Was? Das ist danach noch passiert?!
+Dialogue: 0,0:14:23.75,0:14:26.85,Default,,0000,0000,0000,,Pssst! Nicht so laut!
+Dialogue: 0,0:14:26.85,0:14:29.36,Default,,0000,0000,0000,,Ähm, aber das kann doch nicht gutgehen …
+Dialogue: 0,0:14:29.36,0:14:31.26,Default,,0000,0000,0000,,Und sie ist auch sicher nicht\Nals vermisst gemeldet?
+Dialogue: 0,0:14:31.26,0:14:37.02,Default,,0000,0000,0000,,Hab online danach gesucht, aber keine\NSpur von einer Vermisstenmeldung.
+Dialogue: 0,0:14:37.02,0:14:40.90,Default,,0000,0000,0000,,Trotzdem, eine Oberschülerin aufzunehmen,\Ndie weiß Gott was zu so was getrieben hat …
+Dialogue: 0,0:14:40.90,0:14:44.48,Default,,0000,0000,0000,,Klingt bei reiferer Überlegung\Nschon nach ’ner miesen Idee …
+Dialogue: 0,0:14:48.40,0:14:52.32,Default,,0000,0000,0000,,Ob sie schon was gegessen hat?
+Dialogue: 0,0:14:53.62,0:14:57.20,Flashback,,0000,0000,0000,,Lass dich bloß nicht zu sehr auf sie ein.
+Dialogue: 0,0:14:57.87,0:15:01.17,Flashback,,0000,0000,0000,,Schick sie besser zurück zu ihren Eltern,\Nbevor es zu einem Problem wird.
+Dialogue: 0,0:15:01.17,0:15:04.46,Internal,,0000,0000,0000,,Das brauchst du mir nicht sagen …
+Dialogue: 0,0:15:04.46,0:15:05.63,Internal,,0000,0000,0000,,Aber …
+Dialogue: 0,0:15:06.14,0:15:09.26,Flashback,,0000,0000,0000,,Die sind bestimmt erleichtert,\Ndass ich weg bin.
+Dialogue: 0,0:15:10.47,0:15:15.47,Default,,0000,0000,0000,,Ein so junges Schulmädchen sollte nicht\Nso ein Gesicht machen müssen …
+Dialogue: 0,0:15:21.86,0:15:23.17,Default,,0000,0000,0000,,Miso-Suppe?
+Dialogue: 0,0:15:24.23,0:15:26.32,Default,,0000,0000,0000,,Willkommen daheim, Papi.
+Dialogue: 0,0:15:26.32,0:15:28.61,Default,,0000,0000,0000,,Lass das, da krieg ich’s Kotzen.
+Dialogue: 0,0:15:30.08,0:15:34.04,Default,,0000,0000,0000,,Ich bin leider erst zu ’ner\NMiso-Suppe gekommen …
+Dialogue: 0,0:15:35.72,0:15:38.50,Default,,0000,0000,0000,,Hab Bentos geholt. Nimmst sicher auch eins.
+Dialogue: 0,0:15:45.19,0:15:47.63,Internal,,0000,0000,0000,,Die hat sie gebügelt?
+Dialogue: 0,0:15:48.76,0:15:52.01,Internal,,0000,0000,0000,,Sie scheint ja doch nicht\Nganz unbeholfen zu sein …
+Dialogue: 0,0:16:00.31,0:16:02.22,Default,,0000,0000,0000,,Danke für die Mahlzeit.
+Dialogue: 0,0:16:04.54,0:16:06.24,Default,,0000,0000,0000,,Stimmt was nicht, Yoshida-san?
+Dialogue: 0,0:16:06.24,0:16:08.60,Default,,0000,0000,0000,,N-Ne, alles gut.
+Dialogue: 0,0:16:08.60,0:16:11.16,Default,,0000,0000,0000,,Wo ist eigentlich der Aschenbecher hin?
+Dialogue: 0,0:16:12.32,0:16:15.82,Default,,0000,0000,0000,,Entschuldige. Den hab ich mit\Ndem Geschirr zusammen gewaschen.
+Dialogue: 0,0:16:15.82,0:16:17.96,Default,,0000,0000,0000,,Na dann. Danke.
+Dialogue: 0,0:16:23.02,0:16:23.90,Default,,0000,0000,0000,,Was denn?
+Dialogue: 0,0:16:23.90,0:16:27.46,Default,,0000,0000,0000,,Warum gehst du raus auf den Balkon?\NKannst auch hier rauchen.
+Dialogue: 0,0:16:27.46,0:16:29.00,Default,,0000,0000,0000,,Na, weil du hier bist.
+Dialogue: 0,0:16:32.04,0:16:33.75,Default,,0000,0000,0000,,Du bist so nett …
+Dialogue: 0,0:16:33.75,0:16:35.12,Default,,0000,0000,0000,,Nett?
+Dialogue: 0,0:16:35.12,0:16:41.64,Default,,0000,0000,0000,,Na ja, die bisher haben sich immer eine\Nangesteckt und sich nicht um mich geschert …
+Dialogue: 0,0:16:41.64,0:16:47.94,Internal,,0000,0000,0000,,Warum nur muss sie all ihre Wertvorstellungen von\Nsolchen Versager-Erwachsenen eingetrichtert bekommen?
+Dialogue: 0,0:16:49.00,0:16:49.80,Default,,0000,0000,0000,,Sayu!
+Dialogue: 0,0:16:49.80,0:16:50.65,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:16:51.53,0:16:53.84,Default,,0000,0000,0000,,Lauscher auf: Ich bin nicht nett.
+Dialogue: 0,0:16:53.84,0:16:55.57,Default,,0000,0000,0000,,Die Typen waren Abschaum.
+Dialogue: 0,0:16:55.57,0:16:57.31,Default,,0000,0000,0000,,Das ist ein wichtiger Unterschied!
+Dialogue: 0,0:16:57.31,0:17:01.10,Default,,0000,0000,0000,,Lass dich nicht zu gewissen Dingen herab und\Nbeurteile alles anhand angemessener Maßstäbe!
+Dialogue: 0,0:17:01.10,0:17:02.84,Default,,0000,0000,0000,,O-Okay …
+Dialogue: 0,0:17:09.60,0:17:13.09,Internal,,0000,0000,0000,,Wenn ich sie so anschau, steigt bei mir\Nnur der Drang auf, mich um sie zu kümmern …
+Dialogue: 0,0:17:13.09,0:17:17.22,Internal,,0000,0000,0000,,Mir ist schleierhaft, wie einem\Ndarauf einer abgehen kann …
+Dialogue: 0,0:17:20.75,0:17:27.07,Internal,,0000,0000,0000,,Dass ihre Wertvorstellungen so kaputt sind,\Nhat zum Teil damit zu tun, dass sie so verwöhnt ist.
+Dialogue: 0,0:17:27.07,0:17:35.20,Internal,,0000,0000,0000,,Aber ich bin überzeugt, dass ihre Lebensumstände und\Ngewisse Erwachsene es nur noch verschlimmert haben.
+Dialogue: 0,0:17:35.20,0:17:36.95,Default,,0000,0000,0000,,Die Welt ist voller Arschlöcher.
+Dialogue: 0,0:17:36.95,0:17:40.27,Default,,0000,0000,0000,,Einer schlimmer als der andere …
+Dialogue: 0,0:17:40.27,0:17:44.91,Internal,,0000,0000,0000,,Mich eingeschlossen. Ich verwöhne sie weiter und\Ngebe ihr einen Ort, an den sie fliehen kann.
+Dialogue: 0,0:17:44.91,0:17:46.66,Internal,,0000,0000,0000,,Ist doch alles scheiße!
+Dialogue: 0,0:17:47.94,0:17:52.80,Default,,0000,0000,0000,,Und … was will ich überhaupt?
+Dialogue: 0,0:17:54.13,0:17:55.59,TypePlaceholder,type,0000,0000,0000,,{\pos(286.2,127)\fscx110\bord8\be1\shad0\fax0.58\c&HFEF8F7&\3c&H9D564F&\frz40.5\frx11\fry2}Alarm
+Dialogue: 0,0:17:59.30,0:18:00.39,TypePlaceholder,type,0000,0000,0000,,{\pos(286.2,127)\fad(0,100)\fscx110\bord8\be1\shad0\fax0.58\c&HFEF8F7&\3c&H9D564F&\frz40.5\frx11\fry2}Alarm
+Dialogue: 0,0:17:59.30,0:18:02.64,Default,,0000,0000,0000,,Sorry … Heute hab ich ja frei …\NHab meinen Wecker aktiviert gelassen.
+Dialogue: 0,0:18:02.64,0:18:04.93,Default,,0000,0000,0000,,Schon okay.
+Dialogue: 0,0:18:04.93,0:18:09.18,Default,,0000,0000,0000,,Wollte eh früh aufstehen\Nund Wäsche waschen und so.
+Dialogue: 0,0:18:10.86,0:18:13.32,Default,,0000,0000,0000,,Autsch …
+Dialogue: 0,0:18:15.78,0:18:19.11,sign_Handy,type,0000,0000,0000,,{=3}{\an7\pos(228.5,123.8)\fs11\fscx94\fscy99\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&\b1}Verdächtiger verhaftet im Entführungs-Fall\Neiner Oberschülerin\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:18:15.78,0:18:19.11,sign_Handy,type,0000,0000,0000,,{=2}{\an7\pos(229,169)\fs11\fscx98.5\fscy98.5\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&}\h\h\h\h\h\h\h\h\h\h\h\h\h\hDie städtische Polizei hat einen in\NMusashino wohnhaften, arbeitslosen Mann\Nverhaftet, der verdächtigt wird, eine minder-\Njährige, ebenfalls in Musashino ansässige\NSchülerin (17) im zweiten Oberschul-Jahr\Nentführt zu haben.
+Dialogue: 1,0:18:17.22,0:18:19.71,Default,,0000,0000,0000,,Dürfte ich kurz?
+Dialogue: 0,0:18:19.11,0:18:19.16,sign_Handy,type,0000,0000,0000,,{=3}{\an7\pos(228.5,144.38)\fs11\fscx94\fscy99\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&\b1}Verdächtiger verhaftet im Entführungs-Fall\Neiner Oberschülerin\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:18:19.11,0:18:19.16,sign_Handy,type,0000,0000,0000,,{=2}{\an7\pos(229.,189.58)\fs11\fscx98.5\fscy98.5\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&}\h\h\h\h\h\h\h\h\h\h\h\h\h\hDie städtische Polizei hat einen in\NMusashino wohnhaften, arbeitslosen Mann\Nverhaftet, der verdächtigt wird, eine minder-\Njährige, ebenfalls in Musashino ansässige\NSchülerin (17) im zweiten Oberschul-Jahr\Nentführt zu haben.
+Dialogue: 0,0:18:19.16,0:18:19.20,sign_Handy,type,0000,0000,0000,,{=3}{\an7\pos(228.5,144.38)\fs11\fscx94\fscy99\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&\b1}Verdächtiger verhaftet im Entführungs-Fall\Neiner Oberschülerin\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:18:19.16,0:18:19.20,sign_Handy,type,0000,0000,0000,,{=2}{\an7\pos(229,189.58)\fs11\fscx98.5\fscy98.5\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&}\h\h\h\h\h\h\h\h\h\h\h\h\h\hDie städtische Polizei hat einen in\NMusashino wohnhaften, arbeitslosen Mann\Nverhaftet, der verdächtigt wird, eine minder-\Njährige, ebenfalls in Musashino ansässige\NSchülerin (17) im zweiten Oberschul-Jahr\Nentführt zu haben.
+Dialogue: 0,0:18:19.20,0:18:19.24,sign_Handy,type,0000,0000,0000,,{=3}{\an7\pos(228.5,208.38)\fs11\fscx94\fscy99\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&\b1}Verdächtiger verhaftet im Entführungs-Fall\Neiner Oberschülerin\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:18:19.20,0:18:19.24,sign_Handy,type,0000,0000,0000,,{=2}{\an7\pos(229,253.58)\fs11\fscx98.5\fscy98.5\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&}\h\h\h\h\h\h\h\h\h\h\h\h\h\hDie städtische Polizei hat einen in\NMusashino wohnhaften, arbeitslosen Mann\Nverhaftet, der verdächtigt wird, eine minder-\Njährige, ebenfalls in Musashino ansässige\NSchülerin (17) im zweiten Oberschul-Jahr\Nentführt zu haben.
+Dialogue: 0,0:18:19.24,0:18:19.28,sign_Handy,type,0000,0000,0000,,{=3}{\an7\pos(228.5,208.38)\fs11\fscx94\fscy99\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&\b1}Verdächtiger verhaftet im Entführungs-Fall\Neiner Oberschülerin\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:18:19.24,0:18:19.28,sign_Handy,type,0000,0000,0000,,{=2}{\an7\pos(229,253.58)\fs11\fscx98.5\fscy98.5\shad0\fnArial\bord1\c&H19191B&\3c&HF9FDFA&}\h\h\h\h\h\h\h\h\h\h\h\h\h\hDie städtische Polizei hat einen in\NMusashino wohnhaften, arbeitslosen Mann\Nverhaftet, der verdächtigt wird, eine minder-\Njährige, ebenfalls in Musashino ansässige\NSchülerin (17) im zweiten Oberschul-Jahr\Nentführt zu haben.
+Dialogue: 0,0:18:22.62,0:18:24.37,Default,,0000,0000,0000,,Streck mir dein Höschen\Ndoch noch mehr ins Gesicht.
+Dialogue: 0,0:18:24.37,0:18:27.09,Default,,0000,0000,0000,,Was soll ich machen?\NIch trag halt ’nen Rock …
+Dialogue: 0,0:18:27.09,0:18:30.29,Default,,0000,0000,0000,,Stimmt, du trägst ja die\Nganze Zeit deine Schuluniform …
+Dialogue: 0,0:18:30.29,0:18:32.14,Default,,0000,0000,0000,,Ich hab nur die mit.
+Dialogue: 0,0:18:32.14,0:18:35.05,Default,,0000,0000,0000,,Gewaschen hab ich sie, ist also nicht dreckig.
+Dialogue: 0,0:18:35.05,0:18:40.05,Default,,0000,0000,0000,,In der Wohnung in der rumzulaufen,\Nist trotzdem irgendwie komisch …
+Dialogue: 0,0:18:41.53,0:18:44.43,Default,,0000,0000,0000,,Das ist wirklich nicht nötig.\NGehen wir wieder, Yoshida-san.
+Dialogue: 0,0:18:44.43,0:18:47.64,Default,,0000,0000,0000,,Von wegen nicht nötig …\NKeine falsche Zurückhaltung.
+Dialogue: 0,0:18:47.64,0:18:49.39,Default,,0000,0000,0000,,Meintest doch,\Ndu hättest nur deine Uniform mit.
+Dialogue: 0,0:18:50.73,0:18:52.98,Default,,0000,0000,0000,,Darum gehst du jetzt Klamotten shoppen.
+Dialogue: 0,0:18:52.98,0:18:55.61,Default,,0000,0000,0000,,Und ich besorg mir ’nen neuen Futon.
+Dialogue: 0,0:18:56.16,0:18:59.62,Default,,0000,0000,0000,,Mir ist dein „Autsch“ jeden Morgen und wie\Ndu deinen Rücken dabei reibst schon aufgefallen.
+Dialogue: 0,0:18:59.62,0:19:02.38,Default,,0000,0000,0000,,Was?! Das hab ich getan?!
+Dialogue: 0,0:19:02.38,0:19:04.07,Default,,0000,0000,0000,,Aber so was von.
+Dialogue: 0,0:19:05.53,0:19:06.62,Default,,0000,0000,0000,,Aber …
+Dialogue: 0,0:19:07.79,0:19:08.87,Default,,0000,0000,0000,,Aber die Sache ist …
+Dialogue: 0,0:19:08.87,0:19:10.39,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:19:10.39,0:19:15.29,Default,,0000,0000,0000,,Ich weiß nicht, wie ich mich je für all das,\Nwas du für mich tust, revanchieren soll …
+Dialogue: 0,0:19:15.29,0:19:16.13,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:19:18.08,0:19:20.80,Internal,,0000,0000,0000,,Da liegt also der Hund begraben …
+Dialogue: 0,0:19:20.80,0:19:23.07,Internal,,0000,0000,0000,,Das hat nichts mit Zurückhaltung zu tun.
+Dialogue: 0,0:19:23.07,0:19:25.85,Internal,,0000,0000,0000,,Sie will nichts annehmen,\Nwas sie nicht zurückzahlen kann.
+Dialogue: 0,0:19:25.86,0:19:29.30,Internal,,0000,0000,0000,,Wie kommt’s so weit,\Ndass so eine Göre so denkt?
+Dialogue: 0,0:19:31.01,0:19:33.27,Default,,0000,0000,0000,,Ich hab ziemlich viel zu tun.
+Dialogue: 0,0:19:33.27,0:19:36.95,Default,,0000,0000,0000,,Daher hab ich kaum Zeit für alles,\Nwas in der Wohnung so anfällt.
+Dialogue: 0,0:19:36.95,0:19:40.03,Default,,0000,0000,0000,,Aber im Moment übernimmst du das alles.
+Dialogue: 0,0:19:40.03,0:19:44.49,Default,,0000,0000,0000,,Diese Woche durch hab ich daheim\Nweit entspannter gelebt als sonst.
+Dialogue: 0,0:19:46.16,0:19:47.95,Default,,0000,0000,0000,,Reicht das denn nicht?
+Dialogue: 0,0:19:50.88,0:19:54.67,Default,,0000,0000,0000,,Wenn es dir nichts ausmacht,\Nsoll es mir recht sein …
+Dialogue: 0,0:19:56.17,0:19:58.63,Default,,0000,0000,0000,,Dann hätten wir das geklärt.
+Dialogue: 0,0:20:00.85,0:20:02.09,Default,,0000,0000,0000,,So schön kuschlig!
+Dialogue: 0,0:20:02.81,0:20:04.43,Default,,0000,0000,0000,,Der Futon macht’s gleich angenehmer, oder?
+Dialogue: 0,0:20:04.99,0:20:06.04,Default,,0000,0000,0000,,Mhm!
+Dialogue: 0,0:20:06.04,0:20:07.90,Default,,0000,0000,0000,,Heute Nacht werd ich schlafen wie ein Stein!
+Dialogue: 0,0:20:11.13,0:20:12.47,Default,,0000,0000,0000,,Yoshida-san.
+Dialogue: 0,0:20:12.47,0:20:13.15,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:14.02,0:20:15.27,Default,,0000,0000,0000,,Magst mit mir schlafen?
+Dialogue: 0,0:20:16.70,0:20:17.84,Default,,0000,0000,0000,,Hab ich dir nicht gesagt,
+Dialogue: 0,0:20:17.84,0:20:21.15,Default,,0000,0000,0000,,dass du bei der nächsten derartigen Aktion\Nim hohen Bogen rausfliegst?!
+Dialogue: 0,0:20:21.15,0:20:24.75,Default,,0000,0000,0000,,Ich hab doch von gar nichts\NVersautem geredet …
+Dialogue: 0,0:20:29.13,0:20:31.08,Default,,0000,0000,0000,,Du Perversling, Yoshida-san!
+Dialogue: 0,0:20:34.21,0:20:35.33,Default,,0000,0000,0000,,Weißt du …
+Dialogue: 0,0:20:35.33,0:20:36.60,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:36.60,0:20:38.42,Default,,0000,0000,0000,,Du bist süßer, wenn du lachst.
+Dialogue: 0,0:20:42.30,0:20:45.32,Default,,0000,0000,0000,,W-Was baggerst du mich jetzt an?
+Dialogue: 0,0:20:45.32,0:20:46.84,Default,,0000,0000,0000,,Noch mal: Du bist nicht mein Typ!
+Dialogue: 0,0:20:50.06,0:20:51.52,Default,,0000,0000,0000,,Yoshida-san …
+Dialogue: 0,0:20:51.52,0:20:52.43,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:53.98,0:20:55.14,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:20:56.78,0:20:57.52,Default,,0000,0000,0000,,Gern.
+Dialogue: 0,0:20:58.97,0:21:01.86,Default,,0000,0000,0000,,Es machen Gerüchte die Runde,\Ndu hättest ’ne Freundin.
+Dialogue: 0,0:21:01.86,0:21:03.82,Default,,0000,0000,0000,,Was? Wo kommt das denn her?
+Dialogue: 0,0:21:03.82,0:21:06.61,Default,,0000,0000,0000,,Du haust jeden Tag pünktlich\Nzu Feierabend ab.
+Dialogue: 0,0:21:06.61,0:21:10.06,Default,,0000,0000,0000,,Deine Hemden sind nicht mehr zerknittert\Nund du wirkst herausgeputzter.
+Dialogue: 0,0:21:10.06,0:21:12.18,Default,,0000,0000,0000,,Obendrein hast du Farbe\Nim Gesicht bekommen
+Dialogue: 0,0:21:12.18,0:21:16.09,Default,,0000,0000,0000,,und stellst dich bei der Arbeit besser an,\Nwie man hört.
+Dialogue: 0,0:21:16.09,0:21:18.00,Default,,0000,0000,0000,,Zumindest laut den weiblichen Kolleginnen.
+Dialogue: 0,0:21:18.00,0:21:20.55,Default,,0000,0000,0000,,Ähm … Was zum Geier …?
+Dialogue: 0,0:21:23.02,0:21:25.43,Default,,0000,0000,0000,,Und in Wahrheit ist es ’ne Oberschülerin …
+Dialogue: 0,0:21:28.38,0:21:30.05,Default,,0000,0000,0000,,Ist es wohl …
+Dialogue: 0,0:21:30.05,0:21:33.64,Default,,0000,0000,0000,,Ein Mädchen, das von zu Hause ausbüxt,\Nwürde man sich verantwortungsloser vorstellen …
+Dialogue: 0,0:21:33.64,0:21:35.89,Default,,0000,0000,0000,,Sie scheint erstaunlich verlässlich zu sein.
+Dialogue: 0,0:21:35.89,0:21:40.48,Default,,0000,0000,0000,,{\fad(0,1400)}Mhm, da hast du wohl recht …
+Dialogue: 0,0:21:41.41,0:21:42.73,Internal,,0000,0000,0000,,Stimmt schon,
+Dialogue: 0,0:21:42.73,0:21:46.51,Internal,,0000,0000,0000,,sie ist körperlich nicht mein Typ …
+Dialogue: 0,0:21:46.51,0:21:49.25,Internal,,0000,0000,0000,,Aber sie wäre schon ein ziemlicher Fang.
+Dialogue: 0,0:21:49.25,0:21:52.04,Internal,,0000,0000,0000,,Den Haushalt kann sie schmeißen\Nund umgänglich ist sie auch.
+Dialogue: 0,0:21:52.66,0:21:54.54,Internal,,0000,0000,0000,,Warum also von zu Hause wegrennen?
+Dialogue: 0,0:21:55.46,0:21:59.10,Internal,,0000,0000,0000,,Und dann auch noch den weiten Weg\Nbis nach Tokyo auf sich nehmen …
+Dialogue: 0,0:22:10.15,0:22:11.84,Default,,0000,0000,0000,,Yoshida-san, dein Bart.
+Dialogue: 0,0:22:11.84,0:22:12.39,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:22:12.39,0:22:14.58,Default,,0000,0000,0000,,Willst du den nicht abrasieren?
+Dialogue: 0,0:22:16.06,0:22:18.28,Default,,0000,0000,0000,,Spar ich mir heute, keinen Bock.
+Dialogue: 0,0:22:18.28,0:22:20.61,Default,,0000,0000,0000,,An manchen Tagen rasierst du ihn ab,\Nan anderen nicht …
+Dialogue: 0,0:22:20.61,0:22:22.75,Default,,0000,0000,0000,,Hat das irgendeine besondere Bedeutung?
+Dialogue: 0,0:22:22.75,0:22:25.45,Default,,0000,0000,0000,,Nö, ich rasier ihn einfach ab,\Nwenn er zu lang wird.
+Dialogue: 0,0:22:25.45,0:22:28.65,Default,,0000,0000,0000,,Dann ist das noch nicht zu lang für dich?
+Dialogue: 0,0:22:28.65,0:22:31.30,Default,,0000,0000,0000,,Hmm … Vielleicht doch besser weg damit …
+Dialogue: 0,0:22:31.30,0:22:32.66,Default,,0000,0000,0000,,Was denn jetzt?
+Dialogue: 0,0:22:33.28,0:22:37.76,Default,,0000,0000,0000,,Irgendwie … fühl ich mich alt damit …
+Dialogue: 0,0:22:37.76,0:22:38.66,Default,,0000,0000,0000,,Warum das?
+Dialogue: 0,0:22:38.66,0:22:45.58,Default,,0000,0000,0000,,Als ich gerade 20 wurde, hat’s mich gestört und ich hab\Nihn abrasiert, sobald er auch nur minimal zu sehen war.
+Dialogue: 0,0:22:45.58,0:22:48.67,Default,,0000,0000,0000,,Und zwar übergründlich,\Nbloß keinen Stoppel übersehen …
+Dialogue: 0,0:22:48.67,0:22:54.08,Default,,0000,0000,0000,,Ein Bart ist sozusagen {\i1}das{\i0} Zeichen,\Ndass man alt wird.
+Dialogue: 0,0:22:54.08,0:22:55.64,Default,,0000,0000,0000,,Aber ich finde, das trifft es nicht ganz.
+Dialogue: 0,0:22:56.13,0:22:57.25,Default,,0000,0000,0000,,Nicht?
+Dialogue: 0,0:22:59.56,0:23:03.82,Default,,0000,0000,0000,,Alt wird man, wenn man sich nicht\Nmehr die Mühe macht, sich zu rasieren.
+Dialogue: 0,0:23:06.73,0:23:08.02,Default,,0000,0000,0000,,Yoshida-san.
+Dialogue: 0,0:23:08.02,0:23:08.78,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:23:08.78,0:23:11.61,Default,,0000,0000,0000,,Der Bart steht dir nicht besonders.
+Dialogue: 0,0:23:11.61,0:23:12.91,Default,,0000,0000,0000,,Das ist nicht dein Bier.
+Dialogue: 0,0:23:13.87,0:23:15.37,Default,,0000,0000,0000,,Yoshida-san,
+Dialogue: 0,0:23:15.37,0:23:17.83,Default,,0000,0000,0000,,du kommst noch zu spät zur Arbeit.
+Dialogue: 0,0:23:17.83,0:23:20.21,Default,,0000,0000,0000,,Ja, ja, ich weiß.
+Dialogue: 0,0:23:23.72,0:23:26.05,Default,,0000,0000,0000,,Ich glaub, ich rasier ihn doch ab.
+Dialogue: 0,0:23:26.05,0:23:30.04,Type_Logo,title_logo,0000,0000,0000,,{\pos(99.5,6.5)\fad(0,1650)\be12}After Being Rejected,
+Dialogue: 0,0:23:26.05,0:23:30.04,Type_Logo,title_logo,0000,0000,0000,,{\pos(102,118.5)\fad(0,1650)\be12}I Shaved and
+Dialogue: 0,0:23:26.05,0:23:30.04,Type_Logo,title_logo,0000,0000,0000,,{\pos(100,220.5)\fad(0,1650)\be12}Took in a High School Runaway
+Dialogue: 0,0:23:30.19,0:23:35.05,Type_Epititel,title,0000,0000,0000,,{\pos(74.3,51)\fad(150,0)\bord0.1\c&HF1F2F8&\3c&HD9DFEB&\4c&HCFD5DD&\t(0,480,\c&HE8F3F8&\3c&H3F6CAA&\4c&H525760&)}Nächstes Mal
+Dialogue: 0,0:23:30.19,0:23:35.05,Type_Epititel,title,0000,0000,0000,,{\pos(540,271)\fad(150,0)\fs+3\bord0.1\be0.5\c&HF5F6F3&\3c&HF5F6F3&\4c&HCFD5DD&\t(0,480,\c&HF4FDFE&\3c&H4F5356&\4c&H797979&)}Handy
+Dialogue: 0,0:23:35.05,0:23:40.49,Type_Epititel,type,0000,0000,0000,,{\pos(510.2,283.9)\shad0\fs18.5\bord2.8\fnVerdana Bold\c&HEE3EEE&\3c&HBD36DF&\4c&HAD27DB&\4a&H00&}Schaut wieder rein
+Dialogue: 1,0:23:35.05,0:23:40.49,Type_Epititel,type,0000,0000,0000,,{\pos(509.3,284)\shad0\fs18.5\bord1.4\fnVerdana Bold\c&HEC40E3&\3c&HFFFEFD&\4c&HBD36DF&\4a&H00&}Schaut wieder rein
